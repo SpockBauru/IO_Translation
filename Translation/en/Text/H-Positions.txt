@@ -1,0 +1,33 @@
+//============================== H Positions ==============================
+
+
+//============================== Free Mode Menu ==============================
+体位変更=Change  Position
+
+//Neko Positions
+音瑚フリーエッチ　特殊プレイ=Neko Free Sex Special Play
+
+正常位\r\n抑えつけバック/バック\r\nイラマ/フェラ/69\r\n馬乗りパイズリ/パイズリ\r\n立ちアナル\r\n騎乗位\r\n座位/背面座位\r\n手コキ/四つん這い手コキ\r\n挟み足コキ/ホールド足コキ=Normal position\r\nHold back/back\r\nDeepthroat/Blowjob/69\r\nBreast Riding/Boobjob\r\nAnal\r\nCowgirl\r\nSeat/Back Seat\r\nHand Job/Hand Job on All Fours\r\nPinch Foot Job/Hold Foot Job
+
+前戯=Foreplay
+
+[酔い]正常位\r\n[酔い]バック\r\n[酔い]立ちアナル\r\n[酔い]騎乗位\r\n[酔い]背面座位\r=[Drunk] Normal Position \r\n[Drunk] Back\r\n[Drunk] Standing Anal\r\n[Drunk] Cowgirl\r\n[Drunk] Back Seat\r
+
+拘束調教\n失神姦\nリードイラマ\nドリンクプレイ\n睡眠姦=Restraint Training\r\nFainting Fuck\r\nCollar Blowjob\r\nDrink Play\r\nSleeping Fuck
+
+拘束姦\n放尿\n裏路地Ｈ\n泥酔姦=Bondage Fuck\r\nUrination\r\nAlley Fuck\r\nDirty Fuck
+
+//Tomoe Positions
+兎萌フリーエッチ　特殊プレイ=Tomoe Free Sex Special Play
+
+3P/Wフェラ\r\n3P/騎乗位\r\n3P/重なり3P\r\nショタ輪姦/立位＆脇コキ\r\nショタ輪姦/二穴バック､イラマ\r\nショタ輪姦/座位､パイズリ､イラマ=3P: W-Blowjob\r\n3P: Cowgirl\r\n3P: Overlap\r\nShota: Standing, side job\r\nShota: Two-holes, Blowjob\r\nShota: Sitting, Boobjob, Blowjob
+
+音瑚Lv2 兎萌Lv1=Neko Lv2 Tomoe Lv1
+
+//Botton Buttons
+音瑚カスタムへ=To Neko Editor
+兎萌カスタムへ=To Tomoe Editor
+
+
+
+
