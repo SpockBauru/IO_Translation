@@ -18,6 +18,7 @@
 
 //Free Mode
 ※ランダムでエッチシーンへ移動します。\r\nシーンの変更は「サイドメニュー」の体位変更から選択可能です。=※ Go to a random sex scene.\r\nYou can change the scene by selecting "Change Position" from the "Side Menu".
+ランダムでシーンへ移行します。\n移行後はミニメニューから好きな体位へ\n素早く移動することができます。=※ Go to a random sex scene.\r\nYou can change the scene by selecting "Change Position" from the "Side Menu".
 
 //Return to title screen
 タイトル画面へ戻りますか？=Do you want to return to the title screen?
@@ -48,21 +49,19 @@
 ▼フリーエッチ音瑚=▼ Neko Free Sex
 ▼特殊プレイ音瑚=▼ Neko Special Play
 
-正常位=Missionary
-バック=Back
-パイズリ=Boobjob
-立ちアナル=Standing Anal
-騎乗位=Cowgirl
-背面座位=Back Sitting
-四つん這い手コキ=All Fours Handjob
-ホールド足コキ=Hold Foot Job
 前戯：音瑚=Foreplay: Neko
 カスタム：音瑚=Custom: Neko
 音瑚レベル=Neko Level
 ステータス：通常=Status: Normal
+ステータス：失神=Status: Fainted
+ステータス：泥酔=Status: Drunk
+ステータス：睡眠=Status: Sleep
 
 ▼フリーエッチ兎萌=▼ Tomoe Free Sex
 ▼特殊プレイ兎萌=▼ Tomoe Special Play
+輪/立位＆脇コキ=Orgy: Standing & Side Job
+輪/二穴バック,イラマ=Orgy: Two-holes, Blowjob
+輪/座位,パイズリ,イラマ=Orgy: Sitting, Boobjob, Blowjob
 前戯：兎萌=Foreplay:Tomoe
 カスタム：兎萌\r=Custom:Tomoe\r
 兎萌レベル=Tomoe Level
@@ -102,7 +101,7 @@
 兎萌Lv2＞3\r\nレベル移行劇=Tomoe Lv2>3\r\nLevel Transition Scene
 兎萌Lv0 END\r\nBADEND=Tomoe Lv0 END\r\nBadend
 兎萌Lv1 END\r\nアナタさようなら=Tomoe Lv1 End\r\nGood-bye to you
-兎萌Lv2 END\r\n肉食兎の年下狩り=Tomoe Lv2 End\r\nRabbit hunt for young meat
+兎萌Lv2 END\r\n肉食兎の年下狩り=Tomoe Lv2 END\r\nRabbit hunt for young meat
 兎萌Lv3 END\r\nチンポ当てゲーム=Tomoe Lv3 END\R\nGuess the dick game
 
 

@@ -1,0 +1,12 @@
+//============================== Right Side Bar ==============================
+
+//Note: Some settings are in "SettingsMenu.txt"
+
+背景の描画設定=Background
+遮断物設定=Cut-off Obj.
+男の表示【一括】=Show Man (All)
+男性器の表示【一括】=Show Penis [All]
+精液クリア=Clear Semen
+蝋燭/鞭痕\nクリア=Clear Candle\\\nWhip marks
+キーパッド=Keypad
+断面表示=Cross Section

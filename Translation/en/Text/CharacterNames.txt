@@ -1,5 +1,5 @@
 音瑚=Neko
 兎萌=Tomoe
-ショタA=Shota A
-ショタB=Shota B
-ショタC=Shota C
+主人公=Hero
+ショタ=Shota
+r:^ショタ([A-Z])$=Shota $1

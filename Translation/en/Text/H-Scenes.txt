@@ -1,0 +1,122 @@
+//============================== H-Scenes ==============================
+
+//Botton right Buttons
+ゆっくり挿入する=Insert Slowly
+一気に挿入する=Insert at Once
+話し掛ける=Talk
+はじめる=Begin
+
+//Keypad Common Settings
+\n裏ボイス\nOFF=\nInner Voice\nOFF
+\n裏ボイス\nON=\nInner Voice\nON
+スピード\nダウン=Speed\nDown
+スピード\nアップ=Speed\nUP
+もどる=Return
+\nフィニッシュ=\nFinish
+\n体勢の\n変更=\nPosition
+\n絶頂=\nClimax
+\n口に出す=\nPut in Mouth
+
+//Display
+\n表示変更=\nDisplay Options
+
+\n全裸\n全着=\nNaked
+\nトップス\n着脱=\nTop\n
+\nボトムス\n着脱=\nBottom\n
+\nブラ着脱\n=\nBra\n
+\nパンツ\n着脱=\nPants
+パンスト\n網タイツ\n着脱=Pantyhose\n/Fishnet
+\n靴下着脱=\nSocks
+\n靴着脱=\nShoes
+\nメガネ\n着脱=\nGlasses
+\n耳着脱=\nEars
+尻尾着脱=Tail
+
+//Items
+\nアイテム\nその他=\nItems and Others
+
+\n破瓜=\nDeflower
+\n涙=\nTears
+\nバイブ=\nVibrator
+\n首輪=\nCollar
+\nクリ\nパーツ=\nClitoris
+\n乳首\nパーツ=\nNipples
+\n目隠し\n=\nBlindfold\n
+\nギャグボ=\nGag
+
+//Camera
+\nカメラ=\nCamera
+\n男目線\nカメラ=\nPOV
+\n股間注視=\nCrotch
+\n胸注視=\nChest
+\n顔注視=\nFace
+任意\nカメラ③\n記録無し=Optional Camera (3) No record
+任意\nカメラ②\n記録無し=Optional Camera (2) No record
+任意\nカメラ①\n記録無し=Optional Camera (1) No record
+カメラ\nフリー操作\n＋ｵｰﾄ回転=Free Camera + Auto Rotation
+カメラ\nフリー操作=Free Camera
+カメラ\nランダム\nアングル=Random Camera Angle
+カメラ\nエフェクト\nフレーム=Camera Effect Frame
+
+//Recording Window (F5)
+最大5件（名前順）=Up to 5 items (By name)
+
+//Color Menu (F6)
+ルームカラー変更=Change room color
+
+//Character Position Menu (F7)
+キャラクター位置変更=Change character position
+リセット=Reset
+
+
+//==============================Keypad Positions==============================
+//Sex Positions
+r:^\n特殊([Ａ-Ｚ０-９]{1,2})$=\nSpecial $1
+r:^\nぶっかけ\n([Ａ-Ｚ０-９]{1,2})$=\nSplashing on $1
+r:^\nピストン\n([Ａ-Ｚ０-９]{1,2})$=\nPiston $1
+r:^\nイラマ\n([Ａ-Ｚ０-９]{1,2})$=\nDeepthroat\n$1
+
+//Foreplay
+\n胸=\nChest
+\n股間=\nCrotch
+アナル=Anus
+\n手を\n止める=\nStop
+
+r:^\n乳首摘み\n([Ａ-Ｚ０-９]{1,2})$=\nNipple Picking $1
+r:^\n胸揉み\n([Ａ-Ｚ０-９]{1,2})$=\nGrab Breast $1
+r:^相互\nオナニー\n([Ａ-Ｚ０-９]{1,2})$=Mutual Masturbation $1
+r:^\nマンズリ\n([Ａ-Ｚ０-９]{1,2})$=\nRubbing $1
+r:^\nクンニ\n([Ａ-Ｚ０-９]{1,2})$=\nCunnilingus $1
+r:^\n手マン\n([Ａ-Ｚ０-９]{1,2})$=\nHandjob $1
+r:^\nアナル\n愛撫([Ａ-Ｚ０-９]{1,2})$=Anal Caress $1
+
+//Finalizations
+\n起こして\n続ける=\nContinue Awake
+\n無理やり\n続ける=\nContinue Forcing
+\nそのまま\n続ける=\nKeep Going
+
+\n付着精液\n=\nSemen Amount
+
+r:^\n([Ａ-Ｚ])フィニ$=\nEnd $1
+\nチンコを\n引き抜く=\nPull out
+
+\n中出し\nする=\nCum Inside
+\n腹に\nぶっかけ=\nCum on Belly
+\n胸に\nぶっかけ=\nCum on Chest
+\n顔に\nぶっかけ=\nCun in the Face
+\n背中に\nぶっかけ=\nCum in the Back
+\n尻に\nぶっかけ=\nCun on Butt
+\n太ももに\nぶっかけ=\nCum on Thighs
+\n手に\nぶっかけ=\nCum on Hand
+
+//Foraplay Finalizations
+\nマンズリ\n絶頂=\nRubbing
+\nオナニー\n絶頂=\nMasturbation
+\nアナル\n絶頂=\nAnal
+\nクンニ\n絶頂=\nCunnilingus
+\n手マン\n絶頂=\nHandjob
+
+
+
+
+

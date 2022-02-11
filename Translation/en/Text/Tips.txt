@@ -17,3 +17,8 @@ Ctrl+Alt+テンキー4～5 同時押しで画面をそのままカメラに設�
 フルキー「8」　断面図の表示/非表示=Full key [8] Show/hide cross-section
 フルキー「2」　男性器の表示が切り替わります=Full key "2" Switches the display of the male genitalia
 カスタムデータは「CustomData」フォルダ内にあります。\n4つ以上残したいときは予備としてフォルダ外に保存することをお勧めします。=Your custom data is located in the "CustomData" folder.\nIf you want to keep more than four, it is recommended to save them outside the folder as a backup.
+動作が重いときは環境設定で「Performance」にし、影とエフェクト系をoff、鏡を非表示にするとかなり軽くなります=If the game is too heavy, set the preferences to "Performance," turn off shadows and effects, and hide the mirror to make it much lighter.
+フルキー「1」　男の表示が切り替わります=Full key "1" Switches the man's display
+Ｆ２キーでショートカットキーの一覧を確認する事ができます。=You can check the list of shortcut keys by pressing F2.
+Ｆ２キーでショートカットキーの一覧を確認する事ができます=You can check the list of shortcut keys by pressing F2.
+

@@ -11,12 +11,12 @@
 環境設定のすべて項目を初期化します=Reset all preferences to default
 
 //=============== Graphic Settings 1 ================
-スクリーンモード=Screen mode
+スクリーンモード=Screen Mode
 画面表示サイズを変更します=Change screen display size
 ウィンドウ=Windowed
 フルスクリーン=Full Screen
 
-クオリティ設定=Quality preset
+クオリティ設定=Quality Preset
 クオリティ設定を変更します=Change quality preset
 
 影の表示=Show Shadows
@@ -67,7 +67,7 @@ FOV(視野角)=FOV (Field of view angle)
 天井=Ceiling
 
 男の表示=Man Display
-主人公の表示を変更します=Change the display of the main character
+主人公の表示を変更します=Change the display of the Hero
 表示=Show
 ゴースト=Ghost
 シルエット=Silhouette
@@ -76,13 +76,13 @@ FOV(視野角)=FOV (Field of view angle)
 男性器の表示=Male Genitalia
 男性器の表示を変更します=Change the display of male genitalia
 
-主人公の服装=Main Character Clothes
-主人公の服装を変更します=Change the Main Character Clothes
+主人公の服装=Hero Clothes
+主人公の服装を変更します=Change the Hero Clothes
 着衣=Clothed
 裸=Naked
 
-主人公の体型=Main Character's Body Type
-主人公の体型を変更します=Change the body type of the main character.
+主人公の体型=Hero's Body
+主人公の体型を変更します=Change the body type of the Hero.
 細い=Thin
 太い=Fat
 
@@ -174,7 +174,38 @@ FOV(視野角)=FOV (Field of view angle)
 ウィンドウ透過率=Window Transparency
 メッセージウィンドウの透過率を変更します=Changes the transparency of the message window
 
-テキスト表示スピードサンプルです\nメッセージ表示テスト=This is a sample of text display speed.
+テキスト表示スピードサンプルです\nメッセージ表示テスト=Sample of text display speed
+
+//Partial sample workaround
+テキスト表示スピードサンプルです\nメッセージ表示テス=Sample of text display speed
+テキスト表示スピードサンプルです\nメッセージ表示テ=Sample of text display spee
+テキスト表示スピードサンプルです\nメッセージ表示=Sample of text display spe
+テキスト表示スピードサンプルです\nメッセージ表=Sample of text display sp
+テキスト表示スピードサンプルです\nメッセージ=Sample of text display s
+テキスト表示スピードサンプルです\nメッセー=Sample of text display 
+テキスト表示スピードサンプルです\nメッセ=Sample of text display
+テキスト表示スピードサンプルです\nメッ=Sample of text displa
+テキスト表示スピードサンプルです\nメ=Sample of text displ
+テキスト表示スピードサンプルです\n=Sample of text disp
+テキスト表示スピードサンプルです=Sample of text dis
+テキスト表示スピードサンプルで=Sample of text di
+テキスト表示スピードサンプル=Sample of text d
+テキスト表示スピードサンプ=Sample of text 
+テキスト表示スピードサン=Sample of text
+テキスト表示スピードサ=Sample of tex
+テキスト表示スピード=Sample of te
+テキスト表示スピー=Sample of t
+テキスト表示スピ=Sample of 
+テキスト表示ス=Sample of
+テキスト表示=Sample o
+テキスト表=Sample
+テキスト=Sample
+テキス=Sampl
+テキ=Samp
+テ=Sam
+
+
+
 
 //=============== Manual ================
 ゲームの進め方・操作方法はオンラインマニュアルをご確認ください。=Please refer to the online manual for instructions on how to play the game.
