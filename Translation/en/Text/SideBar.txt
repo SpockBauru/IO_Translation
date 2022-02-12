@@ -9,4 +9,4 @@
 精液クリア=Clear Semen
 蝋燭/鞭痕\nクリア=Clear Candle\\\nWhip marks
 キーパッド=Keypad
-断面表示=Cross Section
+断面表示=X-Ray Window

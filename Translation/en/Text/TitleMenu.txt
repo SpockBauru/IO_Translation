@@ -50,7 +50,7 @@
 ▼特殊プレイ音瑚=▼ Neko Special Play
 
 前戯：音瑚=Foreplay: Neko
-カスタム：音瑚=Custom: Neko
+カスタム：音瑚=Editor: Neko
 音瑚レベル=Neko Level
 ステータス：通常=Status: Normal
 ステータス：失神=Status: Fainted
@@ -63,7 +63,7 @@
 輪/二穴バック,イラマ=Orgy: Two-holes, Blowjob
 輪/座位,パイズリ,イラマ=Orgy: Sitting, Boobjob, Blowjob
 前戯：兎萌=Foreplay:Tomoe
-カスタム：兎萌\r=Custom:Tomoe\r
+カスタム：兎萌\r=Editor:Tomoe\r
 兎萌レベル=Tomoe Level
 
 Ｈ満足度=H Satisfaction
@@ -116,8 +116,8 @@
 デバッグモードを優先的に表示する=Give priority to debug mode
 
 ポイントカード画面へ=Go to the point card screen
-ポイントアイテム\r\n全解放=Release all\r\npoint items
-未解放化=Lock all\r\npoint items
+ポイントアイテム\r\n全解放=Unlock all\r\nItems
+未解放化=Lock all\r\nItems
 
 タイトルに戻る=Return to the title
 

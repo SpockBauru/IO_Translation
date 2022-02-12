@@ -3,12 +3,16 @@
 //Top Menu
 ポイントカード=Card Points
 
-//Character Level
+//Character Level 
 r:^音瑚レベル([Ａ-Ｚ０-９]{1,2})$=Neko Level $1
-・音瑚レベル２開放\n・ポイント解放=・Open on Neko Level 2\nPoint Card
+r:^・音瑚レベル([０-９])開放\n・ポイント解放$=・Unlock with Neko Level $1\n・+Card Points
+r:^音瑚レベル([０-９])である必要があります$=Neko must be at Level $1
+
 r:^兎萌レベル([Ａ-Ｚ０-９]{1,2})$=Tomoe Level $1
 r:^レベル：([0-9])=Level: $1
-r:^・レベル([０-９])より開放=・Open on Level $1
+r:^・レベル([０-９])より開放$=・Unlock on Level $1
+・音瑚レベル２\n・兎萌レベル１\n・ポイント解放=・Unlock with Neko Level 2\n・+Tomoe Level 1\n・+Card Points
+・兎萌レベル２\n・ポイント解放=・Unlock with Tomoe Level 2\n・+Card Points
 
 
 //Character Status
@@ -18,9 +22,6 @@ r:^・レベル([０-９])より開放=・Open on Level $1
 r:^（発情度：(.+)）$=(Excitement: $1)
 r:^（体　力：(.+)）$=(Strength: $1)
 r:^（酔い度：(.+)）$=(Drunkness: $1)
-
-
-
 //Character Endings
 音瑚レベル1\n精神崩壊END=Neko Level 2 END\nMental Collapse
 音瑚レベル2\nイチャラブEND=Neko Level 2 END\nI love you
@@ -28,6 +29,7 @@ r:^（酔い度：(.+)）$=(Drunkness: $1)
 
 
 兎萌レベル2\n肉食兎の年下狩りEND=Tomoe Level 2 END\nRabbit hunt for young meat
+兎萌レベル3\nチンポ当てゲームEND=Tomoe Level 3 END\nCock Guessing Game
 
 
 //Free H
@@ -57,6 +59,7 @@ r:^（酔い度：(.+)）$=(Drunkness: $1)
 (ADV専用設定)=(ADV only setting)
 (ADVのみ反映)=(Reflects only in ADV)
 ※このまま終了するとカスタム情報はセーブされません=※ If you exit the now, the game will not be saved.
+レベルアップ\r\nイベント発生中=Level-up event\nwill happen
 
 //============================== Point Card Menu ==============================
 【ポイントカードのご利用について】=[About the use of Card Points]
@@ -67,77 +70,55 @@ r:^\[([0-9]+)ポイント\]を消費して解放してよろしいですか？=A
 
 説明：=Description:
 残り\nポイント=Remaining Points
+閉じる=Close
+
+//Prerequisites
+音瑚レベル２、兎萌レベル１で発生イベントを\n見ている必要があります=You must have seen the events that occurred at Neko level 2 and Tomoe level 1.
+体型の拡縮の解放が必要です=It is necessary to release body type expansion
+【色白】【褐色①】【褐色②】または\n【日焼け①】【日焼け②】の解放が必要です=Skin Color [White], [Brown 1] and [Brown 2] or Skin Color [Tan 1] and [Tan 2] needs to be released
+垂れ耳またはカチューシャの解放が必要です=Need to release the Droopy Ears or the cat headband
+
 
 //Description of each unlockable
-説明：頬＋頬丸みスライダーの解放=Description: Release of cheek + cheek rounding slider
-説明：ほくろの解放=Description: Release of moles
-説明：八重歯の解放=Description: Release of double teeth
-説明：ハート目＋レイプ目の解放=Description: Release of heart eyes + rape eyes 
-説明：胸の拡縮　0%～24%、81%～100%の解放=Description: Release of Breast Enlargement 0%-24%, 81%-100%
-説明：陥没スライダーの解放=Description: Release of sunken slider
-説明：乳首スライダーの解放=Description: Release of nipple slider
-説明：体型の拡縮　0%～37%、76%～100%の解放=Description: Release of body shape enlargement 0% - 37%, 76% - 100%
-説明：肉付きスライダーの解放=Description: Release of the fleshy slider
-説明：肌色　【色白】【褐色①】【褐色②】の解放=Description: Release of skin color [White], [Brown 1] and [Brown 2]
-説明：ラクガキの解放=Description: Release of Body Tattoo
-説明：肌色　【日焼け①】【日焼け②】の解放=Description: Release of skin color [Tan 1] and [Tan 2]
-説明：陰毛の解放=Description: Release of pubic hair
-説明：髪型セット①の解放=Description: Release of Hairstyle Set 1
-説明：髪型セット②の解放=Description: Release of Hairstyle Set 2
-説明：髪型セット③の解放=Description: Release of Hairstyle Set 3
-説明：髪型セット④の解放=Description: Release of Hairstyle Set 4
-説明：髪型セット⑤の解放=Description: Release of Hairstyle Set 5
-説明：髪型セット⑥の解放=Description: Release of Hairstyle Set 6
-説明：衣装①の解放=Description: Release of Costume 1
-説明：衣装②の解放=Description: Release of Costume 2
-説明：衣装③の解放=Description: Release of Costume 3
-説明：レース下着の解放=Description: Release of Lace Underwear
-説明：Ｖ字下着の解放=Description: Release of V-Shaped Underwear
-説明：マイクロ下着の解放=Description: Release of Micro Underwear
-説明：パンストの解放=Description: Release of Pantyhose
-説明：メガネの解放=Description: Release of Glasses
-説明：カチューシャの解放=Description: Release of Catsuits
-説明：垂れ耳の解放=Description: Release of Droopy Ears
-説明：人耳の解放=Description: Release of Human ears
-説明：【特殊エッチ】[音瑚]？？？？の解放=Description: Release of [Special Sex] [Neko] ???
-説明：【特殊エッチ】[兎萌]？？？？の解放=Description: Release of [Special Sex] [Tomoe] ???
-説明：【特殊エッチ】[兎萌]３Ｐの解放=Description: Release of [Special Sex] [Tomoe] Threesome
-説明：【特殊エッチ】[音瑚]ドリンクプレイの解放=Description: Release of [Special Sex] [Neko] Drink Play
-説明：【特殊エッチ】[音瑚]散歩の解放=Description: Release of [Special Sex] [Neko] Walking
-説明：【特殊エッチ】[音瑚]調教の解放=Description: Release of [Special Sex] [Neko] Training
-説明：【特殊エッチ】[兎萌]ショタ輪姦の解放=Description: Release of [Special Sex] [Tomoe] Shota Gangbang
+頬＋頬丸みスライダーの解放=Unlock cheek + cheek rounding slider
+ほくろの解放=Unlock moles
+八重歯の解放=Unlock double teeth
+ハート目＋レイプ目の解放=Unlock heart eyes + rape eyes 
+胸の拡縮　0%～24%、81%～100%の解放=Unlock Breast Enlargement 0%-24%, 81%-100%
+陥没スライダーの解放=Unlock nipple depth slider
+乳首スライダーの解放=Unlock nipple slider
+体型の拡縮　0%～37%、76%～100%の解放=Unlock body shape enlargement 0% - 37%, 76% - 100%
+肉付きスライダーの解放=Unlock the fleshy slider
+肌色　【色白】【褐色①】【褐色②】の解放=Unlock skin color [White], [Brown 1] and [Brown 2]
+ラクガキの解放=Unlock Body Tattoo
+肌色　【日焼け①】【日焼け②】の解放=Unlock skin color [Tan 1] and [Tan 2]
+陰毛の解放=Unlock pubic hair
+髪型セット①の解放=Unlock Hairstyle Set 1
+髪型セット②の解放=Unlock Hairstyle Set 2
+髪型セット③の解放=Unlock Hairstyle Set 3
+髪型セット④の解放=Unlock Hairstyle Set 4
+髪型セット⑤の解放=Unlock Hairstyle Set 5
+髪型セット⑥の解放=Unlock Hairstyle Set 6
+衣装①の解放=Unlock Costume 1
+衣装②の解放=Unlock Costume 2
+衣装③の解放=Unlock Costume 3
+レース下着の解放=Unlock Lace Underwear
+Ｖ字下着の解放=Unlock V-Shaped Underwear
+マイクロ下着の解放=Unlock Micro Underwear
+パンストの解放=Unlock Pantyhose
+メガネの解放=Unlock Glasses
+カチューシャの解放=Unlock cat headbands
+垂れ耳の解放=Unlock Droopy Ears
+人耳の解放=Unlock Human ears
+【特殊エッチ】[音瑚]？？？？の解放=Unlock [Special Sex] [Neko] ???
+【特殊エッチ】[兎萌]？？？？の解放=Unlock [Special Sex] [Tomoe] ???
+【特殊エッチ】[兎萌]３Ｐの解放=Unlock [Special Sex] [Tomoe] Threesome
+【特殊エッチ】[音瑚]ドリンクプレイの解放=Unlock [Special Sex] [Neko] Drink Play
+【特殊エッチ】[音瑚]散歩の解放=Unlock [Special Sex] [Neko] Walking
+【特殊エッチ】[音瑚]調教の解放=Unlock [Special Sex] [Neko] Training
+【特殊エッチ】[兎萌]ショタ輪姦の解放=Unlock [Special Sex] [Tomoe] Shota Gangbang
 
-【頬＋頬丸みスライダーの解放】=Release of cheek + cheek rounding slider
-【ほくろの解放】=Release of moles
-【八重歯の解放】=Release of double teeth
-【ハート目＋レイプ目の解放】=Release of heart eyes + rape eyes 
-【胸の拡縮　0%～24%、81%～100%の解放】=Release of Breast Enlargement 0%-24%, 81%-100%
-【陥没スライダーの解放】=Release of sunken slider
-【乳首スライダーの解放】=Release of nipple slider
-【体型の拡縮　0%～37%、76%～100%の解放】=Release of body shape enlargement 0% - 37%, 76% - 100%
-【肉付きスライダーの解放】=Release of the fleshy slider
-【肌色　【色白】【褐色①】【褐色②】の解放】=Release of skin color [White], [Brown 1] and [Brown 2]
-【ラクガキの解放】=Release of Body Tattoo
-【肌色　【日焼け①】【日焼け②】の解放】=Release of skin color [Tan 1] and [Tan 2]
-【陰毛の解放】=Release of pubic hair
-【髪型セット①の解放】=Release of Hairstyle Set 1
-【髪型セット②の解放】=Release of Hairstyle Set 2
-【髪型セット③の解放】=Release of Hairstyle Set 3
-【髪型セット④の解放】=Release of Hairstyle Set 4
-【髪型セット⑤の解放】=Release of Hairstyle Set 5
-【髪型セット⑥の解放】=Release of Hairstyle Set 6
-【衣装①の解放】=Release of Costume 1
-【衣装②の解放】=Release of Costume 2
-【衣装③の解放】=Release of Costume 3
-【レース下着の解放】=Release of Lace Underwear
-【Ｖ字下着の解放】=Release of V-Shaped Underwear
-【マイクロ下着の解放】=Release of Micro Underwear
-【パンストの解放】=Release of Pantyhose
-【メガネの解放】=Release of Glasses
-【カチューシャの解放】=Release of Catsuits
-【垂れ耳の解放】=Release of Droopy Ears
-【人耳の解放】=Release of Human ears
-【【特殊エッチ】[音瑚]？？？？の解放】=Release of [Special Sex] [Neko] ???
-【【特殊エッチ】[兎萌]？？？？の解放】=Release of [Special Sex] [Tomoe] ???
-【【特殊エッチ】[兎萌]ショタ輪姦の解放】=Release of [Special Sex] [Tomoe] Shota Gangbang
+//Miconisomi reuses for unlockables
+sr:^【(.*)】$=【$1】
+sr:^説明：(.*)$=Description: $1
 

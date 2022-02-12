@@ -31,6 +31,7 @@
 \nメガネ\n着脱=\nGlasses
 \n耳着脱=\nEars
 尻尾着脱=Tail
+ワンピ\n下着\n着脱=One-Piece Underwear
 
 //Items
 \nアイテム\nその他=\nItems and Others
@@ -48,8 +49,14 @@
 \nカメラ=\nCamera
 \n男目線\nカメラ=\nPOV
 \n股間注視=\nCrotch
+\n股間注視\n[音瑚]=\nCrotch [Neko]
+\n股間注視\n[兎萌]=\nCrotch [Tomoe]
 \n胸注視=\nChest
+\n胸注視\n[音瑚]=\nChest [Neko]
+\n胸注視\n[兎萌]=\nChest (Tomoe]
 \n顔注視=\nFace
+\n顔注視\n[音瑚]=\nFace [Neko]
+\n顔注視\n[兎萌]=\nFace [Tomoe]
 任意\nカメラ③\n記録無し=Optional Camera (3) No record
 任意\nカメラ②\n記録無し=Optional Camera (2) No record
 任意\nカメラ①\n記録無し=Optional Camera (1) No record
@@ -75,6 +82,43 @@ r:^\n特殊([Ａ-Ｚ０-９]{1,2})$=\nSpecial $1
 r:^\nぶっかけ\n([Ａ-Ｚ０-９]{1,2})$=\nSplashing on $1
 r:^\nピストン\n([Ａ-Ｚ０-９]{1,2})$=\nPiston $1
 r:^\nイラマ\n([Ａ-Ｚ０-９]{1,2})$=\nDeepthroat\n$1
+
+\n電マ\n=Wand Massager
+\nアナパ\n=\nAnal Beads\n
+\n電気攻め\n[OFF]=\nElectric Attack [OFF]
+\n電気攻め\n[弱]=\nElectric Attack [Weak]
+\n電気攻め\n[強]=\nElectric Attack [Strong]
+\n鞭\n蝋燭=\nWhip\nCandle
+\n蝋燭に\n持ち替え=\nSwitch to Candle
+\n鞭に\n持ち替え=\nSwitch to Whip
+\n機械姦=\nFucking Machine
+\n機械姦Ａ=\nFucking Machine A
+\n機械姦Ｂ=\nFucking Machine B
+\n精飲=\nSemen Drinking
+精液を\n舐め\nさせる=Lick Semen
+\n失神絶頂=\nFainting Climax
+
+\n放尿絶頂=\nUrination Climax
+\nおもちゃ\n[OFF]=\nToy [OFF]
+\nおもちゃ\n[弱]=\nToy [Weak]
+\nおもちゃ\n[強]=\nToy [strong]
+\n股間\nなぞり=\nCrotch Rubbing
+\n尻ペチ\n右=\nSlap Right Butt
+\n尻ペチ\n左=\nSlap Left Butt
+
+\nジュース\nを注ぐ=\nPour Juice
+\nもう一度\n注ぐ=\nPour Again
+\nジュースを\n出させる=\nServe Juice
+\n放出=\nRelease
+\n引き抜く=\nPull Out
+\nクンニシェイク絶頂=\nCunnilingus Shake Climax
+クンニ\nシェイク\nＡ=Cunnilingus Shake A
+クンニ\nシェイク\nＢ=Cunnilingus Shake B
+指で\nシェイク\nＣ=Finger Shake C
+\n直接飲む=\nDrink Directly
+\nグラスに\n注ぐ=\nPour Into a Glass
+\n股間を\n弄る=\nFondle Crotch
+
 
 //Foreplay
 \n胸=\nChest
@@ -106,8 +150,10 @@ r:^\n([Ａ-Ｚ])フィニ$=\nEnd $1
 \n顔に\nぶっかけ=\nCun in the Face
 \n背中に\nぶっかけ=\nCum in the Back
 \n尻に\nぶっかけ=\nCun on Butt
+\n尻\nぶっかけ=\nCum on Butt
 \n太ももに\nぶっかけ=\nCum on Thighs
 \n手に\nぶっかけ=\nCum on Hand
+
 
 //Foraplay Finalizations
 \nマンズリ\n絶頂=\nRubbing

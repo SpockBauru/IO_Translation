@@ -89,8 +89,8 @@ FOV(視野角)=FOV (Field of view angle)
 ｺﾝﾄﾛｰﾙﾊﾟｯﾄﾞの表示=Control Pad Display
 コントローラーパッドの表示を変更します=Change the display of controller pad
 
-断面の表示=View of cross section
-断面ウィンドウの表示を変更します=Change the display of the cross section window
+断面の表示=View X-Ray Window
+断面ウィンドウの表示を変更します=Change the display of the X-Ray Window
 
 擬音テキストの表示=Display Onomatopoeic Text
 擬音テキストの表示を変更します=CChange the display of onomatopoeic text

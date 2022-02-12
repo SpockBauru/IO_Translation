@@ -32,9 +32,12 @@ Wフェラ=W Blowjob
 調教/失神姦=Training/Fainting Fuck
 屋外/リードイラマ=Outdoor/Master Blowjob
 屋外/路地裏Ｈ=Outdoor/Alley Fuck
-飲/泥酔姦=Drinking/Dirty Fuck
+飲/泥酔姦=Drinking/Drunk Fuck
 飲/睡眠姦=Drinking/Sleeping Fuck
 リードイラマ=Master Blowjob
+３Ｐ/Ｗフェラ=3P: W Blowjob
+３Ｐ/騎乗位＆顔騎=3P: Cowgirl & Face Crawling
+３Ｐ/重なり３Ｐ=3P: Overlap
 
 Missionary(酔=Missionary (drunk
 Back(酔=Back (drunk
@@ -60,7 +63,7 @@ Back Sitting(酔=Back Sitting (drunk
 
 拘束調教\n失神姦\nリードイラマ\nドリンクプレイ\n睡眠姦=Restraint Training\r\nFainting Fuck\r\nMaster Blowjob\r\nDrink Play\r\nSleeping Fuck
 
-拘束姦\n放尿\n裏路地Ｈ\n泥酔姦=Bondage Fuck\r\nUrination\r\nAlley Fuck\r\nDirty Fuck
+拘束姦\n放尿\n裏路地Ｈ\n泥酔姦=Bondage Fuck\r\nUrination\r\nAlley Fuck\r\nDrunk Fuck
 
 //Tomoe Positions
 兎萌フリーエッチ　特殊プレイ=Tomoe Free Sex Special Play
@@ -72,6 +75,8 @@ Back Sitting(酔=Back Sitting (drunk
 //Botton Buttons
 音瑚カスタムへ=To Neko Editor
 兎萌カスタムへ=To Tomoe Editor
+
+ラベル=Label
 
 
 

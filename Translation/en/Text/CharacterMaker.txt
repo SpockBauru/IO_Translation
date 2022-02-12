@@ -1,0 +1,149 @@
+//============================== Character Maker ==============================
+
+//Buttons
+ポーズ=Pose
+表情(目)=Expression (Eye)
+表情(口)=Expression (Mouth)
+赤み=Blush
+カスタム\n終 了=Exit\nMaker
+
+下着が非表示状態です=Underwear is hidden
+服が非表示状態です=Clothes are hidden
+タブ切替時に該当部位へオートフォーカスします=Auto-focus the selected area when switching tabs
+
+//Dialog Box
+現在のカスタムをデフォルト状態に戻します\nよろしいですか？=Restore the current settings to their default state\nAre you sure?
+ランダムでカスタマイズを生成します\n終了するには[閉じる]を押してください=Generate Random Customization.\nPress [Close] to exit.
+ランダム=Random
+
+現在のカスタマイズを適応してカスタムを終了しますか？=Do you want to apply the current settings and close the maker?
+適応して終了=Apply and Close
+適応しないで終了=Close without apply
+カスタムに戻る=Go Back to the Maker
+
+//============================== Color Window ==============================
+ブレンド率=Blending Ratio
+コントラスト率=Contrast Ratio
+左クリック：色の適応 　右クリック：色の保存=Left Click: Apply Color 　Right Click: Save Color
+
+//============================== Hair ==============================
+//Top Menu
+前髪=Bangs
+横髪=Side
+後髪=Back
+カラー=Color
+ヘアカラー=Hair Color
+
+//============================== Head ==============================
+※変更するとキスやフェラなどの際に\n　位置が合わなくなります=※ If this is changed, the position will not be\n       aligned when kissing or sucking.
+
+頭の大きさ=Head Size
+音瑚デフォ=Neko\nDefault
+兎萌デフォ=Tomoe\nDefault
+目の上下位置=Vertical position of eyes
+アイカラー=Eye Color
+
+頬=Cheeks
+頬の丸み=Cheek Roundness
+八重歯=Double Teeth
+右=Right
+左=Left
+
+ほくろ=Mole
+目元（右）=Eye (Right)
+目元（左）=Eye (Left)
+口元（右）=Mouth (Right)
+口元（左）=Mouth (Left)
+
+瞳のハイライト=Eye Highlight
+無し=None
+有り=Yes
+ハート目=Heart Eyes
+
+口紅=Lipstick
+薄い=Wispy
+濃い=Dark
+口紅カラー=Lipstick Color
+
+//============================== Breasts ==============================
+おっぱいスライダー=Breast Slider
+乳首スライダー=Nipple Slider
+陥没乳首=Nipple Depth
+乳首の尖り具合=Nipple Pointiness
+胸の揺れ(ダンピング)=Breast Shaking (Dumping)
+
+//============================== Body ==============================
+体型スライダー=Body Shape Slider
+肉付きスライダー=Fleshy Slider
+ボディーカラー=Body Color
+落書き=Graffiti
+
+陰毛=Pubic Hair
+普通=Average
+剛毛=Bristle
+
+陰毛カラー=Pubic Hair Color
+
+//============================== Clothing ==============================
+服装（トップス）=Clothing (Top)
+ブラ装着不可=Cannot wear bra
+服装（ボトムス）=Clothing (Bottom)
+服装（ワンピース）=Clothing (Dress)
+下着装着不可=Cannot wear underwear
+
+下着（トップス）=Underwear (Top)
+下着（ボトムス）=Underwear (Bottom)
+水着=Swimsuit
+服 装着不可=Cannot wear clothes
+下着カラー=Underwear Color
+下着カラー【ベース】=Underwear Color [Base]
+ベース=Base
+下着縞+カラー=Underwear Stripe + Color
+下着カラー【縞】=Underwear Color [Stripes]
+縞=Stripes
+
+//============================== Stocks+Shoes ==============================
+ソックス・パンスト=Socks・Pantyhose
+
+ソックスカラー=Sock Color
+ソックスカラー【ベース】=Socks Color [Base]
+
+ソックス縞+カラー=Sock Stripes + Color
+ソックスカラー【縞】=Socks Color [Stripe]
+
+パンストカラー=Pantyhose color
+パンストデニール率=Pantyhose density ratio
+
+網タイツカラー=Fishnet Stockings Color
+
+靴=Shoes
+
+//============================== Accessories ==============================
+眼鏡=Glasses
+眼鏡カラー=Glasses Color
+獣耳・カチューシャ=Animal Ears and Headbands
+髪色に連動=Link to hair color
+カラー変更可能=Color changeable
+
+カチューシャカラー=Headband Color
+
+人耳=Human Ear
+尻尾=Tail
+
+
+//============================== Save/Load Characters ==============================
+セーブ=Save
+ロード=Load
+r:^【スロット([0-9])】 にセーブしてよろしいですか？$=Are you sure you want to save to [Slot $1]?
+ロードすると現在のカスタム情報は上書きされてしまいます\nロードしてよろしいですか？\n（解放されていないアイテムは無視されます）=Loading will overwrite the current custom settings.\nAre you sure you want to load it?\n(Unlocked items will be ignored)
+ロードすると現在のカスタム情報は消えてしまいます\nロードしてよろしいですか？=Loading will overwrite the current custom settings.
+
+//============================== Uncategorized ==============================
+衣装下(着)=Undergarments (wearing)
+カラー名=Color name
+下着上(着)=Underwear (wearing)
+パンスト(着)=Pantyhose (wearing)
+精液表示=Semen Display
+衣装上(着)=Costume (wearing)
+アイテム切替=Switch Items
+兎萌設定読込=Read Tomoe Settings
