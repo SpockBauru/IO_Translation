@@ -1,5 +1,9 @@
 音瑚=Neko
 兎萌=Tomoe
 主人公=Hero
+学生=Student
 ショタ=Shota
-r:^ショタ([A-Z])$=Shota $1
+スタッフ=Staff
+r:^ショタ([A-ZＡ-Ｚ０-９])$=Shota $1
+r:^スタッフ([A-ZＡ-Ｚ０-９])$=Staff $1
+r:^男([A-ZＡ-Ｚ０-９])$=Man $1

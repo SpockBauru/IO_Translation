@@ -5,6 +5,7 @@
 一気に挿入する=Insert at Once
 話し掛ける=Talk
 はじめる=Begin
+リードイラマへ=To Master Deepthroat
 
 //Keypad Common Settings
 \n裏ボイス\nOFF=\nInner Voice\nOFF
@@ -118,6 +119,8 @@ r:^\nイラマ\n([Ａ-Ｚ０-９]{1,2})$=\nDeepthroat\n$1
 \n直接飲む=\nDrink Directly
 \nグラスに\n注ぐ=\nPour Into a Glass
 \n股間を\n弄る=\nFondle Crotch
+\n引き抜く\n[Lv3]=\nPull out [Lv3]
+泥酔姦へ=Drunk Fuck
 
 
 //Foreplay

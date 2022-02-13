@@ -30,14 +30,16 @@ Wフェラ=W Blowjob
 イラマ=Deepthroat
 調教/拘束姦=Training/Bondage Fuck
 調教/失神姦=Training/Fainting Fuck
-屋外/リードイラマ=Outdoor/Master Blowjob
+屋外/リードイラマ=Outdoor/Master Deepthroat
 屋外/路地裏Ｈ=Outdoor/Alley Fuck
 飲/泥酔姦=Drinking/Drunk Fuck
 飲/睡眠姦=Drinking/Sleeping Fuck
-リードイラマ=Master Blowjob
+リードイラマ=Master Deepthroat
 ３Ｐ/Ｗフェラ=3P: W Blowjob
 ３Ｐ/騎乗位＆顔騎=3P: Cowgirl & Face Crawling
 ３Ｐ/重なり３Ｐ=3P: Overlap
+睡眠姦=Sleeping Fuck
+
 
 Missionary(酔=Missionary (drunk
 Back(酔=Back (drunk
@@ -61,7 +63,7 @@ Back Sitting(酔=Back Sitting (drunk
 
 [酔い]正常位\r\n[酔い]バック\r\n[酔い]立ちアナル\r\n[酔い]騎乗位\r\n[酔い]背面座位\r=[Drunk] Missionary\r\n[Drunk] Back\r\n[Drunk] Standing Anal\r\n[Drunk] Cowgirl\r\n[Drunk] Back Seat\r
 
-拘束調教\n失神姦\nリードイラマ\nドリンクプレイ\n睡眠姦=Restraint Training\r\nFainting Fuck\r\nMaster Blowjob\r\nDrink Play\r\nSleeping Fuck
+拘束調教\n失神姦\nリードイラマ\nドリンクプレイ\n睡眠姦=Restraint Training\r\nFainting Fuck\r\nMaster Deepthroat\r\nDrink Play\r\nSleeping Fuck
 
 拘束姦\n放尿\n裏路地Ｈ\n泥酔姦=Bondage Fuck\r\nUrination\r\nAlley Fuck\r\nDrunk Fuck
 

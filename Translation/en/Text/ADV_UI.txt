@@ -23,13 +23,16 @@ r:^（発情度：(.+)）$=(Excitement: $1)
 r:^（体　力：(.+)）$=(Strength: $1)
 r:^（酔い度：(.+)）$=(Drunkness: $1)
 //Character Endings
+音瑚レベル0\nBADEND=Neko Level END\n Bad End
 音瑚レベル1\n精神崩壊END=Neko Level 2 END\nMental Collapse
 音瑚レベル2\nイチャラブEND=Neko Level 2 END\nI love you
+音瑚レベル3\n私のご主人様END=Neko Level 3 END\nMy Master
 音瑚レベル4-2\nみーんなご主人様END=Neko Level 4-2 END\nAll my masters
 
-
+兎萌レベル0\nBADEND=Tomoe Level 0 END\n Bad End
+兎萌レベル1\nアナタさようならEND=Tomoe Level 1 END\n Good-bye to you
 兎萌レベル2\n肉食兎の年下狩りEND=Tomoe Level 2 END\nRabbit hunt for young meat
-兎萌レベル3\nチンポ当てゲームEND=Tomoe Level 3 END\nCock Guessing Game
+兎萌レベル3\nチンポ当てゲームEND=Tomoe Level 3 END\nDick Guessing Game
 
 
 //Free H
@@ -53,13 +56,16 @@ r:^（酔い度：(.+)）$=(Drunkness: $1)
 //Random Messages
 特殊プレイでは使用できません=Cannot be used in special play
 前戯コミュでは使用できません=Cannot be used in foreplay mode
+　睡眠時　　選択不可 =Not available when sleeping
 次のシーンまでスキップしますか？=Do you want to skip to the next scene?
 次の選択肢・シーンまでスキップしますか？=Do you want to skip to the next choice scene?
 フリーモードが解放されました=Free Mode has been released
 (ADV専用設定)=(ADV only setting)
 (ADVのみ反映)=(Reflects only in ADV)
 ※このまま終了するとカスタム情報はセーブされません=※ If you exit the now, the game will not be saved.
-レベルアップ\r\nイベント発生中=Level-up event\nwill happen
+レベルアップ\r\nイベント発生中=Level-up event!
+特殊イベント\n発生中！=Special Event!
+タイトル画面「つづきから」が選択可能になりました。=You can now select "Continue" from the title screen.
 
 //============================== Point Card Menu ==============================
 【ポイントカードのご利用について】=[About the use of Card Points]
@@ -122,3 +128,13 @@ r:^\[([0-9]+)ポイント\]を消費して解放してよろしいですか？=A
 sr:^【(.*)】$=【$1】
 sr:^説明：(.*)$=Description: $1
 
+
+
+//============================== Uncategorized ==============================
+ポイントを確認=Check your points
+あああああああああ=Ah ah ah ah
+まだ時間はあるけど\n今日はこれぐらいにして帰ろう。=There's still some time left, but that's it for today, let's go home.
+営業時間一杯まで遊んでしまった･･･\n今日は帰ろう。=I played until the end of business hours... Let's go home today.
+後日…=The day after...
+今日はどうしようか…=What should I do today ...
+あいうえおあいうえおあいうあいうえお=Aiueo Aoi Eae Aiueo
