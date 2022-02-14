@@ -8,8 +8,8 @@
 リードイラマへ=To Master Deepthroat
 
 //Keypad Common Settings
-\n裏ボイス\nOFF=\nInner Voice\nOFF
-\n裏ボイス\nON=\nInner Voice\nON
+\n裏ボイス\nOFF=Inner\nVoice OFF
+\n裏ボイス\nON=Inner\nVoice ON
 スピード\nダウン=Speed\nDown
 スピード\nアップ=Speed\nUP
 もどる=Return
@@ -19,12 +19,12 @@
 \n口に出す=\nPut in Mouth
 
 //Display
-\n表示変更=\nDisplay Options
+\n表示変更=Display Options\n
 
 \n全裸\n全着=\nNaked
-\nトップス\n着脱=\nTop\n
-\nボトムス\n着脱=\nBottom\n
-\nブラ着脱\n=\nBra\n
+\nトップス\n着脱=\nTop
+\nボトムス\n着脱=\nBottom
+\nブラ着脱\n=\nBra
 \nパンツ\n着脱=\nPants
 パンスト\n網タイツ\n着脱=Pantyhose\n/Fishnet
 \n靴下着脱=\nSocks
@@ -35,15 +35,15 @@
 ワンピ\n下着\n着脱=One-Piece Underwear
 
 //Items
-\nアイテム\nその他=\nItems and Others
+\nアイテム\nその他=Items\nand Others
 
 \n破瓜=\nDeflower
 \n涙=\nTears
-\nバイブ=\nVibrator
+\nバイブ=Vibrator
 \n首輪=\nCollar
 \nクリ\nパーツ=\nClitoris
 \n乳首\nパーツ=\nNipples
-\n目隠し\n=\nBlindfold\n
+\n目隠し\n=\nBlindfold
 \nギャグボ=\nGag
 
 //Camera
@@ -61,9 +61,9 @@
 任意\nカメラ③\n記録無し=Optional Camera (3) No record
 任意\nカメラ②\n記録無し=Optional Camera (2) No record
 任意\nカメラ①\n記録無し=Optional Camera (1) No record
-カメラ\nフリー操作\n＋ｵｰﾄ回転=Free Camera + Auto Rotation
-カメラ\nフリー操作=Free Camera
-カメラ\nランダム\nアングル=Random Camera Angle
+カメラ\nフリー操作\n＋ｵｰﾄ回転=Free Camera\nAuto Rotate
+カメラ\nフリー操作=Free\nCamera
+カメラ\nランダム\nアングル=\nRandom Camera
 カメラ\nエフェクト\nフレーム=Camera Effect Frame
 
 //Recording Window (F5)
@@ -80,24 +80,25 @@
 //==============================Keypad Positions==============================
 //Sex Positions
 r:^\n特殊([Ａ-Ｚ０-９]{1,2})$=\nSpecial $1
-r:^\nぶっかけ\n([Ａ-Ｚ０-９]{1,2})$=\nSplashing on $1
-r:^\nピストン\n([Ａ-Ｚ０-９]{1,2})$=\nPiston $1
+r:^\nぶっかけ\n([Ａ-Ｚ０-９]{1,2})$=Shota\n$1 Cum
+r:^\nピストン\n([Ａ-Ｚ０-９]{1,2})$=Piston $1
 r:^\nイラマ\n([Ａ-Ｚ０-９]{1,2})$=\nDeepthroat\n$1
 
-\n電マ\n=Wand Massager
-\nアナパ\n=\nAnal Beads\n
-\n電気攻め\n[OFF]=\nElectric Attack [OFF]
-\n電気攻め\n[弱]=\nElectric Attack [Weak]
-\n電気攻め\n[強]=\nElectric Attack [Strong]
-\n鞭\n蝋燭=\nWhip\nCandle
-\n蝋燭に\n持ち替え=\nSwitch to Candle
-\n鞭に\n持ち替え=\nSwitch to Whip
-\n機械姦=\nFucking Machine
-\n機械姦Ａ=\nFucking Machine A
-\n機械姦Ｂ=\nFucking Machine B
-\n精飲=\nSemen Drinking
+\n電マ\n=Wand\nMassager
+\nアナパ\n=Anal Beads
+\n電気攻め\n[OFF]=Electric Attack [OFF]
+\n電気攻め\n[弱]=Electric Attack [Weak]
+\n電気攻め\n[強]=Electric Attack [Strong]
+\n鞭\n蝋燭=Whip\nCandle
+\n蝋燭に\n持ち替え=Switch to Candle
+\n鞭に\n持ち替え=Switch to Whip
+\n機械姦=Fucking Machine
+\n機械姦Ａ=Fucking Machine A
+\n機械姦Ｂ=Fucking Machine B
+\n精飲=Semen Drinking
+\n精液を\n飲ませる=Drink Semen
 精液を\n舐め\nさせる=Lick Semen
-\n失神絶頂=\nFainting Climax
+\n失神絶頂=Fainting Climax
 
 \n放尿絶頂=\nUrination Climax
 \nおもちゃ\n[OFF]=\nToy [OFF]
@@ -107,19 +108,19 @@ r:^\nイラマ\n([Ａ-Ｚ０-９]{1,2})$=\nDeepthroat\n$1
 \n尻ペチ\n右=\nSlap Right Butt
 \n尻ペチ\n左=\nSlap Left Butt
 
-\nジュース\nを注ぐ=\nPour Juice
-\nもう一度\n注ぐ=\nPour Again
-\nジュースを\n出させる=\nServe Juice
+\nジュース\nを注ぐ=Pour\nJuice
+\nもう一度\n注ぐ=Pour\nAgain
+\nジュースを\n出させる=Serve\nJuice
 \n放出=\nRelease
-\n引き抜く=\nPull Out
-\nクンニシェイク絶頂=\nCunnilingus Shake Climax
+\n引き抜く=Pull\nOut
+\nクンニシェイク絶頂=Cunnilingus Shake Climax
 クンニ\nシェイク\nＡ=Cunnilingus Shake A
 クンニ\nシェイク\nＢ=Cunnilingus Shake B
-指で\nシェイク\nＣ=Finger Shake C
-\n直接飲む=\nDrink Directly
-\nグラスに\n注ぐ=\nPour Into a Glass
-\n股間を\n弄る=\nFondle Crotch
-\n引き抜く\n[Lv3]=\nPull out [Lv3]
+指で\nシェイク\nＣ=Finger\nShake C
+\n直接飲む=Drink\nDirectly
+\nグラスに\n注ぐ=Pour\nInto a Glass
+\n股間を\n弄る=Fondle\nCrotch
+\n引き抜く\n[Lv3]=Pull\nout [Lv3]
 泥酔姦へ=Drunk Fuck
 
 
@@ -129,11 +130,11 @@ r:^\nイラマ\n([Ａ-Ｚ０-９]{1,2})$=\nDeepthroat\n$1
 アナル=Anus
 \n手を\n止める=\nStop
 
-r:^\n乳首摘み\n([Ａ-Ｚ０-９]{1,2})$=\nNipple Picking $1
-r:^\n胸揉み\n([Ａ-Ｚ０-９]{1,2})$=\nGrab Breast $1
-r:^相互\nオナニー\n([Ａ-Ｚ０-９]{1,2})$=Mutual Masturbation $1
+r:^\n乳首摘み\n([Ａ-Ｚ０-９]{1,2})$=Nipple Picking $1
+r:^\n胸揉み\n([Ａ-Ｚ０-９]{1,2})$=Grab Breast $1
+r:^相互\nオナニー\n([Ａ-Ｚ０-９]{1,2})$=Mutual\nMasturbation $1
 r:^\nマンズリ\n([Ａ-Ｚ０-９]{1,2})$=\nRubbing $1
-r:^\nクンニ\n([Ａ-Ｚ０-９]{1,2})$=\nCunnilingus $1
+r:^\nクンニ\n([Ａ-Ｚ０-９]{1,2})$=\nCunnilingus\n$1
 r:^\n手マン\n([Ａ-Ｚ０-９]{1,2})$=\nHandjob $1
 r:^\nアナル\n愛撫([Ａ-Ｚ０-９]{1,2})$=Anal Caress $1
 
@@ -142,20 +143,20 @@ r:^\nアナル\n愛撫([Ａ-Ｚ０-９]{1,2})$=Anal Caress $1
 \n無理やり\n続ける=\nContinue Forcing
 \nそのまま\n続ける=\nKeep Going
 
-\n付着精液\n=\nSemen Amount
+\n付着精液\n=Semen Amount
 
 r:^\n([Ａ-Ｚ])フィニ$=\nEnd $1
 \nチンコを\n引き抜く=\nPull out
 
-\n中出し\nする=\nCum Inside
-\n腹に\nぶっかけ=\nCum on Belly
-\n胸に\nぶっかけ=\nCum on Chest
-\n顔に\nぶっかけ=\nCun in the Face
-\n背中に\nぶっかけ=\nCum in the Back
-\n尻に\nぶっかけ=\nCun on Butt
-\n尻\nぶっかけ=\nCum on Butt
-\n太ももに\nぶっかけ=\nCum on Thighs
-\n手に\nぶっかけ=\nCum on Hand
+\n中出し\nする=Cum\nInside
+\n腹に\nぶっかけ=Cum on\nBelly
+\n胸に\nぶっかけ=Cum on\nChest
+\n顔に\nぶっかけ=Cum on\nFace
+\n背中に\nぶっかけ=Cum on\nBack
+\n尻に\nぶっかけ=Cum on\nButt
+\n尻\nぶっかけ=Cum on\nButt
+\n太ももに\nぶっかけ=Cum on\nThighs
+\n手に\nぶっかけ=Cum on\nHand
 
 
 //Foraplay Finalizations
