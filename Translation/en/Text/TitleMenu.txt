@@ -13,15 +13,15 @@
 いいえ=No
 
 //Starting a new game if you already have a save
-ゲームの進行がリセットされます。\r\nよろしいですか？=Game progress will be reset. \r\n Are you sure you want to do this?
-※カスタムの解放状況は維持され特殊プレイはリセットされます=※ The custom unlocked status will be maintained and the default play will be reset.
+ゲームの進行がリセットされます。\r\nよろしいですか？=Game progress will be reset. \r\n Are you sure?
+※カスタムの解放状況は維持され特殊プレイはリセットされます=※ Customizations will be saved, but special positions will be reset.
 
 //Free Mode
-※ランダムでエッチシーンへ移動します。\r\nシーンの変更は「サイドメニュー」の体位変更から選択可能です。=※ Go to a random sex scene.\r\nYou can change the scene by selecting "Change Position" from the "Side Menu".
-ランダムでシーンへ移行します。\n移行後はミニメニューから好きな体位へ\n素早く移動することができます。=※ Go to a random sex scene.\r\nYou can change the scene by selecting "Change Position" from the "Side Menu".
+※ランダムでエッチシーンへ移動します。\r\nシーンの変更は「サイドメニュー」の体位変更から選択可能です。=※ Start from a random sex scene.\r\nYou can change scenes from "Change position" in the "Side Menu".
+ランダムでシーンへ移行します。\n移行後はミニメニューから好きな体位へ\n素早く移動することができます。=※ Start from a random sex scene.\r\nYou can change scenes from "Change position" in the "Side Menu".
 
 //Return to title screen
-タイトル画面へ戻りますか？=Do you want to return to the title screen?
+タイトル画面へ戻りますか？=Return to the title screen?
 
 
 //Exit button
@@ -33,7 +33,7 @@
 てらち\n\n\nしゅんころ\n\n\nら～ゆ\n\nアサ=Terachi\n\n\nShunkoro\n\n\nLa-yu\n\nAsa
 
 声の出演=Voice Actors
-音瑚 役\n兎萌 役\nショタ役\r\n\rショタ役=Neko Role\nTomoe Role\nShota Role\r\n\rShota Role
+音瑚 役\n兎萌 役\nショタ役\r\n\rショタ役=Neko Role\nTomoe Role\nShota\r\n\rShota
 西浦のどか\n分倍河原シホ\n篠守ゆきこ\n七海こねこ=Nishinoura Nodoka\nShiho Kawahara\nYukiko Shinomori\nNanami Koneko
 
 上記以外のライセンス情報は同梱の"License.txt"に記載されています。=License information other than the above can be found in the "License.txt" file included in the package.
@@ -43,8 +43,8 @@
 //============================== Hidden Debug Mode ==============================
 
 //Neko and Tomoe Stats
-デバッグモードが開放されました=Debug mode has been opened.
-デバッグモードでは、通常のプレイでは発生しない状態・ゲーム進行が不可能になる場合があります。     \n \rデバッグモードで発生した不具合に関しては保証致しかねますのでご了承ください。=In debug mode, there may be conditions that do not occur in normal play, or that make it impossible to progress in the game. \r\nPlease note that we cannot guarantee any problems that may occur in debug mode.
+デバッグモードが開放されました=Debug mode unlocked
+デバッグモードでは、通常のプレイでは発生しない状態・ゲーム進行が不可能になる場合があります。     \n \rデバッグモードで発生した不具合に関しては保証致しかねますのでご了承ください。=In debug mode, you may run into an unexpected state or may not be able to proceed in the game. Please note that we cannot guarantee correct operation in debug mode.
 
 ▼フリーエッチ音瑚=▼ Neko Free Sex
 ▼特殊プレイ音瑚=▼ Neko Special Play
@@ -71,8 +71,8 @@
 //ADV
 //Neko scenes
 はじめから=New Game
-音瑚Lv0\r\n強姦後～ポイント説明=Neko Lv0\r\nAfter rape-point explanation
-音瑚Lv0\r\n来店EV：強姦後来店=Neko Lv0\r\nCome to the store EV: rape after coming to the store
+音瑚Lv0\r\n強姦後～ポイント説明=Neko Lv0\r\nAfter rape, point explanation
+音瑚Lv0\r\n来店EV：強姦後来店=Neko Lv0\r\nVisit EV: rape after coming to the store
 音瑚Lv2\r\n来店EV=Neko Lv2\r\nCome to store EV
 音瑚Lv3\r\n来店EV=Neko Lv3\r\nCome to store EV
 音瑚Lv4\r\n来店EV=Neko Lv4\r\nCome to store EV
@@ -84,29 +84,29 @@
 監獄プレイ導入=Introduction of jail play
 音瑚Lv0 END\r\nBADEND=Neko Lv0 END\r\nBadend
 音瑚Lv1 END\r\n精神崩壊=Neko Lv1 END\r\nMental collapse
-音瑚Lv2 END\r\nイチャラブ=Neko Lv2 END\r\nlovemaking
+音瑚Lv2 END\r\nイチャラブ=Neko Lv2 END\r\n Love-dovey
 音瑚Lv3 END\r\n私のご主人様=Neko Lv3 END\r\nMy master
 音瑚Lv4-1 END\r\nラストオーダー=Neko Lv4-1 END\r\nLast order
-音瑚Lv4-2 END\r\nみーんなご主人様=Neko Lv4-2 END\r\nAll my masters
+音瑚Lv4-2 END\r\nみーんなご主人様=Neko Lv4-2 END\r\nEveryone is my Master
 
 //Tomoe Scenes
 兎萌Lv0\r\n来店EV：強制イベント=Tomoe Lv0\r\nVisit EV: Compulsory Event
 兎萌Lv0\r\n来店EV:強制イベント後=Tomoe Lv0\r\nVisit EV: After compulsory event
 兎萌Lv1\r\n来店EV:3P発生イベント=Tomoe Lv1\r\Visit EV: Threesome event
-兎萌Lv1\r\n帰宅時EV:H満足度35=Tomoe Lv1\r\nEV when returning home: H satisfaction level 35
+兎萌Lv1\r\n帰宅時EV:H満足度35=Tomoe Lv1\r\nVisit EV: H satisfaction level 35
 兎萌Lv2\r\n来店EV=Tomoe Lv2\r\nCome to store EV
 兎萌Lv3\r\n来店EV=Tomoe Lv3\r\nCome to store EV
 兎萌Lv0＞1\r\nレベル移行劇=Tomoe Lv 0>1\r\nLevel Transition Scene
 兎萌Lv1＞2\r\nレベル移行劇=Tomoe Lv1>2\r\nLevel Transition Scene
 兎萌Lv2＞3\r\nレベル移行劇=Tomoe Lv2>3\r\nLevel Transition Scene
-兎萌Lv0 END\r\nBADEND=Tomoe Lv0 END\r\nBadend
+兎萌Lv0 END\r\nBADEND=Tomoe Lv0 END\r\nBADEND
 兎萌Lv1 END\r\nアナタさようなら=Tomoe Lv1 End\r\nGood-bye to you
 兎萌Lv2 END\r\n肉食兎の年下狩り=Tomoe Lv2 END\r\nRabbit hunt for young meat
 兎萌Lv3 END\r\nチンポ当てゲーム=Tomoe Lv3 END\R\nGuess the dick game
 
 
 //Botton Options
-危険日指定=Risk Day Specification
+危険日指定=Unsafe Days
 2月=February
 日～　　　日=  to
 初期値10日～16日=Default:10 to 16

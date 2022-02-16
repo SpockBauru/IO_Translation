@@ -58,13 +58,16 @@
 \n顔注視=\nFace
 \n顔注視\n[音瑚]=\nFace [Neko]
 \n顔注視\n[兎萌]=\nFace [Tomoe]
-任意\nカメラ③\n記録無し=Optional Camera (3) No record
-任意\nカメラ②\n記録無し=Optional Camera (2) No record
-任意\nカメラ①\n記録無し=Optional Camera (1) No record
+任意\nカメラ③\n記録無し=User camera 1 None
+任意\nカメラ②\n記録無し=User camera 2 None
+任意\nカメラ①\n記録無し=User camera 3 None
+任意\nカメラ①=User camera 1
+任意\nカメラ②=User camera 2
+任意\nカメラ③=User camera 3
 カメラ\nフリー操作\n＋ｵｰﾄ回転=Free Camera\nAuto Rotate
 カメラ\nフリー操作=Free\nCamera
 カメラ\nランダム\nアングル=\nRandom Camera
-カメラ\nエフェクト\nフレーム=Camera Effect Frame
+カメラ\nエフェクト\nフレーム=Filter Effects
 
 //Recording Window (F5)
 最大5件（名前順）=Up to 5 items (By name)
@@ -86,9 +89,9 @@ r:^\nイラマ\n([Ａ-Ｚ０-９]{1,2})$=\nDeepthroat\n$1
 
 \n電マ\n=Wand\nMassager
 \nアナパ\n=Anal Beads
-\n電気攻め\n[OFF]=Electric Attack [OFF]
-\n電気攻め\n[弱]=Electric Attack [Weak]
-\n電気攻め\n[強]=Electric Attack [Strong]
+\n電気攻め\n[OFF]=Electrocute [OFF]
+\n電気攻め\n[弱]=Electrocute [Weak]
+\n電気攻め\n[強]=Electrocute [Strong]
 \n鞭\n蝋燭=Whip\nCandle
 \n蝋燭に\n持ち替え=Switch to Candle
 \n鞭に\n持ち替え=Switch to Whip
@@ -100,7 +103,7 @@ r:^\nイラマ\n([Ａ-Ｚ０-９]{1,2})$=\nDeepthroat\n$1
 精液を\n舐め\nさせる=Lick Semen
 \n失神絶頂=Fainting Climax
 
-\n放尿絶頂=\nUrination Climax
+\n放尿絶頂=\Pissing Climax
 \nおもちゃ\n[OFF]=\nToy [OFF]
 \nおもちゃ\n[弱]=\nToy [Weak]
 \nおもちゃ\n[強]=\nToy [strong]

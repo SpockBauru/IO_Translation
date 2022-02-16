@@ -1,24 +1,24 @@
 //============================== Tips ==============================
 
-「@」､「:」　カメラを左右に回転、同時押しでリセット="@" and ":" Rotate the camera left or right, press simultaneously to reset.
-エッチシーンでプラスキーを長押しでランダムでスピードが変化するモードになります=Press and hold the plus key during the sex scene to enter a mode that randomly changes the speed.
-フルキー「5」　カメラターゲットの表示/非表示=Full key "5" Show/hide camera target
-フルキー「4」　背景の表示が切り替わります=Full key "4" Changes the background display
-フルキー「3」　主人公の服装の表示/非表示=Full key "3" Show/hide the main character's clothing.
-環境設定の「画面設定2」で尿、母乳の設定ができます=You can set urine and breast milk in "Screen Setting 2"  Preferences
-環境設定の「マニュアル」からオンラインマニュアルが開けます。\n操作が分からないときは活用してみてください=You can open the online manual from "Manual" in the Preferences. \nPlease make use of it if you have any questions.
-フルキー「7」　キーパッドの表示/非表示=Full key "7" Show/Hide keypad
-Ｆ１キーで環境設定を開く事ができます=Press F1 to open the Settings Menu
-環境設定の「画面設定2」でカスタム状態をADVに反映できます=Custom states can be reflected in ADV in "Screen Setting 2" of Settings.
-フルキー「6」　遮断物の半透明化=Full key "6" set the translucency of blocking objects
-Ctrl+Alt+テンキー4～5 同時押しで画面をそのままカメラに設定できます=Press Ctrl+Alt+Numeric Keypad 4-5 at the same time to set the screen as the camera.
+Ctrl+Alt+テンキー4～5 同時押しで画面をそのままカメラに設定できます=Pressing Ctrl + Alt + keypad 4, 5, or 6 at the same time sets the current angle as a camera.
 [Tキー]移動    [Rキー]回転=[T key] Move [R key] Rotate
-カスタム中、「←」、「→」でキャラを回転、「↑」で停止、「↓」でリセット=During customization, use "←" and "→" to rotate the character, "↑" to stop, and "↓" to reset.
-フルキー「8」　断面図の表示/非表示=Full key [8] Show/hide X-Ray Window
-フルキー「2」　男性器の表示が切り替わります=Full key "2" Switches the display of the male genitalia
+「@」､「:」　カメラを左右に回転、同時押しでリセット="@" and ":" Rotate the camera left or right, press simultaneously to reset.
+エッチシーンでプラスキーを長押しでランダムでスピードが変化するモードになります=Press and hold the plus key during the sex scene to enter a mode where the speed changes at random.
 カスタムデータは「CustomData」フォルダ内にあります。\n4つ以上残したいときは予備としてフォルダ外に保存することをお勧めします。=Your custom data is located in the "CustomData" folder.\nIf you want to keep more than four, it is recommended to save them outside the folder as a backup.
-動作が重いときは環境設定で「Performance」にし、影とエフェクト系をoff、鏡を非表示にするとかなり軽くなります=If the game is too heavy, set the preferences to "Performance," turn off shadows and effects, and hide the mirror to make it much lighter.
-フルキー「1」　男の表示が切り替わります=Full key "1" Switches the man's display
-Ｆ２キーでショートカットキーの一覧を確認する事ができます。=You can check the list of shortcut keys by pressing F2.
+カスタム中、「←」、「→」でキャラを回転、「↑」で停止、「↓」でリセット=During customization, use "←" and "→" to rotate the character, "↑" to stop, and "↓" to reset.
+フルキー「1」　男の表示が切り替わります=Number key "1" changes the display of males.
+フルキー「2」　男性器の表示が切り替わります=Number key "2" changes the male genitals.
+フルキー「3」　主人公の服装の表示/非表示=Number key "3" toggles the main character's attire.
+フルキー「4」　背景の表示が切り替わります=Number key "4" changes the background display.
+フルキー「5」　カメラターゲットの表示/非表示=Number key "5" toggles the camera target.
+フルキー「6」　遮断物の半透明化=Number key "6" changes the display of obstructions.
+フルキー「7」　キーパッドの表示/非表示=Number key "7" toggles the keypad.
+フルキー「8」　断面図の表示/非表示=Number key [8] toogles X-Ray Window
+動作が重いときは環境設定で「Performance」にし、影とエフェクト系をoff、鏡を非表示にするとかなり軽くなります=If the game isn't running smoothly, set the quality setting to "Performance" and disable shadows, effects, and the mirror.
+環境設定の「マニュアル」からオンラインマニュアルが開けます。\n操作が分からないときは活用してみてください=You can open the online manual from "Manual" in the Preferences. \nPlease make use of it if you have any questions.
+環境設定の「画面設定2」でカスタム状態をADVに反映できます=Custom states can be reflected in ADV in "Screen Setting 2" of Settings.
+環境設定の「画面設定2」で尿、母乳の設定ができます=You can set urine and breast milk in "Graphic Settings 2"  Preferences
+Ｆ１キーで環境設定を開く事ができます=You can open settings with the F1 key.
 Ｆ２キーでショートカットキーの一覧を確認する事ができます=You can check the list of shortcut keys by pressing F2.
+Ｆ２キーでショートカットキーの一覧を確認する事ができます。=You can check the list of shortcut keys by pressing F2.
 

@@ -10,7 +10,7 @@ r:^音瑚レベル([０-９])である必要があります$=Neko must be at Lev
 
 r:^兎萌レベル([Ａ-Ｚ０-９]{1,2})$=Tomoe Level $1
 r:^レベル：([0-9])=Level: $1
-r:^・レベル([０-９])より開放$=・Unlock on Level $1
+r:^・レベル([０-９])より開放$=・Unlock at Level $1
 ・音瑚レベル２\n・兎萌レベル１\n・ポイント解放=・Unlock with Neko Level 2\n・+Tomoe Level 1\n・+Card Points
 ・兎萌レベル２\n・ポイント解放=・Unlock with Tomoe Level 2\n・+Card Points
 
@@ -27,7 +27,7 @@ r:^（酔い度：(.+)）$=(Drunkness: $1)
 音瑚レベル1\n精神崩壊END=Neko Level 2 END\nMental Collapse
 音瑚レベル2\nイチャラブEND=Neko Level 2 END\nI love you
 音瑚レベル3\n私のご主人様END=Neko Level 3 END\nMy Master
-音瑚レベル4-2\nみーんなご主人様END=Neko Level 4-2 END\nAll my masters
+音瑚レベル4-2\nみーんなご主人様END=Neko Level 4-2 END\nEveryone is my Master
 
 兎萌レベル0\nBADEND=Tomoe Level 0 END\n Bad End
 兎萌レベル1\nアナタさようならEND=Tomoe Level 1 END\n Good-bye to you
@@ -36,8 +36,8 @@ r:^（酔い度：(.+)）$=(Drunkness: $1)
 
 
 //Free H
-(フリーエッチ)=(Free H)
-(特殊プレイ)=(Special Play)
+(フリーエッチ)=(Free Sex)
+(特殊プレイ)=(Special Menu)
 
 //Start of a new day
 兎萌の部屋へ=Tomoe Room
@@ -133,8 +133,8 @@ sr:^説明：(.*)$=Description: $1
 //============================== Uncategorized ==============================
 ポイントを確認=Check your points
 あああああああああ=Ah ah ah ah
-まだ時間はあるけど\n今日はこれぐらいにして帰ろう。=There's still some time left, but that's it for today, let's go home.
-営業時間一杯まで遊んでしまった･･･\n今日は帰ろう。=I played until the end of business hours... Let's go home today.
-後日…=The day after...
+まだ時間はあるけど\n今日はこれぐらいにして帰ろう。=There’s still time, but let's go home for today.
+営業時間一杯まで遊んでしまった･･･\n今日は帰ろう。=I played until closing... Let's go home now.
+後日…=At a later date…
 今日はどうしようか…=What should I do today ...
 あいうえおあいうえおあいうあいうえお=Aiueo Aoi Eae Aiueo
