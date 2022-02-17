@@ -1,6 +1,6 @@
 //==================================================================
 //These translations were made using DeepL translator, its a way better than Google Translate
-//After the translation, lots of buts were fixed.
+//After the translation, lots of bugs were fixed.
 //Of course, a human translation would be better, if you are willing to make it, please make your contribution in https://github.com/SpockBauru/IO_Translation
 //==================================================================
 

@@ -1,7 +1,7 @@
 //================= Manual Translations for Insult Order ADV ==================
-//
-// Uncommend the lines with your manual translations. Machine translations are in zz_MachineTranslation.txt
-//
+// Uncommend the lines with your manual translations.
+// Machine translations are in zz_MachineTranslation.txt
+// You can contribute with the project in https://github.com/SpockBauru/IO_Translation
 //=============================================================================
 
 
