@@ -1,8 +1,8 @@
 //================= Manual Translations for Insult Order Sex Position Dialogues ==================
-
+//
 // Uncommend the lines by deleting the "//" at start, and insert yourwith your manual translations. 
 // Machine translations are in zz_MachineTranslation.txt
-
+//
 //=============================================================================
 
 

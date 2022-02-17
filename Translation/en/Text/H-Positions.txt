@@ -1,6 +1,6 @@
 //============================== H Positions ==============================
 正常位=Missionary
-バック=Back
+バック=Doggy
 パイズリ=Boobjob
 立ちアナル=Standing Anal
 騎乗位=Cowgirl
@@ -25,7 +25,7 @@ Wフェラ=W Blowjob
 屋外/放尿=Outdoor/Pissing
 座位=Seated Cowgirl
 馬乗りパイズリ=Breast Riding
-抑えつけバック=Hold Back
+抑えつけバック=Holding Doggy
 調教/拘束調教=Training/Restraint Training
 イラマ=Deepthroat
 調教/拘束姦=Training/Bondage Fuck
@@ -42,12 +42,12 @@ Wフェラ=W Blowjob
 
 
 Missionary(酔=Missionary (drunk
-Back(酔=Back (drunk
+Back(酔=Doggy (drunk
 Standing Anal(酔=Standing Anal (drunk
 Cowgirl(酔=Cowgirl (drunk
-Back Sitting(酔=Back Sitting (drunk
+Back Sitting(酔=Sitting Doggy (drunk
 
-路地裏Ｈ=Back H
+路地裏Ｈ=Alley Fuck
 
 
 
@@ -57,11 +57,11 @@ Back Sitting(酔=Back Sitting (drunk
 //Neko Positions
 音瑚フリーエッチ　特殊プレイ=Neko Free Sex Special Play
 
-正常位\r\n抑えつけバック/バック\r\nイラマ/フェラ/69\r\n馬乗りパイズリ/パイズリ\r\n立ちアナル\r\n騎乗位\r\n座位/背面座位\r\n手コキ/四つん這い手コキ\r\n挟み足コキ/ホールド足コキ=Missionary\r\nHold back/back\r\nDeepthroat/Blowjob/69\r\nBreast Riding/Boobjob\r\nAnal\r\nCowgirl\r\nSeat/Back Seat\r\nHand Job/All Fours Handjob\r\nPinch Foot Job/Hold Footjob
+正常位\r\n抑えつけバック/バック\r\nイラマ/フェラ/69\r\n馬乗りパイズリ/パイズリ\r\n立ちアナル\r\n騎乗位\r\n座位/背面座位\r\n手コキ/四つん這い手コキ\r\n挟み足コキ/ホールド足コキ=Missionary\r\nHolding Doggy/Doggy\r\nDeepthroat/Blowjob/69\r\nBreast Riding/Boobjob\r\nAnal\r\nCowgirl\r\nSeated Cowgirl/Revese Cowgirl\r\nHand Job/All Fours Handjob\r\nPinch Foot Job/Hold Footjob
 
 前戯=Foreplay
 
-[酔い]正常位\r\n[酔い]バック\r\n[酔い]立ちアナル\r\n[酔い]騎乗位\r\n[酔い]背面座位\r=[Drunk] Missionary\r\n[Drunk] Back\r\n[Drunk] Standing Anal\r\n[Drunk] Cowgirl\r\n[Drunk] Back Seat\r
+[酔い]正常位\r\n[酔い]バック\r\n[酔い]立ちアナル\r\n[酔い]騎乗位\r\n[酔い]背面座位\r=[Drunk] Missionary\r\n[Drunk] doggy\r\n[Drunk] Standing Anal\r\n[Drunk] Cowgirl\r\n[Drunk] Seating Doggy\r
 
 拘束調教\n失神姦\nリードイラマ\nドリンクプレイ\n睡眠姦=Restraint Training\r\nFainting Fuck\r\nMaster Deepthroat\r\nDrink Play\r\nSleeping Fuck
 
