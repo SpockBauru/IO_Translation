@@ -1,0 +1,530 @@
+//レベル0　初来店時（兎萌強制イベント）
+
+//---------------------------------------------
+//背景：黒背景
+***BGround_BG99_00
+
+I was expecting to be late today, but I got my 
+work done sooner than I thought.
+
+When I checked the time, it was a little earlier 
+than usual. I have nothing to do now.
+
+I’m so bored...But I didn’t make a reservation for 
+Neko-chan today because I thought I would get off 
+work late.
+
+But there’s nowhere else for me to go. Oh well, 
+I’ll see what’s going on at Demi Cafe.
+
+//背景：ロビー
+***BGround_BG01_01
+
+//ロビーのBGM
+***BGM_Mad_Trick
+
+
+スタッフ
+『I'm sorry. Neko is off today...』
+
+主人公
+『Ah, it’s okay. I didn't make a reservation 
+anyway...』
+
+When I asked the reception, they said that 
+Neko-chan was absent. Still, there’s no air of 
+anxiety like before during that VIP incident.
+
+I booked meetings with her all the time, and she 
+probably just decided to take today off because 
+there was nothing scheduled.
+
+I came to the club thinking she might be here, but 
+no luck. Let's leave before I get recommended to 
+another girl.
+
+？？？(CH02_0071)
+『Oh, my.』
+
+//兎萌立ち絵イン
+
+***ST02_00_00_01_01_00
+
+主人公
+『Oh…』
+
+兎萌(CH02_0072)
+『Hello again.』
+
+主人公
+『Tomoe-san...right?』
+
+兎萌(CH02_0073)
+『Yes. You remembered my name. Heehee, I'm glad.』
+
+Up until now, I’ve occasionally seen cast members 
+come and go from the lobby to the private rooms.
+
+It seems there are mostly girls who look about the 
+same age as or a little bit older than Neko-chan.
+
+It's easy to remember Tomoe-san because there 
+aren't many cast members at this club that look 
+the same age as her.
+
+In fact, I completely remember her name because not 
+only is she beautiful, but she also has a unique sex 
+appeal and was kind enough to explain the points system.
+
+***ST02_00_00_01_01_00
+兎萌(CH02_0074)
+『I believe Neko-chan is off today. Did you perhaps 
+come to play with another girl?』
+
+主人公
+『Ah, no. I was expecting to be late at work today, 
+but I finished early...I didn't make a reservation 
+either.』
+
+***ST02_00_00_01_01_00
+兎萌(CH02_0075)
+『Is that so. For all the busy work with your 
+reservations, she’s been told to take a good rest 
+on her free days.』
+
+***ST02_00_00_05_01_00
+兎萌(CH02_0076)
+『Apparently she had so much work that I never had 
+a chance to talk with her since that commotion.』
+
+***ST02_00_00_02_01_00
+兎萌(CH02_0077)
+『You've been good to Neko-chan, haven't you? Thank 
+you.』
+
+My heart pounds at her voice and words, different 
+from Neko-chan.
+
+主人公
+『Are you with someone right now...?』
+
+***ST02_01_00_05_01_00
+兎萌(CH02_0078)
+『No. It's still early and I'm not good at waiting 
+in an empty room...so I came to the lobby. It’s 
+less lonely with people here.』
+
+***ST02_01_00_00_01_00
+兎萌(CH02_0079)
+『Hehe, here I am rambling on and on with 
+Neko-chan's patron again...Would you prefer to go 
+to my room?』
+
+主人公
+『Huh?』
+
+***ST02_01_00_05_01_00
+兎萌(CH02_0080)
+『I want to thank you for always looking after 
+Neko-chan.』
+
+Patron...thanks for looking after Neko-chan...It 
+looks like Tomoe-san doesn’t realize I did it by 
+force.
+
+I might be able to get more information if I talk 
+a little with Tomoe-san instead of going home now.
+
+主人公
+『All right, just for a bit...okay?』
+
+***ST02_01_00_02_01_00
+兎萌(CH02_0081)
+『Okay, I'll tell the staff. I'll explain the 
+circumstances to them, so don't worry about 
+payment.』
+
+//兎萌立ち絵はけ
+
+***ST02_01_00_02_01_05
+
+
+
+Tomoe-san told me the location of her room and 
+happily walked to the reception.
+
+***BGM_FadeOut
+
+Neko-chan is my favorite, but Tomoe-san is also 
+intriguing.
+
+//暗転
+***BGround_BG99_01
+//黒背景
+
+Tomoe-san's room has the same layout as 
+Neko-chan’s, but the faint smell is different and 
+the room feels fresh.
+
+Completely opposite of Neko-chan, Tomoe-san 
+ordered drinks and asked me about how things were 
+going with meticulous care.
+
+What’s a little surprising was that Tomoe-san was 
+quite a drinker. She looks pretty drunk and happy.
+
+-----
+
+--
+
+//背景：兎萌の部屋
+***BGround3D_BG01_01
+
+//兎萌の部屋の音楽
+***BGM_Whisky_Nights
+
+***ST02_30_00_00_01_30
+兎萌(CH02_0082)
+『And then...Oh, your glass is empty. I'll get you 
+a refill now. It doesn't matter if you drink it or 
+not. What should I drink...』
+
+主人公
+『Tomoe-san, no need to be so thoughtful...I'm used 
+to dealing with Neko-chan, so you’re actually 
+making me nervous.』
+
+Which is a lie...She’s already had two light 
+cocktails and might get more than tipsy.
+
+***ST02_30_00_25_05_30
+兎萌(CH02_0083)
+『Don’t worry about the money, okay? Have one more 
+drink, please?』
+
+You can’t say no to a face like that. I don’t have 
+to pay to begin with, and she’s accommodating me. 
+I nodded silently.
+
+主人公
+『Okay then, please. By the way, about Neko-chan's 
+friends...』
+
+主人公
+『Is it true that there is almost no one except 
+Tomoe-san? Not even among the cast members?』
+
+***ST02_30_00_20_01_30
+兎萌(CH02_0084)
+『I’m afraid so. I don't really see her talking to 
+her peers, and even when she does, it's about 
+work...』
+
+***ST02_30_00_20_01_30
+兎萌(CH02_0085)
+『I've never seen her get excited about her 
+personal life.』
+
+At first I thought it wouldn’t be a bad idea to 
+choose someone who might have more info on 
+Neko-chan other than Tomoe-san,
+
+but after hearing this, it looks like that plan 
+won’t work.
+
+***ST02_30_00_20_05_30
+兎萌(CH02_0086)
+『Unlike me, Neko-chan doesn't really seem to feel 
+lonely. Is it her age or personality? I'm a little 
+envious.』
+
+
+主人公
+『Haha, even when I, a paying customer, goes to see 
+her, I'm sure she sees me as nothing more than a 
+nuisance.』
+
+***ST02_30_00_25_04_30
+兎萌(CH02_0087)
+『Hey, boy. All you keep talking about is 
+Neko-chan. It’s making me jealous of her.』
+
+That caught me off guard. She’s so accommodating 
+that I end up just about myself and Neko-chan.
+
+***ST02_30_00_22_01_30
+兎萌(CH02_0088)
+『Just kidding. I mean I am jealous, but talking 
+like this doesn’t make me lonely, and I don't talk 
+much about myself anyway. 』
+
+Tomoe-san suddenly takes on a different atmosphere 
+and stares off.
+
+***ST02_30_00_25_00_30
+兎萌(CH02_0089)
+『*Sigh* "I wish my husband cared about me as well 
+as you...』
+
+主人公
+『Huh?』
+
+Husband...Does that mean a ‘Master’ that comes 
+here? No no, that doesn’t make sense.
+
+***ST02_30_00_21_02_30
+兎萌(CH02_0090)
+『Ufufu...You look confused. I'll tell you only 
+because you’re Neko-chan's patron. I'm 
+actually...』
+
+Married, she said while motioning a ring-like 
+object at the base of the ring finger on her left 
+hand with the fingers of her right hand.
+
+I guess she takes it off during work.
+
+***ST02_30_00_22_01_30
+兎萌(CH02_0091)
+『You’re the only one I’ve explicitly told, so keep 
+it a secret, okay? Hehe.』
+
+主人公
+『O, okay...』
+
+I don't know her circumstances for working here, 
+but I started to feel more excited for her. She's 
+a married woman...
+
+Just as I started to feel that way, Tomoe-san 
+closes the distance and puts her hand on my thigh, 
+as if she had read my thoughts.
+
+***ST02_30_00_21_01_30
+兎萌(CH02_0092)
+『Hey...it’s just my imagination, but...you’ve 
+already received that from Neko-chan, right?』
+
+主人公
+『Th-that…?』
+
+***ST02_30_00_22_01_30
+兎萌(CH02_0093)
+『Fufu, service. The one not on the menu, of 
+course. It’s a hunch, but I have a feeling you 
+already have.』
+
+主人公
+『This club’s service...』
+
+Is doing the deed...
+
+***ST02_30_00_27_01_30
+兎萌(CH02_0094)
+『Right, sex. Boy, you’re smooth, being able to 
+seduce that Neko-chan.』
+
+***ST02_30_00_25_00_30
+兎萌(CH02_0095)
+『Sorry for asking a strange question. It’s just, 
+it’s been quite a while for me...ahh, I’m so 
+jealous.』
+
+It's surprising that a woman as attractive as 
+Tomoe-san with such an amazing body hasn't had any 
+for some time.
+
+That thought was blatantly written on my face. My 
+eyes look at Tomoe-san as if I were licking her.
+
+***ST02_30_00_22_01_30
+兎萌(CH02_0096)
+『Fufu, you look surprised...and maybe a little 
+happy. I'm a married woman, so I tell my 
+customers...』
+
+***ST02_30_00_25_05_30
+兎萌(CH02_0097)
+『that I can only use my chest and mouth for 
+service. Luckily, my customers are all people who 
+are into that.』
+
+So, no one has sticked it in there for a while. 
+Not the customers...not even the husband.
+
+When Tomoe's hot, alcoholic scent mixed with her 
+sweet breath suddenly hits my face, my lower body 
+begins to react.
+
+***ST02_30_00_25_00_30
+兎萌(CH02_0098)
+『They’re all satisfied with my chest and mouth, so 
+they don’t ask for anything more...』
+
+主人公
+『But when I get home, my husband...』
+
+I gulp while gazing at Tomoe-san's chest and 
+crotch.
+
+***ST02_30_00_25_00_30
+兎萌(CH02_0099)
+『...He’s been working away from home for a long 
+time. So I'm alone when I get home.』
+
+I felt that Tomoe-san, tipsy and smiling, was 
+experiencing a strong sense of loneliness.
+
+And she obviously doesn’t know what to do with her 
+body. She probably got married at a young age.
+
+***ST02_30_00_22_01_30
+兎萌(CH02_0100)
+『But I still love my husband, of course. Even if 
+he’s far away.』
+
+主人公
+『So why are you working here...?』
+
+My thoughts came right out my mouth.
+
+***ST02_30_00_20_01_30
+兎萌(CH02_0101)
+『Do you hear that?』
+
+Tomoe-san, who was leaning forward, places her 
+hands on her thighs.
+
+主人公
+『Ah, uh...』
+
+***ST02_30_00_25_01_30
+兎萌(CH02_0102)
+『My husband...is an office worker now, but a while 
+back...he tried to start a small business. It 
+failed.』
+
+***ST02_30_00_21_01_30
+兎萌(CH02_0103)
+『At the time, I wanted to work part-time hoping that 
+it would help our budget...and I was introduced to 
+this place when I was looking for a job with good wages.』
+
+***ST02_30_00_20_01_30
+兎萌(CH02_0104)
+『At first I didn't know they did all sorts of 
+things here, but...I'm not lonely here. Maybe this 
+job suits me.』
+
+I feel a strong lust every time she touches me. Is 
+she in heat because she’s a rabbit…? I can't take 
+it.
+
+主人公
+『Umm, if I you do any more...』
+
+***ST02_30_00_25_06_30
+兎萌(CH02_0105)
+『I want to thank you. Just once, only today. Let 
+me serve you a little more...』
+
+With a sad expression, Tomoe-san approached while 
+staring at me with drunken eyes. I hugged her, 
+with an erection.
+
+***ST02_35_00_25_06_35
+
+//***BGround_BG99_00
+
+***BGM_FadeOut
+
+//暗転
+
+//レベル0　初来店時（兎萌強制イベント）・終わり
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

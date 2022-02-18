@@ -1,0 +1,202 @@
+//レベル2　初来店時・音瑚
+
+//---------------------------------------------
+
+//SE：ノック音
+
+***SE_door04
+
+//背景：音瑚の部屋
+***BGM_ティータイム
+***BGround3D_BG00_01
+
+
+I open the door...
+
+//音瑚立ち絵イン
+
+***ST01_21_00_00_01_00
+音瑚(CH01_0086)
+『Thank you for coming to play today.』
+
+***ST01_21_00_01_01_00
+音瑚(CH01_0087)
+『You came back to play so soon. I did say you 
+could come, but I didn't think it would be this 
+soon.』
+
+主人公
+『You didn’t want me to come?』
+
+***ST01_20_00_04_00_00
+音瑚(CH01_0088)
+『No, it’s fine. You being here helps me out and I 
+know I can’t refuse.』
+
+主人公
+『Still, I'm impressed that you welcomed me and 
+even waited for me.』
+
+***ST01_20_00_04_05_00
+音瑚(CH01_0089)
+『I wasn’t waiting at all! Don't get me wrong.』
+
+主人公
+『There was another girl who talked to me in the 
+lobby just now. She was about the same age as you, 
+but very straightforward and cute.』
+
+***ST01_20_00_03_03_00
+音瑚(CH01_0090)
+『So what! Are you saying I’m not cute because I'm 
+not straightforward?』
+
+主人公
+『Not really. Sometimes I just think that a 
+straightforward girl would be nice.』
+
+***ST01_20_00_03_05_00
+音瑚(CH01_0091)
+『What do you mean ‘sometimes’...So are you gonna 
+cancel now because I’m not straightforward?』
+
+主人公
+『I'm just a customer, right? Besides, if you don't 
+have to deal with me today, it’s easier for you, 
+right?』
+
+I’ll pick on her for a bit.
+
+***ST01_20_00_03_00_00
+音瑚(CH01_0092)
+『You know that I don't have any other customers. 
+I’d have nothing to do if I don’t entertain 
+Mister.』
+
+主人公
+『Heh...you want me to take care of you?』
+
+***ST01_20_00_04_03_00
+音瑚(CH01_0093)
+『N, no! Don't interpret it for your convenience! 
+I'm just asking you to help me kill time.』
+
+***ST01_21_00_04_03_00
+音瑚(CH01_0094)
+『Besides...the money hasn't been paid back yet, so 
+you canceling suddenly would be a problem.』
+
+***ST01_21_00_04_00_00
+音瑚(CH01_0095)
+『But even so, I won't stop you from going to 
+another girl...At least order something.』
+
+主人公
+『Okay, I won't cancel today, but I might pick 
+another girl next time. Anyway, I'll help you with 
+your debt.』
+
+***ST01_21_00_03_03_00
+音瑚(CH01_0096)
+『Mister chooses the girl, so do whatever you 
+want!』
+
+***ST01_21_00_03_00_00
+音瑚(CH01_0097)
+『And just like Mister, I’ll do whatever I want if 
+you don't mind me dealing with other customers!』
+
+主人公
+『It’s been on my mind for a while now, but the 
+name ‘Mister’...』
+
+***ST01_21_00_06_06_00
+音瑚(CH01_0098)
+『Ah...g-guest...』
+
+主人公
+『Heh. I’m not that fond of Mister, but I guess it 
+means I'm one step closer to you compared to other 
+customers.』
+
+***ST01_20_00_24_03_00
+音瑚(CH01_0099)
+『No! Not close! I just felt sorry for you if I 
+didn't call you that way after all this time!』
+
+I want to tease her a little more, but she might 
+completely turn away if I do any more. I’ll give 
+her a break.
+
+主人公
+『How much service will you give me today? That’ll 
+determine whether I’ll continue to choose you next 
+time.』
+
+***ST01_20_00_04_00_00
+音瑚(CH01_0100)
+『How much…? You’ve always done whatever without 
+asking me that.』
+
+***ST01_21_00_01_01_00
+音瑚(CH01_0101)
+『But I guess it’s my job...I'll do enough to 
+satisfy Mister.』
+
+***ST01_21_00_04_00_00
+音瑚(CH01_0102)
+『From now on, I'll...be a proper sex partner. So 
+don't cancel and go to another girl!』
+
+主人公
+『You sure get controlling when you become 
+attached...』
+
+***ST01_21_00_03_00_00
+音瑚(CH01_0103)
+『Well, let me tell you, this is all for money! 
+Don’t go and twist my words at your convenience 
+again.』
+
+主人公
+『Hardworking Neko-chan is honest and cute. And 
+you’re getting better at sex lately, so I won't 
+cancel.』
+
+***ST01_20_00_03_03_00
+音瑚(CH01_0104)
+『Stop making fun of me! If you’re gonna order, do 
+it already...how embarrassing!』
+
+***BGM_FadeOut
+
+//レベル２初来店時会話終わり
+
+
+***Scene_音瑚コミュへ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

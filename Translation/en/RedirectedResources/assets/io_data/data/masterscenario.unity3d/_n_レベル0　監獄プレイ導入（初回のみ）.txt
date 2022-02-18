@@ -1,0 +1,493 @@
+//レベル0　監獄プレイ導入（初回のみ）
+
+//------------------------------
+
+//背景：ロビー
+***BGround_BG01_01
+
+//ロビー音楽
+***BGM_Mad_Trick
+
+I headed to the store early today and reserved a 
+special room.
+
+I had an order that I had to get through to the 
+cheeky Neko-chan, and in order to do that I needed 
+to rent this room.
+
+It's a pretty maniacal play, but it's a great way 
+to discipline and humiliate Neko-chan now.
+
+
+***BGM_FadeOut
+
+
+//背景：音瑚の部屋
+
+***BGround3D_BG01_01
+
+//音瑚の部屋のBGM
+***BGM_ティータイム
+
+
+//音瑚立ち絵イン
+
+***ST01_50_00_04_00_50
+
+Neko-chan looks as grumpy as ever. Hopefully this 
+will make her a little more obedient.
+
+Either way, I can't wait to see what she looks 
+like. Let's give it a shot.
+
+主人公
+『Hey, Neko-chan.』
+
+音瑚(CH01_0600)
+『What?』
+
+主人公
+『I have a suggestion.』
+
+音瑚(CH01_0601)
+『Yes.』
+
+I ordered a drink, but she just looked at it and 
+didn't take a sip. The drink was getting lukewarm 
+on the table.
+
+主人公
+『From now on, we're not going to fuck in this 
+room, but... well...』
+
+I ponder how I can elicit a strong rejection.
+
+主人公
+『It's probably the busiest time of the day, so 
+let's fuck in the crowded lobby in front of 
+everyone.』
+
+***ST01_50_00_06_06_50
+音瑚(CH01_0602)
+『What?』
+
+主人公
+『I know you're probably surprised, but I want to do 
+this for Neko-chan more than I want to do it for 
+myself.』
+
+***ST01_50_00_03_03_50
+音瑚(CH01_0603)
+『'Why is that my...' I don't get it at all!　Stop 
+with the sick jokes!』
+
+主人公
+『I'm not kidding, I'm serious. I'm not kidding, I'm 
+serious. ...You've never fucked any of your 
+customers before.』
+
+主人公
+『I'm sure you'll be happy to know that Neko-chan 
+has finally grown up enough to suck a client's 
+cock all the way to the root.』
+
+主人公
+『I'm sure the customers who have been away will 
+come back to make reservations.』
+
+Before I had even finished, she was staring at me 
+as if she was going to jump on me.
+
+主人公
+『If I do that, I think I'll be able to pay off the 
+debt Neko-chan is in trouble with sooner...』
+
+音瑚(CH01_0604)
+『Are you out of your mind?』
+
+I know that Neko-chan will be angry like this.
+
+主人公
+『I really want to monopolize Neko-chan, but 
+considering her welfare, I think it's better to do 
+this.』
+
+Of course, I'm going to keep Neko-chan to myself.
+
+I found myself laughing at the transparent, 
+flippant lie that it was PR for other men.
+
+***ST01_50_00_03_06_50
+音瑚(CH01_0605)
+『I don't care how much trouble I'm in I'm not going 
+to go along with such a crazy proposal!』
+
+
+However, Neko-chan was so caught up in the content 
+of my proposal that she didn't notice my 
+intentions in the slightest.
+
+***ST01_50_00_03_06_50
+音瑚(CH01_0606)
+『I've put up with you long enough, but leave me 
+alone.』
+
+***BGM_FadeOut
+
+
+主人公
+『Are you sure you can't drink this suggestion?』
+
+***BGM_不穏な空気
+
+***ST01_50_00_03_06_50
+音瑚(CH01_0607)
+『What the hell is going on? How many times do I 
+have to say no before you'll understand?』
+
+主人公
+『Huh... dropping a lot of money on a girl with 
+such a bad attitude...』
+
+主人公
+『I'm the one who's making it possible for you to 
+pay off your debt now, remember?』
+
+***ST01_50_00_03_05_50
+音瑚(CH01_0608)
+『I know that, I know that, but I don't want to be 
+in the lobby, I can't! You're too persistent.』
+
+主人公
+『You know what I'm talking about, but you can't 
+listen to me?』
+
+***ST01_50_00_03_06_50
+音瑚(CH01_0609)
+『You're so persistent! I can't do it, no matter 
+what. I don't even like regular sex, so there's no 
+way I can do that.』
+
+Yes, I dumped something I couldn't possibly do, so 
+it was completely natural for it to go this way. 
+This is good.
+
+主人公
+『Oh, I see... you don't like it that much...』
+
+***ST01_50_00_03_05_50
+音瑚(CH01_0610)
+『Of course.』
+
+主人公
+『You know your position, but you still say you 
+can't or won't or whatever...』
+
+As I stared at her, I saw a hint of anxiety in her 
+face, which had always been angry.
+
+***ST01_50_00_03_04_50
+音瑚(CH01_0611)
+『So, what the hell... I don't know what to say...』
+
+Normally, after a couple of exchanges, I would 
+shut up. Even Neko-chan seemed to have noticed 
+that the flow was strange.
+
+主人公
+『If you can't follow me that far, I'll just have 
+to take you there...』
+
+***ST01_50_00_04_05_50
+音瑚(CH01_0612)
+『Oh, what's that place...I'd never go there if it 
+was a lobby.』
+
+In the first place, I even mistook the demi-cafe 
+for a high-end maid cafe or something.
+
+she probably didn't even know that place existed.
+
+主人公
+『'Hmm, I still think Robbie's better, don't you?』
+
+***ST01_50_00_03_06_50
+音瑚(CH01_0613)
+『I told you I'm not going! You're an idiot!』
+
+主人公
+『I'm sorry, but you have a bad mouth. Well, I'll 
+fix your lisp there too, but...』
+
+***ST01_50_00_04_05_50
+音瑚(CH01_0614)
+『... Damn it, that's why I've been... I don't know 
+what you're talking about.』
+
+Neko-chan looked back at me suspiciously. But I'm 
+not going to reassure her or comfort her.
+
+主人公
+『I don't want my favors to be neglected, so...　I'm 
+sorry, but come on, stand up.』
+
+***ST01_50_00_06_06_50
+音瑚(CH01_0615)
+『No, no, no. What a pity. Where do you think 
+you're going?』
+
+主人公
+『It's in the store, not the lobby. If you don't listen to 
+me, I'll call the staff. If you don't listen to me, I'll 
+call the staff, and I'm sure they'll send some right away.』
+
+主人公
+『I think it's better to follow me and go quietly 
+than to be held down and taken away.』
+
+***FadeInBlack
+
+//音瑚はけ
+
+***ST01_50_00_06_06_50
+
+Then Neko-chan stood up, though she glared hard at 
+me.
+
+I wondered if she felt a little more comfortable 
+knowing that she was in a store and that the staff 
+knew her.
+
+Still, my body was terribly tense.
+
+she urged her to leave the room.
+
+From there, I stood ahead of her as if escorting 
+her down the hallway and detoured toward the 
+stairs at the back of the lobby.
+
+***BGM_FadeOut
+
+Then she went downstairs.
+
+
+It was no longer the corridor of an exclusive 
+club, but rather a corridor of inorganic concrete 
+walls.
+
+//SE ドサ音
+
+***SE_tumbling1
+
+I opened the door to one of the rooms in the space 
+beyond, let Neko-chan in as if I were halfway 
+pushing her out, and locked the door behind her.
+
+
+***FadeOutBlack
+
+//暗転終わり
+//背景：監獄格子前
+
+***BGround3D_BG51_01
+
+***BGM_Tokage
+
+//音瑚立ち絵イン
+
+***ST01_01_00_06_06_00
+音瑚(CH01_0616)
+『It's not good... What the hell is this place?』
+
+主人公
+『This is one of the service rooms Demi-Cafe 
+provides.』
+
+The air was chilly and smelled humid, as if it 
+were underground.
+
+The dim lighting, the sturdy construction of the 
+jail, and the facilities inside the jail are all 
+just like a real jail from a long time ago.
+
+***ST01_01_00_03_03_00
+音瑚(CH01_0617)
+『This service... is not a prison, no matter how 
+you look at it!』
+
+主人公
+『...here, with the consent of the guest and the 
+cast, such play is allowed...』
+
+主人公
+『They say you can use it to punish cast members 
+who don't listen to you.　Or you can use it to 
+train them.』
+
+***ST01_01_00_03_05_00
+音瑚(CH01_0618)
+『You're kidding...』
+
+主人公
+『If you think I'm joking, why don't you take a 
+look around and see what we have in store for 
+you?』
+
+I looked fearfully into the bars and around them, 
+at what was in this space, and heard a shuddering, 
+spitting sound.
+
+主人公
+『'Come on, get inside. If you don't listen to me, 
+I'm going to have to rough you up... and you don't 
+want to get hurt, do you?』
+
+From the tools available for restraint, she picked 
+up a rope and motioned with a chin tuck to head 
+into the bars.
+
+***ST01_00_00_05_05_00
+音瑚(CH01_0619)
+『Oh, please don't tie me up. And I will listen to 
+you from now on... so get me out of here and back 
+to my room.』
+
+主人公
+『'I'll try to listen to you, there's no reason to 
+bring it back.　Besides, it could be a one-time 
+lie, and it's too late for that now.』
+
+I laughed at the difference between my 
+misunderstanding in the room and my current 
+attitude.
+
+***ST01_00_00_03_06_00
+音瑚(CH01_0620)
+『No, I'm not lying! What are you laughing at?』
+
+主人公
+『It's too loud to be heard... just get inside.』
+
+I grabbed her by the shoulders and pushed her into 
+the bars. The atmosphere in this room affected me 
+to be a little rough.
+
+//暗転
+
+***ST01_00_00_06_06_00
+音瑚(CH01_0621)
+『Hey! Don't tie me up. Don't... don't do that!　I 
+said stop it!』
+
+主人公
+『I've done a bit of research on how to tie her up, 
+but I'm not sure I can keep her from getting hurt if 
+she gets out of control, so I'll just hold her still...』
+
+***ST01_01_00_05_06_00
+音瑚(CH01_0622)
+『No, no, no, no! No! No! Stop it!』
+
+//縛られているシネマ
+
+***FadeOutBlack
+***Cinema_2000
+
+
+音瑚(CH01_0623)
+『What are you doing?』
+
+主人公
+『If you keep sugar coating your face, you'll never 
+listen to me.』
+
+音瑚(CH01_0624)
+『I didn't do anything wrong but I demanded things 
+from you that you couldn't even do.』
+
+音瑚(CH01_0625)
+『You just wanted to do this, you pervert!』
+
+主人公
+『'Yes, yes. The more you say, the more you can't 
+imagine what will happen.』
+
+主人公
+『And I think Neko-chan is the one who will become a pervert. 
+I think you're the one who's going to become a pervert, 
+because you're going to become a sow that's suited to the pigsty.』
+
+音瑚(CH01_0626)
+『What are you talking about?』
+
+主人公
+『So let's hear a lot of good moaning.』
+
+***Scene_監獄プレイへ
+
+//------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

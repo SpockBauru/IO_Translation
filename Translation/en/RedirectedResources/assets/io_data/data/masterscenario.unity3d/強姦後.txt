@@ -1,0 +1,282 @@
+//黒画面
+***BGround_BG99_01
+
+音瑚(CH01_0065)
+『Haa, haa, haa...hic...h, haa.』
+
+I cummed as much as I wanted, and moved like I 
+wanted. But it was still not enough...
+
+主人公
+『No matter how much you reject me...you would have 
+ended up with someone eventually. It was bound to 
+happen sooner or later.』
+
+音瑚(CH01_0066)
+『Hick…*sob*...*sob*...*sob*...*sob*...』
+
+主人公
+『You have no customers other than me to begin 
+with, so there's no way you'd get chosen. That's 
+why I'll continue to call for Neko-chan.』
+
+主人公
+『You no longer have the power to refuse. You have 
+no choice but to be with me.』
+
+It's come to this. From here on out, it'll 
+probably be impossible to get along with her.
+
+Besides, after getting to know the taste of 
+Neko-chan's body, I have no intention of keeping 
+up the relationship we had.
+
+
+***BGround_BG99_01
+//---------------------------------------------
+
+And then I leave the room.
+
+//扉バタン
+***SE_DOOR_Wood_Bedroom_Close_01_mono
+Then I went to the lobby.
+
+***SE_FOOTSTEPS_Leather_Wood_Hollow_Walk_x8_loop_mono
+//足音
+
+Everything I did happened in the heat of the 
+moment. But maybe it was a good opportunity.
+
+If I come to the club as a well paying customer, a 
+cast member in debt
+
+would finally start earning money. Then I probably 
+would no longer be turned away or be unable to 
+make reservations.
+
+The club would be in a pinch if Neko-chan couldn't 
+make money for the big problem she caused. Even if 
+it means she's forced to...
+
+
+//背景：ロビー
+
+***BGround_BG01_01
+
+//ロビーBGM
+***BGM_Mad_Trick
+
+When I left Neko-chan's room and went to the 
+lobby, I heard a voice from behind.
+
+？？？(CH02_0019)
+『Fufu, you had a lot of fun today.』
+
+主人公
+『Oh, uh...』
+
+ I look back. It's a familiar voice. But I forgot 
+her name.
+
+//兎萌立ち絵イン
+
+***ST02_00_00_01_01_00
+兎萌(CH02_0020)
+『It's Tomoe. Sorry for calling out to you so 
+suddenly.』
+
+主人公
+『Oh, don't worry about it.』
+
+***ST02_00_00_02_01_00
+兎萌(CH02_0021)
+『Fufu, did you choose Neko-chan today as well? You 
+really like that girl, don't you?』
+
+Tomoe-san, who doesn't know what happened, smiles 
+happily.
+
+***ST02_00_00_01_01_00
+兎萌(CH02_0022)
+『It's been a while since you started coming here. 
+Have you gotten used to the place? You've 
+accumulated some points, right?』
+
+主人公
+『Points? ...No, this is the first time I'm hearing 
+about points...』
+
+When I said that, her face turned from a surprised 
+reaction to a smug, bitter smile.
+
+***ST02_00_00_05_01_00
+兎萌(CH02_0023)
+『Geez, Neko-chan...You forgot to give it to this 
+young man who likes you a lot.』
+
+***BGM_FadeOut
+
+
+***ST02_01_00_01_01_00
+兎萌(CH02_0024)
+『Alright, here. Don't tell anyone that I gave it 
+to you.』
+
+//兎萌立ち絵はけ
+***ST02_01_00_01_01_05
+//ポイント説明画表示
+***BGround_BG06_01
+
+//ポイント説明状態BGM
+***BGM_ティータイム
+
+兎萌(CH02_0025)
+『“This is the reward card for Demi Cafe. You can 
+collect points by ‘playing’ in the club.』
+
+兎萌(CH02_0026)
+『On your way out, get your points from the cast 
+member you played with that day.』
+
+
+***BGround_BG07_01
+
+兎萌(CH02_0027)
+『You can use your accumulated points to...For 
+example, change Neko-chan's appearance to your 
+liking.』
+
+兎萌(CH02_0028)
+『You can also unlock special services.』
+
+***BGround_BG09_01
+
+兎萌(CH02_0029)
+『Oh right...There is also special play that can be 
+unlocked for Neko-chan and I under certain 
+conditions, fufu.』
+
+主人公
+『Tomoe-san...I think you're better than the 
+staff.』
+
+兎萌(CH02_0032)
+『Fufu, I suppose it's from experience of working 
+at noon. Ah yes, and...』
+
+***BGround_BG10_01
+
+兎萌(CH02_0033)
+『Obviously, the amount of time you can play in a 
+day is limited. So you can't do everything you 
+want.』
+
+兎萌(CH02_0034)
+『The elapsed time and points you receive depend on 
+the type of play, so please think carefully about 
+how you want to play that day.』
+
+***BGround_BG99_01
+***BGM_END
+
+兎萌(CH02_0035)
+『Anyway, that's about it regarding the reward 
+card...』
+
+兎萌(CH02_0036)
+『At first, I think you should spend it as you like 
+without thinking about it too much.』
+
+
+//ポイント説明画面終わり
+//ロビーBGM
+***BGM_Mad_Trick
+//兎萌立ち絵イン
+
+***BGround_BG01_01
+***ST02_00_00_00_01_00
+
+兎萌(CH02_0037)
+『Sorry for the long explanation. I stopped you on 
+your way home...』
+
+主人公
+『Ah, no...』
+
+***ST02_00_00_01_01_00
+
+兎萌(CH02_0038)
+『Oh, right. To make up for forgetting to give you 
+the card, I'll add a lot of points for you. I'm 
+really sorry about that.』
+
+It seems that Tomoe-san added a lot of points, and 
+then handed me the card.
+
+***ST02_00_00_05_01_00
+
+兎萌(CH02_0039)
+『So, please don't blame Neko-chan for not passing 
+the card on. Please.』
+
+***ST02_00_00_02_01_00
+
+兎萌(CH02_0040)
+『I added quite a bit, so please use it as soon as 
+possible if you like. Well then, that's all from 
+me...』
+
+//兎萌立ち絵はけ
+
+***ST02_00_00_02_01_05
+
+So this is the Demi Cafe reward card...It looks 
+like I can do a lot with this according to 
+Tomoe-san's explanation.
+
+***BGM_FadeOut
+
+So do I use it now, or save it for later...?
+
+***Scene_ポイントカードへ
+
+
+//ポイントカード画面
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

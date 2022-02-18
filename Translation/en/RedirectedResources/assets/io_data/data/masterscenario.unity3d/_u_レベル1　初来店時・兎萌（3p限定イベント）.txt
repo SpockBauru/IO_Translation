@@ -1,0 +1,380 @@
+//レベル1　初来店時・兎萌
+//限定イベント（ネコLv02、羊Lv01）来店時
+
+//---------------------------------------------
+//背景：ロビー
+***BGround_BG01_00
+
+***BGM_Mad_Trick
+
+As I walked through the lobby...
+
+One of the several box seats. In that seat that no 
+one is using.
+
+Neko-chan...
+
+//音瑚立ち絵イン
+
+***ST01_21_00_01_05_01
+
+Tomoe was there.
+
+//兎萌立ち絵イン
+
+***ST02_01_00_00_01_02
+
+The two of them seemed to be having a peaceful 
+conversation.
+
+***ST01_21_00_01_05_01
+音瑚(CH01_0502)
+『Well...I guess you're right...but when I actually 
+faced it, I didn't understand at all.』
+
+***ST02_01_00_05_01_02
+兎萌(CH02_0106)
+『Well... I'm explaining things like this, but it's 
+not like I've become able to do it logically... 
+Hmm...』
+
+she seemed to be in trouble. However, she didn't 
+look serious. ...Eavesdropping is in bad taste. 
+Let's talk to her.
+
+主人公
+『It's rare to see the two of you together in the 
+lobby.』
+
+***ST02_00_00_00_01_02
+兎萌(CH02_0107)
+『Oh...』
+
+***ST01_21_00_06_06_01
+音瑚(CH01_0503)
+『How long have you been here?』
+
+主人公
+『It was hard to find the right time to talk to her 
+because she was talking so much.　But I thought it 
+would be bad to stand there and listen for too long.』
+
+***ST01_20_00_04_03_01
+音瑚(CH01_0504)
+『Wait, where did you hear that from?』
+
+***ST02_00_00_05_01_02
+兎萌(CH02_0108)
+『Hey, you shouldn't talk to me like that since 
+you're the one who properly called me out.』
+
+***ST01_20_00_05_05_01
+音瑚(CH01_0505)
+『I'm sorry... I'm sorry...』
+
+I looked alternately at Tomoe and Neko-chan, who 
+apologized.
+
+***ST02_01_00_01_01_02
+兎萌(CH02_0109)
+『Hmm...』
+
+Tomoe was looking at me and Neko-chan in turn, 
+thinking about something.
+
+***ST02_01_00_01_01_02
+兎萌(CH02_0110)
+『I guess...』
+
+Neko-chan, who is keeping quiet, looks nervous for 
+some reason.
+
+***ST02_01_00_02_02_02
+兎萌(CH02_0111)
+『Oh, yes!』
+
+***ST02_00_00_02_01_02
+兎萌(CH02_5000)
+『Actually, we were just talking about your 
+brother.』
+
+//猫0506は欠番です
+
+***ST01_21_00_06_06_01
+音瑚(CH01_0507)
+『Whoa, whoa! Are you gonna say it? No! No! No!』
+
+I was a little surprised by Neko-chan's behavior. 
+However, I didn't realize that what she was talking 
+about with such a troubled look on her face was about me...
+
+主人公
+『I've been coming here a lot lately.　I've been 
+coming here a lot lately, but...』
+
+Tomoe was there, too, so I decided to ask 
+Neko-chan point-blank.
+
+***ST01_21_00_05_05_01
+音瑚(CH01_0508)
+『Well, it's not that... but ......』
+
+***ST02_00_00_01_02_02
+兎萌(CH02_0112)
+『Oh? In a way, you asked me for advice because you 
+were having trouble with your brother, right?』
+
+***ST01_21_00_25_00_01
+音瑚(CH01_0509)
+『I know, I know, but... .........』
+
+I looked at Tomoe, who was talking happily and 
+leisurely, and at Neko, who was shrinking and 
+blushing more and more.
+
+What kind of consultation did you have?
+
+***ST02_00_00_02_01_02
+兎萌(CH02_0113)
+『I didn't know you were in so much trouble," she 
+said. But it's okay now.　Your brother came at just 
+the right time, and we're talking like this.』
+
+主人公
+『Well, what is this 'consultation' about?』
+
+***ST01_21_00_25_05_01
+音瑚(CH01_0510)
+『～～～～!!!』
+
+I stare at Neko-chan, who has blushed and 
+stiffened to the point where I'm worried that 
+steam might actually come out of her head.
+
+***ST02_00_00_01_01_02
+兎萌(CH02_0114)
+『Neko-chan wanted her brother to feel better, but 
+she couldn't do it properly...』
+
+***ST02_00_00_01_01_02
+兎萌(CH02_0115)
+『I heard that she tried her best in her own way, 
+but as usual, she just let herself be made to feel 
+good...』
+
+***ST01_21_00_25_06_01
+音瑚(CH01_0511)
+『Tomoe-san...! Please don't say anything 
+else!　Please don't tell anyone! I'll die of 
+embarrassment.』
+
+***ST02_00_00_02_01_02
+兎萌(CH02_0116)
+『Don't worry, I have a plan and I'm telling you.』
+
+Neko-chan was breathing so hard that I could 
+almost feel the heat coming off her, and Tomoe-san 
+seemed to be enjoying herself.
+
+***ST02_00_00_00_01_02
+兎萌(CH02_0117)
+『So, I thought your brother wasn't happy with me, 
+so she came to me for advice about her sex life.』
+
+***ST01_21_00_25_05_01
+音瑚(CH01_0512)
+『Hmm...』
+
+Neko-chan... You've always been so curt with me, 
+but did you ever think that...?
+
+***ST02_00_00_05_01_02
+兎萌(CH02_0118)
+『But I'm not very good at explaining things orally, 
+so it's difficult.』
+
+***ST02_00_00_02_01_02
+兎萌(CH02_0119)
+『But I've come up with the best solution for you 
+right now.』
+
+Neko-chan turns her still-not-completely-red face 
+to Tomoe.
+
+***ST01_21_00_06_00_01
+音瑚(CH01_0513)
+『What? Can you fix it right now?』
+
+***ST02_00_00_02_01_02
+兎萌(CH02_0120)
+『Yes.』
+
+I guess I look just like Neko.
+
+Tomoe pulled her face a little closer so that Neko 
+and I could hear her.
+
+***ST02_01_00_01_02_02
+兎萌(CH02_0121)
+『Let's have sex together now. I'll teach you in 
+person.』
+
+***ST01_21_00_06_06_01
+音瑚(CH01_0514)
+『What, what, what, what, what?』
+
+Neko-chan's voice startled me and the staff who 
+were a little further away.
+
+***ST02_01_00_07_02_02
+兎萌(CH02_0122)
+『I'll teach you how to make me feel good. I'm going 
+to teach you how to make me feel so good. How 
+about you, brother?』
+
+主人公
+『Oh, I'm just curious... because I want to, you 
+know.』
+
+When I answered quickly, I had already imagined 
+the moment I was fucking both of them.
+
+***ST02_01_00_02_01_02
+兎萌(CH02_0123)
+『Look, Neko-chan. Your brother wants to try it.　So 
+it's decided... right?』
+
+***ST01_21_00_05_05_01
+音瑚(CH01_0515)
+『But, um, I'm embarrassed...』
+
+***ST02_01_00_01_01_02
+兎萌(CH02_0124)
+『You're worried about your technique, aren't 
+you?　Besides, when it comes to feeling good, I 
+love it and I'm good at it.』
+
+I release a word of warning to Neko-chan and 
+signal her to follow us with a glance.
+
+Tomoe began to walk happily to her room.
+
+***BGM_FadeOut
+
+***ST01_21_00_05_05_05
+***ST02_01_00_01_01_05
+
+//黒暗転
+***BGround_BG99_00
+
+//背景：兎萌の部屋
+
+***BGround3D_BG00_01
+
+//兎萌の部屋の音楽
+***BGM_Whisky_Nights
+
+I arrived at Tomoe's room.
+
+***ST02_00_00_01_01_01
+兎萌(CH02_0125)
+『Well, welcome again. It's kind of refreshing to 
+have the three of us here, isn't it?』
+
+***ST01_21_00_25_05_02
+音瑚(CH01_0516)
+『Oh, no, I'm still embarrassed...』
+
+***ST02_01_00_07_01_01
+兎萌(CH02_0126)
+『Well, now that you're here, you'd better prepare 
+yourselves. Come on, you two, come here...』
+
+//暗転
+***BGround_BG99_00
+
+***ST01_21_00_25_05_05
+***ST02_01_00_07_01_05
+
+
+--
+
+-Mr.
+
+
+***BGround3D_BG00_01
+
+***ST02_20_00_00_01_02
+兎萌(CH02_0127)
+『I'll show you how it's done, so you can help me 
+make your brother feel better, okay?』
+
+***ST01_41_00_25_05_01
+音瑚(CH01_0517)
+『I'll do my best.』
+
+***ST02_20_00_27_01_02
+兎萌(CH02_0128)
+『Then let's make you feel good..." "That looks 
+good..." "Huh...』
+
+Perhaps because she has completely blown off her 
+husband, Tomoe is obedient to her ample sexual 
+desires.
+
+Maybe the things I've been holding back have made 
+me more of a slut than I used to be.
+
+***BGM_FadeOut
+
+***BGround_BG99_01
+
+***ST01_41_00_25_05_05
+***ST02_20_00_27_01_05
+
+//暗転
+
+//レベル1初来店時・兎萌　終わり
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

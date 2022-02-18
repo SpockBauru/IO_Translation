@@ -1,0 +1,309 @@
+//レベル移行劇0→1
+//------------------------------
+
+***LoopCV_0001
+***Cinema_0400
+***BGround3D_BG00_00
+
+***LoopCV_0031
+
+音瑚(CH01_0156)
+『Ngh...hu...ha...haah, ha, hah, ngh...ahh, hah, 
+kuh..oo...』
+
+主人公
+『You get wet so easily and are used to my cock, 
+and yet such a painful voice is all you can let 
+out?』
+
+音瑚(CH01_0157)
+『...Ngh...ha...ahh...mmm...mmm...ha...hah...』
+
+主人公
+『Why don’t you be honest and speak? Or is this not 
+enough? You want it deeper?』
+
+音瑚(CH01_0158)
+『Shut up...that’s not it...ah, ngah, ah…』
+
+主人公
+『It looks like it's getting more painful for you. 
+I guess it means you’re really feeling it.』
+
+音瑚(CH01_0159)
+『No...mmm...ha...ah...ah...ah...』
+
+***Cinema_0401
+
+主人公
+『What's wrong? Those eyes. When I thrust, your 
+pussy responds. If you have something to say, tell 
+me.』
+
+音瑚(CH01_0160)
+『No-nothing...I dunno...what response...you’re 
+talking about...ngh...ha...』
+
+主人公
+『...Oh, is that so? The only honest one here is 
+your pussy taking in my cock. If you say that it 
+feels good, I'll pound you for days.』
+
+音瑚(CH01_0161)
+『Mmm...being happy...with that lie...is 
+utterly...pitiful...』
+
+主人公
+『Then I’ll just have to make it so pleasurable you 
+can’t stand it.』
+
+***LoopCV_0001
+
+音瑚(CH01_0162)
+『Wh-what’s...with that...arrogance...』
+
+***Cinema_0402
+
+音瑚(CH01_0163)
+『Hey...what are you doing...mmm!!』
+
+主人公
+『Oh...so this is the spot, you’re getting 
+tighter...your body is so honest it’s lewd.』
+
+***Cinema_0403
+
+音瑚(CH01_0164)
+『Wh-what do you mean by...the spot...mmm, haa, 
+ahhn...hya, ah...no!』
+
+主人公
+『...Looks like you can’t hold back your voice 
+anymore.』
+
+音瑚(CH01_0165)
+『Hah, ah ...I’m just, uh...acting...hah...mmm』
+
+主人公
+『Hmm...and your pussy clinging to my cock as I 
+thrust is acting too, huh? Amazing... 』
+
+音瑚(CH01_0166)
+『There’s no way that could be acting...ah no, 
+stop...no...it's not acting...ahh...』
+
+主人公
+『Ohhhh, so this is genuine?』
+
+音瑚(CH01_0167)
+『Sh-shut...up...uh...!!』
+
+***Cinema_0404
+
+主人公
+『When you force yourself, it hits the right spot 
+and...you swell and tighten...』
+
+音瑚(CH01_0168)
+『No, no, oh, there...ah! Ah! Right there, it feels 
+weird...inside, no...mmm』
+
+音瑚(CH01_0169)
+『Hah, ah, ah, ah...ah!! Hya, stop thrusting, stop 
+for a moment...』
+
+主人公
+『It's so good...being entwined with 
+you...ha...even if you say you hate it, your body 
+completely reacts.』
+
+音瑚(CH01_0170)
+『No...it's because you’re being rough...so deep, 
+ahihaha...mmm, stop! I said stop...』
+
+***Cinema_0405
+
+主人公
+『...You say that, but you’re moving your hips as I 
+thrust.』
+
+音瑚(CH01_0171)
+『Uh, don’t...lie, ah, my voice is...uh...』
+
+主人公
+『I'll make you feel even better in celebration of 
+you finally accepting me...』
+
+音瑚(CH01_0172)
+『No, stop...ah, ahhh...!!! What is this, ah, not 
+there, ah...!』
+
+主人公
+『Well, I can't leave you being so tight...I wonder 
+what’ll happen if you’re already feeling so much 
+this early on...』
+
+音瑚(CH01_0173)
+『My body is moving on its own...you did this to 
+me...I’m not like this...ah...stop playing with 
+me! Let go! Mmmmm...hya! Ahh』
+
+主人公
+『Alright then...let's cum together...』
+
+***Cinema_0406
+
+***LoopCV_0004
+
+音瑚(CH01_0174)
+『No, no, no...ahhh, stop, I feel strange, going 
+crazy, ah, ah, no...!!』
+
+***Cinema_0407
+
+音瑚(CH01_0175)
+『Noooo, ahhhhh...ahhh!!!』
+
+***LoopCV_0090
+
+音瑚(CH01_0176)
+『...Ah...hah...ah...hah...ah...』
+
+Almost at the same time as Neko-chan came, I 
+released my sperm inside her.
+
+***LoopCV_FadeOut
+
+//シネマここまで
+
+//黒暗転
+
+***BGround_BG99_00
+***Cinema_END
+
+----
+
+--
+
+//背景：音瑚の部屋
+***BGround3D_BG00_01
+***BGM_ティータイム
+
+//音瑚立ち絵イン
+
+***ST01_50_00_00_00_50
+
+主人公
+『Neko-chan, you looked like it felt pretty good 
+just now...』
+
+***ST01_50_00_04_00_50
+音瑚(CH01_0177)
+『Yes, it was very good.』
+
+She surprisingly agreed before I finished talking. 
+However, she glared at me and her tone was sharp. 
+Is it slight defiance or sarcasm?
+
+In any case, it's the first time that Neko-chan 
+moved along with me and came intensely.
+
+She may have done it unconsciously, but this 
+should be enough for now.
+
+***ST01_50_00_04_05_50
+音瑚(CH01_0178)
+『...Indeed, it's as you said, I'm able to pay back 
+the money. It’s really frustrating, but that's the 
+fact of the matter...』
+
+***ST01_50_00_04_00_50
+音瑚(CH01_0179)
+『Up until now, I knew I had no choice, but I 
+didn't want to believe it.』
+
+I listened quietly, puzzled at Neko-chan’s sudden 
+inclination to talk.
+
+***ST01_50_00_04_00_50
+音瑚(CH01_0180)
+『But as I was able to pay it off little by little, 
+my thoughts started to change as well.』
+
+***ST01_50_00_04_05_50
+音瑚(CH01_0181)
+『From now on, I’ll deal with you as my job.』
+
+***ST01_50_00_04_05_50
+音瑚(CH01_0182)
+『I don't want you to misunderstand, so I’ll say 
+this - I'm not into having sex with you nor have I 
+changed my mind about you.』
+
+***ST01_50_00_04_05_50
+音瑚(CH01_0183)
+『I’ve decided to just make money, pay it off, and 
+then leave as soon as possible.』
+
+When she said that, the contempt and anger 
+disappeared from her face, and she became 
+emotionless.
+
+***ST01_50_00_00_00_50
+音瑚(CH01_0184)
+『I am looking forward to your next visit, sir.』
+
+This is still going to take a lot of time, but 
+it’s something to look forward to.
+
+I casually said my farewell and left the room.
+
+***BGM_FadeOut
+
+//レベル移行劇0→1終わり
+
+***Scene_兎萌初来店時へ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

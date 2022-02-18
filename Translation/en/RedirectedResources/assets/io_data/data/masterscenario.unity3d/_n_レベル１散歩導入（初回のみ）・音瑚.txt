@@ -1,0 +1,775 @@
+//レベル１散歩導入（初回のみ）
+
+//------------------------------
+//ADVパート
+
+//黒画面
+
+***BGround_BG99_00
+
+
+At Demi-Cafe, only customers are allowed to go on 
+dates outside the store during business hours.
+
+Maybe it's because I'm a customer of Neko-chan, an 
+unwieldy cast member, but I've only been coming 
+here for a short time, and I'm able to make that order.
+
+However, a mere date would end with a bunch of 
+mindlessly convenient words.
+
+The old me would have been delighted by that, but 
+now it's not enough.
+
+she probably doesn't realize it, but her clerical 
+attitude is magnifying her desire to be thoroughly 
+disciplined and subjugated.
+
+Order a special date from Neko-chan to fulfill it.
+
+
+
+//音瑚の部屋のBGM
+***BGM_ティータイム
+
+//背景：音瑚の部屋
+***BGround3D_BG00 3D_ID_00
+
+
+//音瑚立ち絵イン
+***ST01_10_00_04_05_00
+
+音瑚(CH01_0320)
+『I think that order is a bit... arrogant.』
+
+主人公
+『I thought you'd accept me submissively since you 
+recently said you were prepared. That's the extent 
+of your resolve?』
+
+***ST01_10_00_04_05_00
+音瑚(CH01_0321)
+『I'm just saying I'm prepared, I'm not saying I'll 
+do everything.』
+
+I immediately tried to cut out a special menu for 
+an out-of-store date, but she was quite reluctant.
+
+主人公
+『I'm just going to go for a walk around a certain 
+course near the store so that I don't get caught 
+with a toy in my hand, and then come back.』
+
+主人公
+『If I walk normally, it'll only take me about 15 
+minutes.』
+
+***ST01_10_00_03_00_00
+音瑚(CH01_0322)
+『How can you walk around with a toy in your hand? 
+It's not even a matter of time.』
+
+主人公
+『I'll be right behind you, and you won't be 
+walking around naked.　As long as Neko-chan keeps 
+her cool, no one will find out.』
+
+***ST01_10_00_23_05_00
+音瑚(CH01_0323)
+『That's not the point! I can't let something like 
+that get to me!』
+
+I really don't think I can keep my composure. 
+she's already forgotten how to dress up her tone, 
+and she's turning red and pouncing on me.
+
+主人公
+『Well, I just want to feel like I'm out on a date 
+with Neko.』
+
+***ST01_10_00_23_03_00
+音瑚(CH01_0324)
+『That's it! Then there's no need for extra toys! If 
+it was a normal walk, I'd be happy to go.』
+
+主人公
+『No, that's fine too. I've paid a lot of money for 
+Neko-chan, and it's only natural that I want to 
+receive the service I deserve, right?』
+
+***ST01_10_00_23_03_00
+音瑚(CH01_0325)
+『Well, that's true, but.... But to walk outside 
+with a toy inside...ugh...』
+
+主人公
+『'Or do you want to have sex here as usual?　Oh, you 
+prefer a live cock to a toy?』
+
+***ST01_10_00_03_03_00
+音瑚(CH01_0326)
+『No, no, no, no, no! Don't talk like that!　It's a 
+misunderstanding! Fifteen minutes... fifteen 
+minutes is all it takes, right?』
+
+主人公
+『'Only if you walk properly. Either that, or you 
+can stay here and suck my cock until the end.』
+
+Neko-chan may come at me when she's upset. But if 
+she gets on board with this, it's all over.
+
+***ST01_11_00_03_04_00
+音瑚(CH01_0327)
+『Yes! Well, well, well... a walk! I'm going for a 
+walk!　I'll go outside with that toy...』
+
+Okay, here it comes.
+
+***ST01_11_00_04_05_00
+音瑚(CH01_0328)
+『Let's go as soon as we can. I'll get the job done!』
+
+//SE・コンというグラスみたいな固い音
+***SE_putting_a_water_glass2
+
+Then Neko-chan drank her drink from a large glass 
+and placed it on the table.
+
+
+主人公
+『'Haha, that's brave. I'm glad you took my order.』
+
+You finally drank it all... Everything's going 
+according to plan now.
+
+主人公
+『And I'm going to blindfold you so you don't run 
+away. And a leash.』
+
+***ST01_11_00_04_05_00
+音瑚(CH01_0329)
+『You're such an animal...! And if you wear a 
+blindfold, you won't be able to walk properly!』
+
+主人公
+『Don't worry, don't worry. I'll lead the way, 
+don't worry.』
+
+I forced Neko-chan, who seemed unconvinced, to 
+agree.
+
+I guess the resistance is small compared to toys. 
+she didn't say anything more.
+
+主人公
+『Wouldn't it be better to insert the toy here and 
+now?　Unless Neko-chan is a pervert who wants to be 
+penetrated outside.』
+
+***ST01_10_00_03_03_00
+音瑚(CH01_0330)
+『Oh, of course! I'll be right here, please...』
+
+主人公
+『Here, open your legs. ...yeah, yeah, spread them 
+a little more.』
+
+***ST01_10_00_25_05_00
+音瑚(CH01_0331)
+『I'm so embarrassed...』
+
+she slowly removes her pants, which are soaked in 
+the girl's scent...
+
+//SE ズプヌプ系音
+***SE_2020_a
+
+A lotion-laden vibrator is slowly sunk into her 
+clitoris.
+
+***ST01_11_00_25_05_00
+音瑚(CH01_0332)
+『Ah... haha... so deep...』
+
+主人公
+『If you don't put it deep enough, it will stand out.　I 
+think Neko-chan's tightness is good, so I think 
+she'll be fine, but make sure it's tight and don't drop it.』
+
+***ST01_11_00_25_05_00
+音瑚(CH01_0333)
+『Hm...huh... I understand... Ahh...』
+
+
+***Item01_0000
+
+
+she gently put a blindfold on her face, which was 
+holding back.
+
+
+//***BGround_BG99_00
+
+主人公
+『'What's the matter? Are you more excited than 
+usual when you're blindfolded?』
+
+***ST01_11_00_25_05_00
+音瑚(CH01_0334)
+『No, it's not that... it's just that my insides 
+are tingling... it feels weird...』
+
+The glass that Neko-chan drank out of. I had 
+dissolved a strong diuretic in it beforehand.
+
+***ST01_11_00_25_05_00
+音瑚(CH01_0335)
+『Huh...』
+
+I guess it's already starting to take effect...
+
+主人公
+『Relax? Let's go, then.』
+
+***Item01_0001
+
+I left the private room, holding the leash that 
+extended from the collar properly.
+
+Taking great care not to let other guests or cast 
+members see this unusual appearance, I went out 
+the back door of the lobby.
+
+//SE：扉バタン
+***SE_DOOR_Fridge_Close_stereo
+
+//黒背景終わり
+//背景：道路
+***BGround3D_BG30_01
+
+
+
+//BGM
+***BGM_Dope_town_-_bassmusic_loop_2
+
+//***BGM_wind1_2
+
+//音瑚立ち絵イン（着衣・目隠し・バイブあり）
+
+***ST01_11_00_25_00_00
+音瑚(CH01_0336)
+『Haa...haa...』
+
+This was the third time Neko-chan had stopped 
+after leaving the store.
+
+***ST01_11_00_25_05_00
+音瑚(CH01_0337)
+『I'll start walking right away... I'll start 
+walking right away... Wait, wait, wait. Wait, 
+please...』
+
+***ST01_11_00_25_05_00
+音瑚(CH01_0338)
+『Huh, huh, huh, huh...』
+
+Neko-chan's hand reaches for the vibrator again 
+and again. Even though it's slimy, it's tightening 
+up and not dropping.
+
+主人公
+『If you pull it out or drop it without permission, 
+we'll start the walk all over again.』
+
+***ST01_11_00_25_00_00
+音瑚(CH01_0339)
+『U, yes...! Um... No one is walking around, 
+right?　Is anyone watching us?』
+
+With each step, another short tail sprouted from 
+her pussy and stirred her naka.
+
+主人公
+『Don't worry. Don't worry, I'll take care of the 
+area.　You won't hear anyone's footsteps or voices 
+but mine. Come on, walk.』
+
+***ST01_10_00_25_00_00
+音瑚(CH01_0340)
+『I understand...』
+
+I can almost feel the anxiety in my heart.
+
+主人公
+『Neko-chan, your walking pace has been slowing 
+down since a while ago.』
+
+...I was squirming by the time I left the 
+restaurant. Although she didn't say it out loud, 
+the diuretic effect must have been strong.
+
+***ST01_10_00_25_00_00
+音瑚(CH01_0341)
+『No, that's not it...』
+
+主人公
+『'Well, let's keep walking. We're almost at the 
+turnaround point.』
+
+***ST01_10_00_25_05_00
+音瑚(CH01_0342)
+『Ha, ha, ha, ha...』
+
+If you look down at her, you can see the blatant 
+color of the vibrator that she is holding firmly 
+in her mouth.
+
+主人公
+『What's wrong?』
+
+I think it's about to get hard.
+
+***ST01_10_00_25_05_00
+音瑚(CH01_0343)
+『It's nothing...』
+
+Neko-chan, who is clearly straining herself, is 
+interesting. I stare at her body.
+
+Normally, I would immediately make a face of 
+disdain... but now, blindfolded, I wouldn't even 
+notice such a disgusting gaze.
+
+主人公
+『I see. Then let's move on.』
+
+I let Neko-chan go on without showing any sign of 
+concern.
+
+//SE 革靴（主人公）の音
+***SE_kawagutu
+
+***ST01_10_00_25_00_00
+音瑚(CH01_0344)
+『Haa... haa... haa...』
+
+主人公
+『Are you tired? Or would you like me to stimulate 
+you more?』
+
+***ST01_10_00_25_06_00
+音瑚(CH01_0345)
+『Oh, no...』
+
+I made the vibration of the vibrator just a little 
+bit stronger and she screamed unexpectedly.
+
+主人公
+『You're strangely sensitive today.』
+
+***ST01_11_00_25_05_00
+音瑚(CH01_0346)
+『It's nothing. I just want to finish my walk and go 
+back to the store.』
+
+Maybe it's because I can't afford it, but I've 
+forgotten how to talk politely.
+
+Normally, Neko-chan makes it look like she's 
+obedient. But Neko-chan suddenly got on my nerves.
+
+主人公
+『No. It's nice and breezy. The breeze feels good. 
+Let's take it slow.』
+
+I tug lightly on the lead, and at the same time, I 
+make the vibrator move all the more intensely for 
+a moment.
+
+
+//★ここからへたりこんだりするのでシネマ★
+
+
+音瑚(CH01_0347)
+『Oh, no... Oh, no, no, no... Mmm...』
+
+The next thing I know, Neko-chan is slumped down 
+on the floor, her body bouncing wildly.
+
+主人公
+『Oh, what's wrong? Did you just cum?　You're such a 
+naughty girl... come on, stand up.』
+
+Of course, they can't see our faces, which they 
+enjoy agitating.
+
+音瑚(CH01_0348)
+『No, no, no, no. I'm not coming... oh... pee... let 
+me go to the bathroom...』
+
+主人公
+『Oh, the bathroom... okay. Just stand up.　Then 
+I'll take you there.』
+
+she still believes it's just a walk to be tinkered 
+with toys.
+
+音瑚(CH01_0349)
+『I'm gonna...I'm gonna...』
+
+It looks like it's working pretty well. It would 
+be interesting to see if she shits her pants, 
+but... let's stir things up a bit more.
+
+主人公
+『What? What?』
+
+I look down at her, biting back a laugh.
+
+音瑚(CH01_0350)
+『If I stand up now... if I put too much pressure 
+on it, it will leak... please, let me go back to 
+the store...』
+
+You think that if you talk politely on the 
+surface, I'll listen to you. You're about to 
+become incontinent with a vibrator in your mouth.
+
+主人公
+『I don't like it. I still want to go for a walk. I 
+still want to take a walk. It's weird that a cat 
+who needs to pee is wearing clothes.』
+
+I put my hands on Neko-chan's clothes. I let out a 
+short scream and try to get away from her hands, 
+but I can't resist properly because of my urine.
+
+音瑚(CH01_0351)
+『No, I'm not listening to this! I'm not 
+listening!　No! Stop...ugh...』
+
+Do you feel like you're going to leak if you put 
+too much pressure on your hands trying to push 
+away or your legs trying to spring back?
+
+I was able to get her completely naked in a matter 
+of seconds.
+
+//音瑚立ち絵・全裸
+***Item01_0002
+***SE_MOVEMENT_Snow_RR1_mono
+
+
+
+音瑚(CH01_0352)
+『No, no, no. Give me my clothes back. Please, I'll 
+do anything you say. I don't want to shit my pants 
+in the street.』
+
+//SE 遠い車のエンジン音
+***SE_CAR_Drive_By_03_mono
+
+As Neko-chan's words intensified, I heard the 
+sound of a running engine from across the street.
+
+主人公
+『Get down on all fours quickly. If you sit and 
+squirm, you'll stand out and they'll know you're 
+naked.』
+
+音瑚(CH01_0353)
+『Ah...』
+
+//シネマA
+***Cinema_0300
+
+
+she somehow managed to flop down and start walking 
+on all fours. I could see that she was in pain.
+
+音瑚(CH01_0354)
+『I don't need to go to the store, but I need to 
+use the restroom, please.』
+
+主人公
+『I'll let you go to the bathroom in the park nearby 
+if you walk without leaking.』
+
+//このあたりで車発動（端から走らせる）
+***Cinema_0301
+
+音瑚(CH01_0355)
+『Oh, please... hide me... and don't... let... 
+me... be... seen...』
+
+主人公
+『If you stop and hide it, you'll stand out. Come 
+on, walk.』
+
+
+***Cinema_0302
+
+音瑚(CH01_0356)
+『Oh, no... Please, don't... Pull it out... it's 
+vibrating, it's hard... it's leaking...』
+
+主人公
+『Okay, but I don't want to know if the stimulus 
+you pulled out causes a leak.』
+
+//SE 適当なところで車が走り抜ける音を入れる
+***Cinema_0301
+
+音瑚(CH01_0357)
+『It's still good...』
+
+主人公
+『Oh, I think the driver might have been looking at 
+me.』
+
+***Cinema_0303
+
+She is already bright red, but it makes her even 
+more embarrassed.
+
+音瑚(CH01_0358)
+『Oh no...』
+
+主人公
+『It's okay. You look great in that outfit.』
+
+I would "praise" her by tweaking the vibrations on 
+the vibrator to suit my whims.
+
+音瑚(CH01_0359)
+『Don't say that...』
+
+主人公
+『Does that make you feel even better?』
+
+音瑚(CH01_0360)
+『No, no, no, no, no...』
+
+主人公
+『You're so bossy...well, that's just like 
+Neko-chan.　Oh, there are two guys coming from over 
+there. Here, walk properly.』
+
+//Bモーション
+***Cinema_0304
+
+
+音瑚(CH01_0361)
+『No, no, no, no. No, please, protect me!』
+
+//SE ２人の足音+あるなら話し声
+
+主人公
+『Shoo! Don't shout, just walk.』
+
+音瑚(CH01_0362)
+『Aah...ugh...』
+
+
+***Cinema_0305
+
+
+カップル・女
+「でねー、私が課長にそう言ったらぁ…」
+
+カップル・男
+「ん…？ おい、アレ見ろよ」
+
+カップル女
+「え、ええ？！うそぉ」
+
+***Cinema_0304
+
+音瑚(CH01_0363)
+『Ugh...ugh...』
+
+A young man and woman walked innocently towards us 
+from the front. They seemed to be lovers.
+
+Obviously, she was curious to see our Neko-chan's 
+disgusting appearance, and slowed down her pace to 
+stare at us.
+
+カップル・男
+「全裸で首輪して…うわ、バイブ突っ込まれてるぞ」
+
+カップル・女
+「なに、変質者？こんなとこで信じらんない…」
+
+音瑚(CH01_0364)
+『Haha, haha... don't look at me...』
+
+カップル・男
+「すげぇプレイだな」
+
+It's time. Let's show them. I raise the vibration 
+of the vibrator to the maximum.
+
+//Cモーション
+***Cinema_0306
+
+音瑚(CH01_0365)
+『Heeeey!』
+
+音瑚(CH01_0366)
+『Ahh, ahhh, no, no, no, no... Ahh, I'm coming... 
+ah!』
+
+カップル・男
+「うわぁ…すげぇ…」
+
+カップル・女
+「ね、ねぇ！もう行こうよ！！」
+
+The man's eyes are glued to Neko-chan's 
+lasciviousness. The woman hurriedly tried to walk 
+away as if she was pulling her away from it.
+
+//SE 遠ざかる足音
+
+音瑚(CH01_0367)
+『Ah, ah... ah... ah...』
+
+主人公
+『Oh, she's gone. I could have shown you more.』
+
+音瑚(CH01_0368)
+『Oh, no... ah... ah... ah... ah...』
+
+主人公
+『Haha. The guy was staring at Neko-chan and had a 
+huge erection.』
+
+主人公
+『What's wrong? Stop. Did you want me to see more of 
+you?』
+
+音瑚(CH01_0369)
+『I'm going to pee... if I move, I'm really going to 
+pee... stop the vibrator... I can't stand it... I 
+can't do it anymore...』
+
+主人公
+『I see, I see...you've reached your limit. I don't 
+know how you've been able to endure so much with 
+those strong diuretics, great, great, great.』
+
+音瑚(CH01_0370)
+『No, no, no...?』
+
+主人公
+『I'm not going to make it to the bathroom in time 
+anyway, so let's do it here.』
+
+
+
+//放尿プレイへ
+
+//レベル１散歩導入（初回のみ）・終わり
+
+
+***Scene_散歩プレイへ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

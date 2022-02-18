@@ -1,0 +1,616 @@
+//音瑚レベル移行劇2→3
+//------------------------------
+//背景：音瑚の部屋
+***BGround3D_BG00_01
+
+//音瑚の部屋の音楽
+***BGM_ティータイム
+
+//音瑚立ち絵イン
+
+***ST01_42_00_01_01_00
+音瑚(CH01_0225)
+『Well, well, well, well... Come visit me 
+again!　I'll be waiting for you!』
+
+主人公
+『Oh, yes. I was just about to leave when I forgot 
+to tell you.』
+
+***ST01_20_00_04_00_00
+音瑚(CH01_0226)
+『I'll never ask you to do it all over again.　I will 
+never ask you to do it all over again.』
+
+主人公
+『Starting tomorrow, I won't be able to come here 
+for a while.』
+
+***ST01_20_00_06_06_00
+音瑚(CH01_0227)
+『What? What...? What? Why? Don't tell me you're 
+mad because of that?』
+
+主人公
+『'No, I'm just going on a little business trip for 
+work. I'll just be traveling for work, but 
+Neko-chan will be in trouble without me.』
+
+***ST01_20_00_04_00_00
+音瑚(CH01_0228)
+『I'm not in any trouble! I'm glad I don't have to 
+look at you. ...Have a safe trip.』
+
+主人公
+『I thought I said 'trouble' in terms of money.　Did 
+you think I meant that I'd have trouble getting 
+laid?』
+
+***ST01_20_00_03_03_00
+音瑚(CH01_0229)
+『Of course it's money! I'm sure you're the one 
+who's going to get in trouble if I get another 
+customer while you're away!』
+
+//音瑚立ち絵はけ
+***ST01_20_00_03_03_05
+
+I left the store, laughing at Neko-chan's 
+determination.
+
+***BGM_FadeOut
+
+***BGround_BG99_01
+//黒暗転
+
+-----
+
+--
+
+-Mr.
+
+***BGround_BG00_00
+
+My boring but hectic business trip is over. It's 
+been a while since I've been to a demi-cafe after 
+work.
+
+Anyway, let's go see Neko-chan. After completing 
+the reception, we headed to Neko-chan's room.
+
+//SE：ノック音
+***SE_door_09_knock
+
+//背景：音瑚の部屋
+***BGround3D_BG00_01
+
+Before I could... open the door, it opened first.
+
+***SE_door04
+
+she leaned forward slightly in surprise.
+
+//音瑚立ち絵イン
+
+***ST01_21_00_05_05_00
+音瑚(CH01_0230)
+『Moo! Uncle, you're late! I've been waiting for 
+you my whole life.』
+
+主人公
+『Oh, hey, Neko-chan? ...What's wrong?』
+
+***ST01_21_00_05_00_00
+音瑚(CH01_0231)
+『It's really too late... come here quickly...』
+
+Before I can say the next word, she grabs my arm 
+and tries to pull me to the bed. I don't 
+understand.
+
+***FadeInBlack
+//黒暗転
+
+
+音瑚(CH01_0232)
+『I know you said you were working, but you've been 
+away from the store for a long time, are you tired 
+of me?　I didn't act cute at all the other day...』
+
+音瑚(CH01_0233)
+『I haven't seen your face in a long time, and I 
+can't take it anymore.　I'll do my best so that you 
+don't get bored, so watch me...』
+
+What do you mean, "see"?
+
+***BGM_ファイル名
+***FadeOutBlack
+***Cinema_0600
+***LoopCV_0003
+
+音瑚(CH01_0234)
+『Hmm... ah...』
+
+音瑚(CH01_0235)
+『My uncle is watching me... she's in this room and 
+I can smell her... ah, ah, ah, ah...』
+
+主人公
+『It's not like I've never done this before. I've 
+never done anything like this before...』
+
+音瑚(CH01_0236)
+『I've been alone for a long time, and I couldn't 
+kill time, so when I was in this room, all I could 
+think about was having sex with my uncle.』
+
+***Cinema_0601
+
+Neko-chan's fingers were slick and shiny, coated 
+with a generous amount of love juice.
+
+音瑚(CH01_0237)
+『Even when I'm doing it myself, it's completely 
+different with you there! It feels 
+so...good...mmm...』
+
+she was making such a disgusting noise that I 
+thought it was louder than her voice at times, and 
+she was getting himself impatient and aroused.
+
+音瑚(CH01_0238)
+『'Hen...right...okay, smile. I'm tingling.　I 
+haven't been this excited since uncle stopped 
+coming.』
+
+
+//Bループ
+***Cinema_0602
+
+
+音瑚(CH01_0239)
+『Look, it's already so thick, my juices from when 
+I feel best are overflowing... hahaha... ah...』
+
+When I stare at it after being told to do so, I 
+see that it is indeed overflowing with white, 
+bubbling real juice.
+
+It not only soaked her clit, but also dripped onto 
+the sheets.
+
+音瑚(CH01_0240)
+『The one who made me like this... is my uncle...』
+
+音瑚(CH01_0241)
+『In the beginning, I was only doing it for the 
+money, but now I feel like I could have done it 
+with anyone, but I'm so frustrated...』
+
+As if in proportion to her bouncing breath and 
+voice, her fingers sank hard into her bloodshot 
+cleft, making a gurgling sound.
+
+音瑚(CH01_0242)
+『Just thinking about it made my heart beat faster 
+and faster.』
+
+音瑚(CH01_0243)
+『My whole body, my breasts and my pussy feel so 
+good... hey, can you make me hard like this today? 
+Do it hard...』
+
+She wiggled her upper body lazily and lustfully, 
+her lips moistened with saliva moving.
+
+When I try to peek at her, she pulls back and 
+invites me in.
+
+//Cループ
+***Cinema_0603
+
+音瑚(CH01_0244)
+『I've been doing this to myself while you've been 
+away.　I moved my fingers in and out just like 
+you've done for me...』
+
+音瑚(CH01_0245)
+『But I can't just do it by myself...』
+
+...I didn't care if Neko-chan was acting 
+differently from usual anymore, I was completely 
+absorbed in watching her.
+
+音瑚(CH01_0246)
+『You can't stop, but it's not enough...』
+
+Ask questions that you would normally be able to 
+prod away in anger.
+
+主人公
+『...Neko-chan, is that begging masturbation?』
+
+音瑚(CH01_0247)
+『I don't know. I've never been like this before, 
+but I can feel my uncle watching me, and I can't 
+wait to do it.』
+
+I grin inwardly.
+
+主人公
+『I was just away and I didn't tell you, but you've 
+learned to beg and masturbate on your own, haven't 
+you?』
+
+音瑚(CH01_0248)
+『I've never been gone this long before. I want you 
+to hurry up and take responsibility for making me 
+like this.』
+
+主人公
+『There's nothing I can do for a cocky kid who 
+doesn't know how to beg.』
+
+//クパァ待機
+***Cinema_0604
+***LoopCV_0090
+
+音瑚(CH01_0249)
+『I'm not going to be cocky anymore, I'm going to 
+beg for it, haha, I want it, I want it here, 
+please...!』
+
+主人公
+『It's begging to say exactly what you want and 
+where you want it.』
+
+音瑚(CH01_0250)
+『Here...insert...it...here.........』
+
+主人公
+『What is this place?』
+
+音瑚(CH01_0251)
+『Oh, pussy...』
+
+主人公
+『What?』
+
+音瑚(CH01_0252)
+『Oh, cock...』
+
+主人公
+『Whose cunt do you want in whose cock?』
+
+音瑚(CH01_0253)
+『I want your cock in my cunt.』
+
+音瑚(CH01_0254)
+『Come on, come on! I can't take this much 
+pain...please! Give me all you want...!』
+
+主人公
+『If you want it, you have to ask for it. If you 
+want it, you'll have to ask for it properly.』
+
+音瑚(CH01_0255)
+『Oh my god...oh my god...! Please insert your cock 
+into my pussy...』
+
+Now it looks like it won't be a problem to give it 
+another push at all.
+
+主人公
+『I'll give it to you if you tell me what a dirty 
+pussy you have and what kind of cock you want.』
+
+音瑚(CH01_0256)
+『Hey, ah...! I told you so. I'll tell you, I'll 
+tell you... Please give it to me... ah... ah... 
+ah...』
+
+her skin is sweaty and her brow is contorted. she 
+doesn't have any of the biting vibe I've seen 
+before. she is quite impatient.
+
+音瑚(CH01_0257)
+『My... greedy, twitching, gooey, wet... dirty 
+cunt...』
+
+音瑚(CH01_0258)
+『Uncle's big, hard, manly cock that bends over and 
+seems to reach deep into your womb...』
+
+音瑚(CH01_0259)
+『I'm not going to let you do it. Huh, huh...』
+
+音瑚(CH01_0260)
+『I can't take it anymore! Please! Please fuck me! I 
+want you to shoot your thick cock into my 
+perverted, dirty pussy! Please...』
+
+主人公
+『I can't help it...』
+
+she said huskily and grabbed her as hard as she 
+had the first time.
+
+***LoopCV_FadeOut
+***FadeInBlack
+
+//暗転→シネマ
+
+-----
+
+--
+
+-Mr.
+
+***FadeOutBlack
+//正常位　Dループ
+***Cinema_0605
+***LoopCV_0001
+
+音瑚(CH01_0261)
+『I love your cock, it's so good, it's the best...』
+
+主人公
+『So someone set you up while you were away?』
+
+音瑚(CH01_0262)
+『Oh, no! No! I didn't do that!　I've been 
+masturbating by myself for a long time.』
+
+音瑚(CH01_0263)
+『Ah, ah, ah, ah... Uncle's cock is so good! It's so 
+different from fingers, vibrators, rotors...』
+
+音瑚(CH01_0264)
+『Please! Please, I've been waiting for this for a 
+long time, so please fuck me a lot!』
+
+主人公
+『I don't like the fact that you still call me uncle 
+after all this time.』
+
+音瑚(CH01_0265)
+『I don't know what to call you, but... don't slow 
+down! I want to cum.』
+
+主人公
+『I'm the only one who can satisfy Neko-chan's 
+pussy, right?』
+
+音瑚(CH01_0266)
+『Oh, yes...! I can't think of anything else.』
+
+主人公
+『'That's what owners and masters are for. If you 
+obey and pledge to be my exclusive masturbator, 
+I'll make you cum.』
+
+音瑚(CH01_0267)
+『I'm coming, I'm coming, I'm coming, I'm coming. 
+I'm coming!』
+
+***Cinema_0606
+***LoopCV_0003
+
+主人公
+『Don't... I won't make you cum until you swear.』
+
+音瑚(CH01_0268)
+『Oh, don't stop... please, just keep thrusting and 
+making me come like before...』
+
+主人公
+『So, master...?』
+
+音瑚(CH01_0269)
+『I can't call you...』
+
+she wants a cock so badly, but apparently she 
+still has a little bit of her old pride left.
+
+『I think she is subconsciously resisting the fact 
+that saying "Master" implies absolute obedience.』
+
+It's a last stand. In other words, I'm almost 
+ready to fall completely.
+
+主人公
+『Then I'll leave you to cum, and if you do, I'll 
+never ask you again.』
+
+***Cinema_0607
+
+
+音瑚(CH01_0270)
+『Please don't stop. Ah, ah...! I think I might be 
+able to cum at this rate...』
+
+音瑚(CH01_0271)
+『I don't want to come halfway like this... I can't 
+be satisfied like this...』
+
+主人公
+『So, Neko-chan, how do you want to come?』
+
+音瑚(CH01_0272)
+『I'm going to be fucked so hard, I'm going to cum, 
+I'm going to cum, I'm going to cum...』
+
+音瑚(CH01_0273)
+『Oh, oh, oh... my womb is full of cock juice and I 
+want to cum... oh, oh, oh...』
+
+主人公
+『So what do I do?』
+
+音瑚(CH01_0274)
+『~~...』
+
+主人公
+『Don't try to move on your own...』
+
+音瑚(CH01_0275)
+『I mean, my body moves on its own...』
+
+主人公
+『I'll make you cum as much as you want, so why 
+don't you just tell me?　It'll be easier...?』
+
+音瑚(CH01_0276)
+『Hmmm...!』
+
+//スパート
+***Cinema_0608
+***LoopCV_0004
+
+主人公
+『Move but don't cum. If you do, you won't get 
+another chance... If you want to cum, swear that 
+you belong to your master.』
+
+音瑚(CH01_0277)
+『Ah"! Aah! Fuck, fuck, fuck... I can't do it 
+anymore. I swear. I want to cum, I want to cum, I 
+swear.』
+
+主人公
+『Look! What's wrong with you? Tell me!』
+
+音瑚(CH01_0278)
+『Yes, I swear! Master...!』
+
+音瑚(CH01_0279)
+『From now on, you are my only master!　Neko is my 
+master's... It's my special hole!』
+
+音瑚(CH01_0280)
+『I will serve you with all my heart as your 
+masturbation pet...!　I obey you!』
+
+音瑚(CH01_0281)
+『『あ"っ、あ"、んぁ"っ…っ、だから…、ひうっ、　あぁっ！ Please make me cum, 
+master!　Please...! Please make me cum!』
+
+主人公
+『'Okay, from now on, I'm going to use you 
+exclusively for me. Scream and come as much as you 
+want.』
+
+***LoopCV_FadeOut
+
+//絶頂
+***Cinema_0609
+***Flash
+
+音瑚(CH01_0282)
+『Ahhhh, thank you, master!』
+
+//暗転（シネマ終わり）
+
+***FadeInBlack
+
+
+After that, Neko-chan, who had become honest, 
+faltered and looked embarrassed, and clung to me, 
+calling me Master.
+
+After that, she continued to fuck her as many 
+times as time allowed, as if she were a dam.
+
+//音瑚レベル移行劇2→3・終わり
+
+
+
+***Scene_ポイントカードへ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
