@@ -1,4 +1,4 @@
-# IO Translation
+# Insult Order Translation
 
 English fan translation project for Insult Order. The translations are applied while the game is running and do not require replacing or modifying any game files.
 
