@@ -141,9 +141,9 @@ days.』
 
 ***ST02_00_00_01_01_00
 兎萌(CH02_0045)
-『Rather than a rumor...I heard a customer who saw 
-Neko-chan at that time talking about how great the 
-atmosphere was.』
+『I wouldn’t say rumors...it was more like I heard 
+a customer talking about seeing Neko-chan that 
+time and how her aura was very good.』
 
 ***ST02_00_00_02_01_00
 兎萌(CH02_0046)
@@ -175,9 +175,9 @@ became quite popular.』
 
 ***ST02_01_00_02_01_00
 兎萌(CH02_0048)
-『It seems that it spread by word of mouth to the 
-customers who had previously left because of 
-Neko-chan's attitude.』
+『Her reputation spread by word of mouth, even to 
+customers who had been put off by Neko-chan’s past 
+attitude.』
 
 Her service was very good...Tomoe-san's words are 
 damaging.

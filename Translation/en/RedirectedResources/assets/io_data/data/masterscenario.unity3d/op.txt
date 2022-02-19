@@ -487,9 +487,8 @@ knows about Neko-chan.
 ***ST02_00_00_02_01_00
 
 兎萌(CH02_0007)
-『I'm sorry. I don't want to stand in the middle of 
-the aisle talking, so if you don't mind, I'd like 
-to come over here for a minute...』
+『Oh dear. Well, I'm in the middle of the walkway. 
+If it's okay with you, could we talk over here...』
 
 Tomoe looks towards the corner of the lobby and 
 leads the way.
@@ -881,7 +880,7 @@ As soon as I opened the door, she ran up to me.
 ***ST01_00_00_01_01_00
 
 音瑚(CH01_0025)
-『Hi, welcome. Thank you for coming to visit me 
+『Wel-welcome. Thank you for coming to play again 
 today.』
 
 ***ST01_00_00_01_01_00
