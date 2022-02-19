@@ -19,7 +19,7 @@ original text=translated text
 ```
 Example: 
 ```
-悟飯=Food
+食物=Food
 ``` 
 Lines beginning with `//` are considered comments, i.e., they are not considered in the translation.
 
