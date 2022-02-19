@@ -112,7 +112,7 @@
 『違っていたらどうしよう…なんて。ふふ。良かった。\n　あの、今お急ぎですか？』=“I misheard you...heehee. Thank god. Are you in a rush now?"
 『いえ、時間はあります。ちょっと前に来たところで。\n　でも、なかなか音瑚ちゃんと打ち解けられないし\n　一旦出直そうかなーなんて…』="No, I have time. I came here a moment ago, but I couldn't get along with Neko-chan, so I thought I'd try again..."
 会社からは本当に緊急なら電話が来るだろう。それより\n音瑚ちゃんを知っている兎萌さんに興味が出てきた。=If it was really important the office would call. Whatever, I'm more interested in Tomoe-san, who knows about Neko-chan.
-//『あらあら…。あの、通路の真ん中で立ち話も\n なんですからもしよかったら、ちょっとこちらへ…』=I'm sorry. I don't want to stand in the middle of the aisle talking, so if you don't mind, I'd like to come over here for a minute..."
+//『あらあら…。あの、通路の真ん中で立ち話も\n なんですからもしよかったら、ちょっとこちらへ…』="Oh dear. Well, I'm in the middle of the walkway. If it's okay with you, could we talk over here...”
 兎萌さんがロビーの一角へと目配せして、促すように\n歩き出した。=Tomoe looks towards the corner of the lobby and leads the way.
 『音瑚ちゃんを指名してくださって、本当にありがとう\n　ございます』="Thank you very much for choosing Neko-chan."
 突然深くお辞儀をされた後に、まるでスタッフのような\n言葉を口にした兎萌さんについ目を丸くしてしまった。=After suddenly being bowed to deeply, I unintentionally stared at Tomoe-san with wonder, who spoke like the staff.
@@ -190,7 +190,7 @@
 はやる気持ちで受付を済ませ、音瑚ちゃんの部屋へと\n急ぐ。=I rush through reception and hurry towards Neko-chan's room with excitement.
 ここ数日、色んな妄想や期待や心配をしたけれど\n今はともかく顔を見て安心したい。=I've had nothing but delusions, expectations, and worries these past few days, and now I just want to look at her face to feel at ease.
 扉を開けるとすぐに、たたたっと走り寄って来て\nくれた。=As soon as I opened the door, she ran up to me.
-//『よっ、ようこそ。今日は遊びにきてくれて\n ありがとう』="Hi, welcome. Thank you for coming to visit me today."
+『よっ、ようこそ。今日は遊びにきてくれて\n ありがとう』="Wel-welcome. Thank you for coming to play again today."
 『ほ、ほら。座って…ね？』="C-Come. Have a seat...please?"
 様子を伺おうと顔を覗き込む前に、椅子を勧められる。=She offers me a seat before looking at me.
 『ありがとう』="Thank you."
@@ -374,7 +374,7 @@
 『どうって…私はせいせいするわ。アンタの顔なんて\n　見たくもないもん。困ることなんて…』="I’d be relieved. I don't want to see your face. It would be one less trouble in my life..."
 『少なくとももうこの店にはいられなくなると思う。\n　客がいない上に稼がない子を囲う場所じゃないし』="At the very least, you won’t be able to stay here anymore. It's not a place that keeps girls who have no customers and don't make money."
 『べ、別に私はここじゃなくたって他の店に…』="Well, I can just go to another club..."
-//『こういう業界で有名な人の顔を潰したんだ。デミカフェ\n も音瑚ちゃんに責任をとってもらわなきゃいけない\n はずだよ』="You've ruined the face of someone famous in the industry. Demi-Cafe should have to take responsibility for Neko-chan's actions.
+『こういう業界で有名な人の顔を潰したんだ。デミカフェ\n も音瑚ちゃんに責任をとってもらわなきゃいけない\n はずだよ』="You embarrassed a person famous in this industry. Demi Cafe will absolutely have you take responsibility for it."
 『次はもっと本格的でハードなお店に売られるよ？\n　昨日のことよりもっと酷いことをされるだろうなぁ…』="The next place you’ll be sent to will be more real and hard. You'll be treated worse than what happened yesterday...'
 『っ……』="..."
 睨まれてはいるものの、心なしか覇気のようなものが\n消えたような気がする。=Even though she’s staring at me, somehow I feel like her ambition has disappeared.
@@ -1223,7 +1223,7 @@
 だが、それを顔や態度に出ないように自分を諌めつつ\n冷静に聞き返す。=However, I calmly ask her while trying not to give any hints on my face or attitude that I felt like it was over.
 『噂…？』=Rumors…?
 『以前は部屋に篭りっきりだったけど、\n　ここ何日かはロビーに出てきているみたいでね』="She used to stay in her room, but it looks like she’s been out in the lobby for the past few days."
-//『噂というより…その時の音瑚ちゃんを見かけたお客さん\n が雰囲気がとっても良いって話してるのを聞いたわ』="Rather than a rumor...I heard a customer who saw Neko-chan at that time talking about how great the atmosphere was.
+『噂というより…その時の音瑚ちゃんを見かけたお客さん\n が雰囲気がとっても良いって話してるのを聞いたわ』="I wouldn’t say rumors...it was more like I heard a customer talking about seeing Neko-chan that time and how her aura was very good."
 『柔らかくなったっていうか…』="Her behavior became softer..."
 『自分から、ロビーに…』="Going to the lobby herself..."
 兎萌さんの言うとおり、音瑚ちゃんは客がつこうが\nつくまいが部屋で待機しているだけの子だった。=As Tomoe-san says, Neko-chan was a girl who just waits in her room, whether she had a customer or not.
@@ -1232,7 +1232,7 @@
 いじるだけいじって、突然来なくなった俺に腹を立てたか\n愛想を尽かしたか…。=Did she get angry or impatient with me after I suddenly stopped messing around with her?
 他の客を積極的に探し始めたのだろうか…。=Did she start looking for other customers?
 『それからなの。お客さんがまた付きだしてね。\n　サービスがすごくいいって評判なの』="And then, the customer came back again. Apparently, her service was very good and she became quite popular."
-//『以前、音瑚ちゃんの態度で離れたお客さんにもそれが\n 口コミで広がったみたい』=It seems that it spread by word of mouth to the customers who had previously left because of Neko-chan's attitude.
+『以前、音瑚ちゃんの態度で離れたお客さんにもそれが\n 口コミで広がったみたい』="Her reputation spread by word of mouth, even to customers who had been put off by Neko-chan’s past attitude."
 サービスがすごく評判…\n兎萌さんの一言一言にダメージが入る。=Her service was very good...Tomoe-san's words are damaging.
 『これもお兄さんが音瑚ちゃんの相手をしてくれた\n　お陰ね。…改めて、ありがとうございます』="This is also thanks to Onii-san being Neko-chan’s partner…Thank you again."
 『あ、いや…』="Ah, no..."
@@ -1665,7 +1665,7 @@
 『あ、いや。今日は仕事で遅くなるはずだったんですが\n　案外早く片付いて…予約いれてなかったんです』="Ah, no. I was expecting to be late at work today, but I finished early...I didn't make a reservation either."
 『そうだったの。あなたからの指名で忙しくしていた分、\n　予約がない日はしっかり休むように言われてるのね』="Is that so. For all the busy work with your reservations, she’s been told to take a good rest on her free days."
 『あの騒動から音瑚ちゃんとお喋りする時間が１度も\n　なかったぐらいお仕事が入ってたらしくて』="Apparently she had so much work that I never had a chance to talk with her since that commotion."
-//『ふふ、音瑚ちゃんによくしてくれてるのね。\n ありがとう』=You've been good to Neko-chan, haven't you? Thank you."
+『ふふ、音瑚ちゃんによくしてくれてるのね。\n ありがとう』="Hehe, you're taking good care of Neko-chan. Thank you."
 音瑚ちゃんとは違ったしっとりした声色と言葉の\n間合いにドキドキしてしまう。=My heart pounds at her voice and words, different from Neko-chan.
 『兎萌さんは今から誰か…？』="Are you with someone right now...?"
 『ううん。今日はまだ早いし、誰もいない部屋でじっと\n　しているのは苦手で…ついロビーに来ちゃったの。\n　ここなら誰かいて寂しくないもの』="No. It's still early and I'm not good at waiting in an empty room...so I came to the lobby. It’s less lonely with people here."
@@ -2549,7 +2549,7 @@
 『違っていたらどうしよう…なんて。ふふ。良かった。\n　あの、今お急ぎですか？』=“I misheard you...heehee. Thank god. Are you in a rush now?"
 『いえ、時間はあります。ちょっと前に来たところで。\n　でも、なかなか音瑚ちゃんと打ち解けられないし\n　一旦出直そうかなーなんて…』="No, I have time. I came here a moment ago, but I couldn't get along with Neko-chan, so I thought I'd try again..."
 会社からは本当に緊急なら電話が来るだろう。それより\n音瑚ちゃんを知っている兎萌さんに興味が出てきた。=If it was really important the office would call. Whatever, I'm more interested in Tomoe-san, who knows about Neko-chan.
-//『あらあら…。あの、通路の真ん中で立ち話も\n なんですからもしよかったら、ちょっとこちらへ…』=I'm sorry. I don't want to stand in the middle of the aisle talking, so if you don't mind, I'd like to come over here for a minute..."
+『あらあら…。あの、通路の真ん中で立ち話も\n なんですからもしよかったら、ちょっとこちらへ…』="Oh dear. Well, I'm in the middle of the walkway. If it's okay with you, could we talk over here...”
 兎萌さんがロビーの一角へと目配せして、促すように\n歩き出した。=Tomoe looks towards the corner of the lobby and leads the way.
 //――――=----
 『音瑚ちゃんを指名してくださって、本当にありがとう\n　ございます』="Thank you very much for choosing Neko-chan."
@@ -2633,7 +2633,7 @@
 はやる気持ちで受付を済ませ、音瑚ちゃんの部屋へと\n急ぐ。=I rush through reception and hurry towards Neko-chan's room with excitement.
 ここ数日、色んな妄想や期待や心配をしたけれど\n今はともかく顔を見て安心したい。=I've had nothing but delusions, expectations, and worries these past few days, and now I just want to look at her face to feel at ease.
 扉を開けるとすぐに、たたたっと走り寄って来て\nくれた。=As soon as I opened the door, she ran up to me.
-//『よっ、ようこそ。今日も遊びにきてくれて\n ありがとう』="Hi, welcome. Thank you for coming to visit me today."
+『よっ、ようこそ。今日も遊びにきてくれて\n ありがとう』="Wel-welcome. Thank you for coming to play again today."
 『ほ、ほら。座って…ね？』="C-Come. Have a seat...please?"
 様子を伺おうと顔を覗き込む前に、椅子を勧められる。=She offers me a seat before looking at me.
 『ありがとう』="Thank you."
