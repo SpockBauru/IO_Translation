@@ -70,7 +70,7 @@ Seated Reverse Cowgirl(酔=Seated Reverse Cowgirl (Drunk
 //Tomoe Positions
 兎萌フリーエッチ　特殊プレイ=Tomoe Free Sex Special Play
 
-3P/Wフェラ\r\n3P/騎乗位\r\n3P/重なり3P\r\nショタ輪姦/立位＆脇コキ\r\nショタ輪姦/二穴バック､イラマ\r\nショタ輪姦/座位､パイズリ､イラマ=3P: W Blowjob\r\n3P: Cowgirl\r\n3P: Overlap\r\nShota: Standing & Armpit\r\nShota: Two-holes, Blowjob\r\nShota: Sitting, Boobjob, Blowjob
+3P/Wフェラ\r\n3P/騎乗位\r\n3P/重なり3P\r\nショタ輪姦/立位＆脇コキ\r\nショタ輪姦/二穴バック､イラマ\r\nショタ輪姦/座位､パイズリ､イラマ=3P: W Blowjob\r\n3P: Cowgirl\r\n3P: Overlap\r\nBoys: Standing & Armpit\r\nBoys: Two-holes, Blowjob\r\nBoys: Sitting, Boobjob, Blowjob
 
 音瑚Lv2 兎萌Lv1=Neko Lv2 Tomoe Lv1
 
@@ -165,7 +165,7 @@ Seated Reverse Cowgirl(酔=Seated Reverse Cowgirl (Drunk
 //==============================Keypad Positions==============================
 //Sex Positions
 r:^\n特殊([Ａ-Ｚ０-９]{1,2})$=\nSpecial $1
-r:^\nぶっかけ\n([Ａ-Ｚ０-９]{1,2})$=Shota\n$1 Cum
+r:^\nぶっかけ\n([Ａ-Ｚ０-９]{1,2})$=Boy\n$1 Cum
 r:^\nピストン\n([Ａ-Ｚ０-９]{1,2})$=Piston $1
 r:^\nイラマ\n([Ａ-Ｚ０-９]{1,2})$=\nDeepthroat\n$1
 

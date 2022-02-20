@@ -158,9 +158,9 @@ FOV(視野角)=FOV (Field of view angle)
 //Characters
 音瑚のボイス音量を調整します=Adjust the voice volume of Neko
 兎萌のボイス音量を調整します=Adjust the voice volume of Tomoe
-ショタＡの音量確認ボイスを再生します=Adjust the voice volume of Shota A
-ショタＢの音量確認ボイスを再生します=Adjust the voice volume of Shota B
-ショタＣの音量確認ボイスを再生します=Adjust the voice volume of Shota C
+ショタＡの音量確認ボイスを再生します=Adjust the voice volume of Boy A
+ショタＢの音量確認ボイスを再生します=Adjust the voice volume of Boy B
+ショタＣの音量確認ボイスを再生します=Adjust the voice volume of Boy C
 
 //=============== Text Settings ================
 メッセージ速度=Text Speed
