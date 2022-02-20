@@ -271,7 +271,7 @@ will even respond with enthusiasm.
 
 //レベル移行劇1→2・兎萌終わり
 
-
+***Scene_ポイントカードへ
 
 
 

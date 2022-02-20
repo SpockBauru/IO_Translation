@@ -36,7 +36,7 @@ for a short time.
 //兎萌 レベル0　BADEND・終わり
 
 
-
+***Scene_タイトルへ
 
 
 

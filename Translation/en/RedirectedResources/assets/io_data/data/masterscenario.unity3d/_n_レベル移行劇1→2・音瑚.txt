@@ -254,7 +254,7 @@ stop thinking and go to sleep...)』
 //レベル移行劇1→2終わり
 
 
-
+***Scene_ポイントカードへ
 
 
 

@@ -426,7 +426,7 @@ because you're going to become a sow that's suited to the pigsty.』
 ***Scene_監獄プレイへ
 
 //------------------------------
-
+//レベル0　監獄プレイ導入（初回のみ）終わり
 
 
 
