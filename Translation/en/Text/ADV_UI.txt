@@ -44,14 +44,15 @@ r:^（酔い度：(.+)）$=(Drunkness: $1)
 音瑚の部屋へ=Neko Room
 
 //Dialog Scenes Navigation
-メッセージをスキップします=Skip Message
-メッセージをスキップを停止します=Stop Skipping Messages
+セリフをもう一度聞く=Listen Again
+メッセージをスキップします=Skip Text
+メッセージをスキップを停止します=Stop Skipping Texts
 オート再生します=Auto Play
 オート再生を停止します=Stop Auto Play
 次のシーンへジャンプします=Jump to the next scene
-バックログを表示します=Display the Log
+バックログを表示します=Display the Backlog
 設定を変更します=Change Settings
-ウィンドウを非表示にします=Hide the Window
+ウィンドウを非表示にします=Hide the Text Window
 
 //Random Messages
 特殊プレイでは使用できません=Cannot be used in special play

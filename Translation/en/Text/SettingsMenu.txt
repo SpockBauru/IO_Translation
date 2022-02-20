@@ -28,52 +28,52 @@
 グローエフェクト=Glow Effect
 グローエフェクトを変更します=Toogle Glow Effect
 
-酔いエフェクトの表示=Show Drunk Effect
+酔いエフェクトの表示=Drunk Effect
 お酒で酔っている時に表示される”湯気”エフェクトを変更します=Change the "steam" effect that appears when drunk with alcohol
 
 ＦＰＳ表示=Show FPS
 ＦＰＳの表示設定を変更します=Toogle FPS Counter
 
 カメラの移動回転速度=Camera Rotation Speed
-エッチシーンでのフリーカメラの基点移動・回転速度を変更します=Changes the base point movement and rotation speed of the free camera in the sex scene.
+エッチシーンでのフリーカメラの基点移動・回転速度を変更します=Change the panning and rotation speed of the free camera in sex scenes.
 
 カメラのズーム速度=Camera zoom speed
-エッチシーンでのフリーカメラのズーム速度を変更します（１ホイールで進む距離）=Change the zoom speed of the free camera in the sex scene (distance advanced with one wheel).
+エッチシーンでのフリーカメラのズーム速度を変更します（１ホイールで進む距離）=Change the zoom speed of the free camera in sex scenes (distance traveled per wheel scroll).
 
 オートカメラの回転速度=Auto camera rotation speed
-エッチシーンでのオート回転カメラの速度・方向を変更します（＋右回転、－左回転）=Change the speed and direction of the auto-rotate camera in the sex scene (+rotate right, -rotate left).
+エッチシーンでのオート回転カメラの速度・方向を変更します（＋右回転、－左回転）=Change the speed and direction of the auto rotation camera in sex scenes (+:clockwise, -:ccw).
 
 FOV(視野角)=FOV (Field of view angle)
-視野角を変更します(一部のシーンでは画角が固定されます)=Change the viewing angle (in some scenes, the angle of view is fixed).
+視野角を変更します(一部のシーンでは画角が固定されます)=Change the viewing angle (locked in some scenes).
 
 背景の表示=Show background
-背景オブジェクト表示を変更します=Change the appearance of the background objects
+背景オブジェクト表示を変更します=Change the display of background objects.
 全て表示=Show All
-小物半透明=Translucent
+小物半透明=Translucent Objects
 小物非表示=Hide Objects
 全て非表示=Hide All
 
-遮断物の半透明化=Translucency of blocking objects
-カメラターゲットを遮る遮断物を半透明化します=Make the blocking objects blocking the camera target semi-transparent
+遮断物の半透明化=Transparent obstructions
+カメラターゲットを遮る遮断物を半透明化します=Make objects that obstruct the camera transparent.
 
 鏡の表示=Display Mirror
-鏡の表示を変更します=Change the mirror display
+鏡の表示を変更します=Toggle presence of a mirror.
 
-鏡の配置=Mirror Placement
-鏡の表示位置を変更します（一部のシーンでは位置が固定されます）=Change the display position of the mirror (in some scenes, the position is fixed)
+鏡の配置=Mirror Position
+鏡の表示位置を変更します（一部のシーンでは位置が固定されます）=Change the position of the mirror (locked in some scenes).
 
-ベッド横=Bed Beside
-ベッド正面=Bed Front
+ベッド横=Next to bed
+ベッド正面=Behind bed
 天井=Ceiling
 
 男の表示=Man Display
 主人公の表示を変更します=Change the display of the Hero
-表示=Show
+表示=Normal
 ゴースト=Ghost
 シルエット=Silhouette
 非表示=Hide
 
-男性器の表示=Male Genitalia
+男性器の表示=Male Genitals
 男性器の表示を変更します=Change the display of male genitalia
 
 主人公の服装=Hero Clothes
@@ -83,7 +83,7 @@ FOV(視野角)=FOV (Field of view angle)
 
 主人公の体型=Hero's Body
 主人公の体型を変更します=Change the body type of the Hero.
-細い=Thin
+細い=Slim
 太い=Fat
 
 ｺﾝﾄﾛｰﾙﾊﾟｯﾄﾞの表示=Control Pad Display
@@ -93,49 +93,47 @@ FOV(視野角)=FOV (Field of view angle)
 断面ウィンドウの表示を変更します=Change the display of the X-Ray Window
 
 擬音テキストの表示=Display Onomatopoeic Text
-擬音テキストの表示を変更します=CChange the display of onomatopoeic text
+擬音テキストの表示を変更します=Change the display of onomatopoeic text
 
 //=============== Graphic Settings 2 ================
-カスタム状態の反映=Reflecting a custom state
-カスタム状態をADVで反映します=Reflect custom state in ADV.
+カスタム状態の反映=Apply customizations
+カスタム状態をADVで反映します=Apply customizations to story scenes.
 
-絶頂時の"尿"演出="Urine" effect during climax
-絶頂時に”おしっこ”を漏らす演出の有無を変更します=Change the effect of "peeing" when climaxing
+絶頂時の"尿"演出=Squirt at orgasm
+絶頂時に”おしっこ”を漏らす演出の有無を変更します=Toggle presence of squirting when a girl orgasms.
 
-"母乳①"演出="Breast milk 1" Production
-突かれた時や絶頂時に出る”母乳①”演出の有無を変更します=Changes whether or not the "breast milk (1)" effect that comes out when being poked or when climaxing is enabled.
+"母乳①"演出=Breast milk 1
+突かれた時や絶頂時に出る”母乳①”演出の有無を変更します=Toggle presence of breast milk (1) when a girl is getting pounded or when she orgasms.
 
-"母乳②"演出="Breast milk 2" production
-突かれた時や絶頂時に出る”母乳②”演出の有無を変更します=Changes whether or not the "breast milk (2)" effect that comes out when being poked or when climaxing is enabled.
+"母乳②"演出=Breast milk 2
+突かれた時や絶頂時に出る”母乳②”演出の有無を変更します=Toggle presence of breast milk (2) when a girl is getting pounded or when she orgasms.
 
-カメラの上下操作=Camera vertical operation
-カメラの上下回転方向（マウス・キーボード）を変更します=Change the vertical rotation direction of the camera (mouse/keyboard)
+カメラの上下操作=Vertical Rotation
+カメラの上下回転方向（マウス・キーボード）を変更します=Change the camera's vertical rotation (mouse, keyboard).
 
 ノーマル=Normal
-リバース=Reverse
+リバース=Inverted
 
-カメラの左右操作=Camera horizontal operation
-カメラの左右回転方向（マウス・キーボード）を変更します=Change the left/right rotation direction of the camera (mouse/keyboard)
+カメラの左右操作=Horizontal Rotation
+カメラの左右回転方向（マウス・キーボード）を変更します=Change the camera's horizontal rotation (mouse, keyboard).
 
-カメラのズーム操作=Camera Zoom Operation
-カメラのズーム方向（マウスホイール・キーボード）を変更します=Change the zoom direction of the camera (mouse wheel/keyboard)
+カメラのズーム操作=Zoom Direction
+カメラのズーム方向（マウスホイール・キーボード）を変更します=Change the camera's zoom direction (mouse wheel, keyboard).
 
-主観の上下操作=Subjective vertical operation
-男性主観カメラの上下回転方向（マウス・キーボード）を変更します=Change the vertical rotation direction of the male subjective camera (mouse/keyboard)
+主観の上下操作=POV vertical rotation
+男性主観カメラの上下回転方向（マウス・キーボード）を変更します=Change the male's POV vertical rotation (mouse, keyboard).
 
-主観の左右操作=Subjective horizontal operation
+主観の左右操作=POV horizontal rotation
+男性主観カメラの左右回転方向（マウス・キーボード）を変更します=Change the male's POV horizontal rotation (mouse, keyboard).
 
+主観のズーム操作=POV Zoom Direction
+男性主観カメラのズーム方向（マウスホイール・キーボード）を変更します=Change the male's POV zoom direction (mouse wheel/keyboard)
 
-男性主観カメラの左右回転方向（マウス・キーボード）を変更します=Change the horizontal rotation direction of the male subjective camera (mouse/keyboard)
+カメラ基点の上下操作=Vertical Panning
+カメラの基点上下移動方向（マウス・キーボード）を変更します=Change the camera's vertical panning direction (mouse, keyboard).
 
-主観のズーム操作=Subjective zoom operation
-男性主観カメラのズーム方向（マウスホイール・キーボード）を変更します=Change the zoom direction of the male subjective camera (mouse wheel/keyboard)
-
-カメラ基点の上下操作=Vertical operation of the camera base point
-カメラの基点上下移動方向（マウス・キーボード）を変更します=Change the camera's base point vertical movement direction (mouse or keyboard)
-
-カメラ基点の左右操作=Horizontal operation of camera base point
-カメラの基点左右移動方向（マウス・キーボード）を変更します=Change the camera's base point left/right movement direction (mouse/keyboard)
+カメラ基点の左右操作=Horizontal Panning
+カメラの基点左右移動方向（マウス・キーボード）を変更します=Change the camera's horizontal panning direction (mouse, keyboard).
 
 //=============== Audio Settings ================
 マスター音量=Master Volume
@@ -145,16 +143,16 @@ FOV(視野角)=FOV (Field of view angle)
 ＢＧＭの音量を調整します=Adjusts the volume of the background music
 
 ボイス音量=Voice Volume
-全体のキャラクターボイス音量を調整します=Adjusts the overall character voice volume.
+全体のキャラクターボイス音量を調整します=Adjust the overall volume of character voices.
 
-効果音量=Effect volume
+効果音量=SFX
 効果音の音量を調整します=Adjusts the volume of sound effects.
 
 3Dサウンド=3D Sound
-立体音響を調整します。=Adjust the stereophonic sound.
+立体音響を調整します。=Adjust the 3D sound.
 
 
-テレビ音量=Television Volume
+テレビ音量=TV Volume
 メインルームのテレビ音量を調整します。=Adjust the television volume of the main room.
 
 //Characters
@@ -165,14 +163,14 @@ FOV(視野角)=FOV (Field of view angle)
 ショタＣの音量確認ボイスを再生します=Adjust the voice volume of Shota C
 
 //=============== Text Settings ================
-メッセージ速度=Message Speed
-メッセージが表示される速度を変更します=Change the speed at which messages are displayed
+メッセージ速度=Text Speed
+メッセージが表示される速度を変更します=Change the text display speed.
 
 オート待ち時間=Auto Wait Time
-メッセージが表示されてから次へ送るまでの待ち時間を変更します（オートモード時）=Change the waiting time from when a message is displayed to when it is sent to the next (In auto mode)
+メッセージが表示されてから次へ送るまでの待ち時間を変更します（オートモード時）=Change the amount of time from displaying text to going to the next line (In auto mode)
 
 ウィンドウ透過率=Window Transparency
-メッセージウィンドウの透過率を変更します=Changes the transparency of the message window
+メッセージウィンドウの透過率を変更します=Changes the transparency of the text window
 
 テキスト表示スピードサンプルです\nメッセージ表示テスト=Sample of text display speed
 
@@ -205,10 +203,8 @@ FOV(視野角)=FOV (Field of view angle)
 テ=Sam
 
 
-
-
 //=============== Manual ================
-ゲームの進め方・操作方法はオンラインマニュアルをご確認ください。=Please refer to the online manual for instructions on how to play the game.
-(マニュアルをご覧になるにはインターネット環境が必要です)=(Internet access is required to view the manual)
+ゲームの進め方・操作方法はオンラインマニュアルをご確認ください。=Please check the online manual for how to proceed and operate the game.
+(マニュアルをご覧になるにはインターネット環境が必要です)=(An Internet connection is required to view the manual)
 
 ブラウザを開く=Open your browser
