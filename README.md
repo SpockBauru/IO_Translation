@@ -38,6 +38,10 @@ The translations are all inside the `Bepinex\Translation\en` folder. They are th
  - If you want to see the changes in your game, use the tool [TranslateRedirectedResources.exe](https://github.com/SpockBauru/SpockPlugins_Miconisomi/releases/tag/r9) to send your translations to the RedirectedResources file. To use it, just extract the file to the game folder (where the Launcher is) and run the program. A message of conclusion will eventually appear in a console window, and its done! Simple like that :)
 
 
+## Credits
+
+A big thanks to [F95zone translation guys](https://f95zone.to/threads/57428/), who are translating this game since 2020: BOOMBOX1701, luckyPervert, creaturefromthedeep, Zantification
+
 <!---
 ## Installation
 
