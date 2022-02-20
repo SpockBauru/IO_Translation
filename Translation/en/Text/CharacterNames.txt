@@ -5,6 +5,10 @@
 ショタ=Shota
 スタッフ=Staff
 兎萌の夫=Tomoe's husband
+カップル・女=Couple: Woman
+カップル女=Couple: Woman
+カップル・男=Couple: Man
 r:^ショタ([A-ZＡ-Ｚ０-９])$=Shota $1
 r:^スタッフ([A-ZＡ-Ｚ０-９])$=Staff $1
 r:^男([A-ZＡ-Ｚ０-９])$=Man $1
+r:^客([A-ZＡ-Ｚ０-９])$=Client $1
