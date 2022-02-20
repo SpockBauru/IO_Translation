@@ -4,6 +4,7 @@
 学生=Student
 ショタ=Shota
 スタッフ=Staff
+兎萌の夫=Tomoe's husband
 r:^ショタ([A-ZＡ-Ｚ０-９])$=Shota $1
 r:^スタッフ([A-ZＡ-Ｚ０-９])$=Staff $1
 r:^男([A-ZＡ-Ｚ０-９])$=Man $1
