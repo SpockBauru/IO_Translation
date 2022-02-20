@@ -40,7 +40,7 @@ The translations are all inside the `Bepinex\Translation\en` folder. They are th
 
 ## Credits
 
-A big thanks for F95zone translation guys, who are translating this game since 2020: BOOMBOX1701, luckyPervert, creaturefromthedeep, Zantification
+A big thanks for [F95zone translation guys](https://f95zone.to/threads/57428/), who are translating this game since 2020: BOOMBOX1701, luckyPervert, creaturefromthedeep, Zantification
 
 <!---
 ## Installation
