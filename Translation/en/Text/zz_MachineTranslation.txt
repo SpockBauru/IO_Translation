@@ -319,7 +319,7 @@
 そう言うと、一瞬だけ驚いた顔色からすぐに、やっぱり\nという苦笑いに変わった。=When I said this, her face changed from a momentary look of surprise to a wry smile that said, "I knew it.
 『もう、音瑚ちゃんったら…こんなに贔屓にしてくれて\n　いるお兄さんにまで渡し忘れたのね』="Oh my god, Neko-chan... you forgot to give it to my brother who is such a loyal customer.
 『はい、これ。私が渡したっていうのは内緒ね』='Here. Don't tell anyone I gave it to you.
-『これがデミカフェのポイントカードよ。お店で遊ぶ\n　ことでポイントが貯まっていくわ。』=This is the Demi-Cafe point card. This is your Demi-Cafe point card. You can earn points by playing in the store.
+『これがデミカフェのポイントカードよ。お店で遊ぶ\n　ことでポイントが貯まっていくわ。』=This is the Demi-Cafe reward card. This is your Demi-Cafe reward card. You can earn points by playing in the store.
 『帰りにキャストからその日遊んだ分のポイントを\n　貰って頂戴ね』="On your way out, please get your points from the cast for the day."
 『貯まったポイントを使えば…例えば、音瑚ちゃんを\n　お兄さん好みの容姿に変えたりできるわ』=You can use your points to change Neko-chan's appearance to my brother's liking, for example.
 『他にも、特殊なサービスの解放にも使えるの』="It can also be used to release other special services."
@@ -330,7 +330,7 @@
 『ふふ、お昼の仕事をしていた経験のお陰かしら。\n　そうそう、後は…』=I'm sure it's because of my experience as a lunch worker.　Oh yeah, and then there's..."
 『当たり前だけど１日に遊べる時間には制限があるわ。\n　だからしたいコトを無制限には出来ないの』="Of course, there is a limit to the number of hours you can play in a day.　So I can't do everything I want to do.
 『プレイによって経過時間や貰えるポイントが違う\n　から、その日にどう遊ぶかはしっかり考えてね』=The time elapsed and the points awarded vary depending on the play, so think carefully about how you want to play that day.
-『とりあえず、ポイントカードについてはこれぐらい\n　かしら…』="That's all I have to say about point cards for now..."
+『とりあえず、ポイントカードについてはこれぐらい\n　かしら…』="That's all I have to say about reward cards for now..."
 『まずは難しいことは考えずに、好きに使えば\n　いいんじゃないかしら』="First of all, don't think about it too hard, just use it as you like.
 『長い立ち話でごめんなさい。お帰りなのに\n　引き止めてしまったわね…』=I'm sorry for standing there for so long. I know you're on your way home, but I didn't want to keep you..."
 『あ、いえ…』="Oh, no..."
@@ -338,7 +338,7 @@
 兎萌さんにカードを示すように手を出され、差し出した\nカードにポイントを書き足したようだ。=Tomoe held out her hand to show me a card, and I seemed to have added some points on the card she offered.
 『だから、音瑚ちゃんが渡しそびれていたことは\n　責めないであげて欲しいの。お願い』='So please don't blame Neko-chan for not giving it to you. Please."
 『結構多めにつけておいたから、よかったら早速使って\n　みて頂戴ね。じゃあ、私はこれで…』=I've put on quite a lot, so if you'd like to use it, please do so right away. I'll take this..."
-デミカフェのポイントカードか…。兎萌さんの\n説明だと色々出来そうだ。=The demi-cafe point card....
+デミカフェのポイントカードか…。兎萌さんの\n説明だと色々出来そうだ。=The demi-cafe reward card....
 今すぐ使うか、それともまだ貯めるか…=Spend it now or still save it...
 ―=-Mr.
 ――=--
@@ -2365,7 +2365,7 @@
 『ふふ、今日も音瑚ちゃんをご指名？本当に\n　あの子のことが気に入っているんですね。』="So, you picked Neko-chan again today? You really like her, don't you?"
 何があったか知らない兎萌さんは嬉しそうに\n笑う。=Tomoe, who didn't know what had happened, smiled happily.
 『ポイント？…いえ、溜まるも何も、俺ポイント\n　のこと初耳なんですけど…』=Points? I've never heard of points before..."
-『これがデミカフェのポイントカードよ。お店で遊ぶ\n　ことでポイントが貯まっていくわ』=This is the Demi-Cafe point card. This is your Demi-Cafe point card. You can earn points by playing at the store.
+『これがデミカフェのポイントカードよ。お店で遊ぶ\n　ことでポイントが貯まっていくわ』=This is your Demi-Cafe reward card. You can earn points by playing at the store.
 話したくない！…す、するならさっさと済ませて=I don't want to talk about it! Well, if you're gonna do that, then get it over with.
 喋るのも惜しいくらい、すぐハメて欲しくて堪らないんだ？エッチだなぁ=You can't wait to get fucked so soon you can't even talk? You're so naughty.
 やっ、ち、違うッ！！=No, no, no, no, no!

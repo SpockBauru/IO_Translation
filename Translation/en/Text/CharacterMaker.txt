@@ -9,7 +9,7 @@
 
 下着が非表示状態です=Underwear is hidden
 服が非表示状態です=Clothes are hidden
-タブ切替時に該当部位へオートフォーカスします=Auto-focus the selected area when switching tabs
+タブ切替時に該当部位へオートフォーカスします=Auto focus to appropriate area when changing tabs
 
 //Dialog Box
 現在のカスタムをデフォルト状態に戻します\nよろしいですか？=Restore the current settings to their default state\nAre you sure?
@@ -29,13 +29,13 @@
 //============================== Hair ==============================
 //Top Menu
 前髪=Bangs
-横髪=Side
+横髪=Sides
 後髪=Back
 カラー=Color
 ヘアカラー=Hair Color
 
 //============================== Head ==============================
-※変更するとキスやフェラなどの際に\n　位置が合わなくなります=※ If this is changed, the position will not be\n       aligned when kissing or sucking.
+※変更するとキスやフェラなどの際に\n　位置が合わなくなります=※ If changed, face positions will be misaligned during kissing or BJs.
 
 頭の大きさ=Head Size
 音瑚デフォ=Neko\nDefault
@@ -45,7 +45,7 @@
 
 頬=Cheeks
 頬の丸み=Cheek Roundness
-八重歯=Double Teeth
+八重歯=Fangs
 右=Right
 左=Left
 
@@ -55,9 +55,9 @@
 口元（右）=Mouth (Right)
 口元（左）=Mouth (Left)
 
-瞳のハイライト=Eye Highlight
-無し=None
-有り=Yes
+瞳のハイライト=Pupil Highlight
+無し=Off
+有り=On
 ハート目=Heart Eyes
 
 口紅=Lipstick
@@ -66,15 +66,15 @@
 口紅カラー=Lipstick Color
 
 //============================== Breasts ==============================
-おっぱいスライダー=Breast Slider
-乳首スライダー=Nipple Slider
+おっぱいスライダー=Breast Size
+乳首スライダー=Nipple Size
 陥没乳首=Nipple Depth
 乳首の尖り具合=Nipple Pointiness
 胸の揺れ(ダンピング)=Breast Shaking (Dumping)
 
 //============================== Body ==============================
-体型スライダー=Body Shape Slider
-肉付きスライダー=Fleshy Slider
+体型スライダー=Body Size
+肉付きスライダー=Body Build
 ボディーカラー=Body Color
 落書き=Graffiti
 
@@ -84,17 +84,17 @@
 
 陰毛カラー=Pubic Hair Color
 
-//============================== Clothing ==============================
-服装（トップス）=Clothing (Top)
+//============================== Clothes ==============================
+服装（トップス）=Clothes (Top)
 ブラ装着不可=Cannot wear bra
-服装（ボトムス）=Clothing (Bottom)
-服装（ワンピース）=Clothing (Dress)
-下着装着不可=Cannot wear underwear
+服装（ボトムス）=Clothes (Bottom)
+服装（ワンピース）=Clothes (One Piece)
+下着装着不可=Can't wear underwear
 
 下着（トップス）=Underwear (Top)
 下着（ボトムス）=Underwear (Bottom)
 水着=Swimsuit
-服 装着不可=Cannot wear clothes
+服 装着不可=Can't wear clothes
 下着カラー=Underwear Color
 下着カラー【ベース】=Underwear Color [Base]
 ベース=Base
@@ -111,10 +111,10 @@
 ソックス縞+カラー=Sock Stripes + Color
 ソックスカラー【縞】=Socks Color [Stripe]
 
-パンストカラー=Pantyhose color
-パンストデニール率=Pantyhose density ratio
+パンストカラー=Pantyhose Color
+パンストデニール率=Pantyhose Denier
 
-網タイツカラー=Fishnet Stockings Color
+網タイツカラー=Fishnet Stocking Color
 
 靴=Shoes
 
@@ -122,8 +122,8 @@
 眼鏡=Glasses
 眼鏡カラー=Glasses Color
 獣耳・カチューシャ=Animal Ears and Headbands
-髪色に連動=Link to hair color
-カラー変更可能=Color changeable
+髪色に連動=Matches Hair Color
+カラー変更可能=Color Adjustable
 
 カチューシャカラー=Headband Color
 
@@ -134,8 +134,8 @@
 //============================== Save/Load Characters ==============================
 セーブ=Save
 ロード=Load
-r:^【スロット([0-9])】 にセーブしてよろしいですか？$=Are you sure you want to save to [Slot $1]?
-ロードすると現在のカスタム情報は上書きされてしまいます\nロードしてよろしいですか？\n（解放されていないアイテムは無視されます）=Loading will overwrite the current custom settings.\nAre you sure you want to load it?\n(Unlocked items will be ignored)
+r:^【スロット([0-9])】 にセーブしてよろしいですか？$=Save to [Slot $1]?
+ロードすると現在のカスタム情報は上書きされてしまいます\nロードしてよろしいですか？\n（解放されていないアイテムは無視されます）=Loading will overwrite the current custom settings.\nAre you sure you want to load it?\n(Locked items do not apply)
 ロードすると現在のカスタム情報は消えてしまいます\nロードしてよろしいですか？=Loading will overwrite the current custom settings.
 
 //============================== Uncategorized ==============================

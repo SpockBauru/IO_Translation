@@ -6,38 +6,38 @@
 騎乗位=Cowgirl
 背面座位=Seated Reverse Cowgirl
 四つん這い手コキ=All Fours Handjob
-ホールド足コキ=Hold Footjob
+ホールド足コキ=Holding Footjob
 フェラ=Blowjob
 後背位=Doggy Style
 拘束調教=Restraint Training
-Wフェラ=W Blowjob
+Wフェラ=Double Blowjob
 立位＆脇コキ=Standing & Armpit
 重なり３Ｐ=Overlapping 3P
 \n相互\nオナニー=Mutual\nMastur\nbation
 放尿=Pissing
-騎乗位＆顔騎=Cowgirl & Face Crawling
+騎乗位＆顔騎=Cowgirl & Face Sitting
 座位＆パイズリ＆イラマ=Sitting, Boobjob, Blowjob
-二穴バック＆イラマ=Two Holes & Blowjob
+二穴バック＆イラマ=Double Penetration & Blowjob
 飲/ドリンクプレイ=Drinking/Drink Play
 ドリンクプレイ=Drink play
 手コキ=Handjob
 挟み足コキ=Footjob
 屋外/放尿=Outdoor/Pissing
 座位=Seated Cowgirl
-馬乗りパイズリ=Breast Riding
+馬乗りパイズリ=Cowboy Boobjob
 抑えつけバック=Holding Doggy
-調教/拘束調教=Training/Restraint Training
+調教/拘束調教=Training/Restrained Training
 イラマ=Deepthroat
 調教/拘束姦=Training/Bondage Fuck
-調教/失神姦=Training/Fainting Fuck
-屋外/リードイラマ=Outdoor/Master Deepthroat
+調教/失神姦=Training/Fainted Fuck
+屋外/リードイラマ=Outdoor/Leash Deepthroat
 屋外/路地裏Ｈ=Outdoor/Alley Fuck
 飲/泥酔姦=Drinking/Drunk Fuck
 飲/睡眠姦=Drinking/Sleeping Fuck
-リードイラマ=Master Deepthroat
-３Ｐ/Ｗフェラ=3P: W Blowjob
-３Ｐ/騎乗位＆顔騎=3P: Cowgirl & Face Crawling
-３Ｐ/重なり３Ｐ=3P: Overlapping 3P
+リードイラマ=Leash Deepthroat
+３Ｐ/Ｗフェラ=3P/Double Blowjob
+３Ｐ/騎乗位＆顔騎=3P/Cowgirl & Face Sitting
+３Ｐ/重なり３Ｐ=3P/Overlapping 3P
 睡眠姦=Sleeping Fuck
 
 
@@ -52,25 +52,25 @@ Seated Reverse Cowgirl(酔=Seated Reverse Cowgirl (Drunk
 
 
 //============================== Free Mode Menu ==============================
-体位変更=Change  Position
+体位変更=Change Position
 
 //Neko Positions
-音瑚フリーエッチ　特殊プレイ=Neko Free Sex Special Play
+音瑚フリーエッチ　特殊プレイ=Neko Free Play
 
-正常位\r\n抑えつけバック/バック\r\nイラマ/フェラ/69\r\n馬乗りパイズリ/パイズリ\r\n立ちアナル\r\n騎乗位\r\n座位/背面座位\r\n手コキ/四つん這い手コキ\r\n挟み足コキ/ホールド足コキ=Missionary\r\nHolding Doggy/Doggy\r\nDeepthroat/Blowjob/69\r\nBreast Riding/Boobjob\r\nAnal\r\nCowgirl\r\nSeated Cowgirl/Revese Cowgirl\r\nHand Job/All Fours Handjob\r\nPinch Foot Job/Hold Footjob
+正常位\r\n抑えつけバック/バック\r\nイラマ/フェラ/69\r\n馬乗りパイズリ/パイズリ\r\n立ちアナル\r\n騎乗位\r\n座位/背面座位\r\n手コキ/四つん這い手コキ\r\n挟み足コキ/ホールド足コキ=Missionary\r\nHolding Doggy/Doggy\r\nDeepthroat/Blowjob/69\r\nCowboy Boobjob/Boobjob\r\nAnal\r\nCowgirl\r\nSeated Cowgirl/Revese Cowgirl\r\nHandjob/All Fours Handjob\r\nFootjob/Holding Footjob
 
 前戯=Foreplay
 
-[酔い]正常位\r\n[酔い]バック\r\n[酔い]立ちアナル\r\n[酔い]騎乗位\r\n[酔い]背面座位\r=[Drunk] Missionary\r\n[Drunk] doggy\r\n[Drunk] Standing Anal\r\n[Drunk] Cowgirl\r\n[Drunk] Seating Doggy\r
+[酔い]正常位\r\n[酔い]バック\r\n[酔い]立ちアナル\r\n[酔い]騎乗位\r\n[酔い]背面座位\r=[Drunk] Missionary\r\n[Drunk] doggy\r\n[Drunk] Standing Anal\r\n[Drunk] Cowgirl\r\n[Drunk] Reverse Cowgirl\r
 
-拘束調教\n失神姦\nリードイラマ\nドリンクプレイ\n睡眠姦=Restraint Training\r\nFainting Fuck\r\nMaster Deepthroat\r\nDrink Play\r\nSleeping Fuck
+拘束調教\n失神姦\nリードイラマ\nドリンクプレイ\n睡眠姦=Restrained Training\r\nFainting Fuck\r\nLeash Deepthroat\r\nDrink Play\r\nSleeping Fuck
 
 拘束姦\n放尿\n裏路地Ｈ\n泥酔姦=Bondage Fuck\r\nPissing\r\nAlley Fuck\r\nDrunk Fuck
 
 //Tomoe Positions
-兎萌フリーエッチ　特殊プレイ=Tomoe Free Sex Special Play
+兎萌フリーエッチ　特殊プレイ=Tomoe Free Play
 
-3P/Wフェラ\r\n3P/騎乗位\r\n3P/重なり3P\r\nショタ輪姦/立位＆脇コキ\r\nショタ輪姦/二穴バック､イラマ\r\nショタ輪姦/座位､パイズリ､イラマ=3P: W Blowjob\r\n3P: Cowgirl\r\n3P: Overlap\r\nBoys: Standing & Armpit\r\nBoys: Two-holes, Blowjob\r\nBoys: Sitting, Boobjob, Blowjob
+3P/Wフェラ\r\n3P/騎乗位\r\n3P/重なり3P\r\nショタ輪姦/立位＆脇コキ\r\nショタ輪姦/二穴バック､イラマ\r\nショタ輪姦/座位､パイズリ､イラマ=3P/Double Blowjob\r\n3P/Cowgirl\r\n3P/Overlap\r\nBoys: Standing & Armpit\r\nBoys: Double Penetration/Blowjob\r\nBoys: Sitting, Boobjob, Blowjob
 
 音瑚Lv2 兎萌Lv1=Neko Lv2 Tomoe Lv1
 
@@ -86,45 +86,45 @@ Seated Reverse Cowgirl(酔=Seated Reverse Cowgirl (Drunk
 ゆっくり挿入する=Insert Slowly
 一気に挿入する=Insert at Once
 話し掛ける=Talk
-はじめる=Begin
-リードイラマへ=To Master Deepthroat
+はじめる=Start
+リードイラマへ=To Leash Deepthroat
 
 //Keypad Common Settings
 \n裏ボイス\nOFF=Inner\nVoice OFF
 \n裏ボイス\nON=Inner\nVoice ON
 スピード\nダウン=Speed\nDown
 スピード\nアップ=Speed\nUP
-もどる=Return
+もどる=Back
 \nフィニッシュ=\nFinish
 \n体勢の\n変更=\nPosition
-\n絶頂=\nClimax
-\n口に出す=\nPut in Mouth
+\n絶頂=\nOrgasm
+\n口に出す=\nCum in Mouth
 
 //Display
-\n表示変更=Display Options\n
+\n表示変更=Appearance\n
 
 \n全裸\n全着=\nNaked
 \nトップス\n着脱=\nTop
 \nボトムス\n着脱=\nBottom
 \nブラ着脱\n=\nBra
-\nパンツ\n着脱=\nPants
+\nパンツ\n着脱=\nPanties
 パンスト\n網タイツ\n着脱=Pantyhose\n/Fishnet
 \n靴下着脱=\nSocks
 \n靴着脱=\nShoes
 \nメガネ\n着脱=\nGlasses
 \n耳着脱=\nEars
 尻尾着脱=Tail
-ワンピ\n下着\n着脱=One-Piece Underwear
+ワンピ\n下着\n着脱=One Piece Underwear
 
 //Items
-\nアイテム\nその他=Items\nand Others
+\nアイテム\nその他=Other\nItems
 
 \n破瓜=\nDeflower
 \n涙=\nTears
-\nバイブ=Vibrator
+\nバイブ=Dildo
 \n首輪=\nCollar
-\nクリ\nパーツ=\nClitoris
-\n乳首\nパーツ=\nNipples
+\nクリ\nパーツ=\nClitoris Acc.
+\n乳首\nパーツ=\nNipples Acc
 \n目隠し\n=\nBlindfold
 \nギャグボ=\nGag
 
@@ -162,12 +162,12 @@ Seated Reverse Cowgirl(酔=Seated Reverse Cowgirl (Drunk
 リセット=Reset
 
 
-//==============================Keypad Positions==============================
+//==============================Keypad Controls==============================
 //Sex Positions
 r:^\n特殊([Ａ-Ｚ０-９]{1,2})$=\nSpecial $1
 r:^\nぶっかけ\n([Ａ-Ｚ０-９]{1,2})$=Boy\n$1 Cum
 r:^\nピストン\n([Ａ-Ｚ０-９]{1,2})$=Piston $1
-r:^\nイラマ\n([Ａ-Ｚ０-９]{1,2})$=\nDeepthroat\n$1
+r:^\nイラマ\n([Ａ-Ｚ０-９]{1,2})$=\nBlowjob\n$1
 
 \n電マ\n=Wand\nMassager
 \nアナパ\n=Anal Beads
@@ -183,13 +183,13 @@ r:^\nイラマ\n([Ａ-Ｚ０-９]{1,2})$=\nDeepthroat\n$1
 \n精飲=Semen Drinking
 \n精液を\n飲ませる=Drink Semen
 精液を\n舐め\nさせる=Lick Semen
-\n失神絶頂=Fainting Climax
+\n失神絶頂=Fainting Orgasm
 
-\n放尿絶頂=\Pissing Climax
+\n放尿絶頂=\Pissing Orgasm
 \nおもちゃ\n[OFF]=\nToy [OFF]
 \nおもちゃ\n[弱]=\nToy [Weak]
-\nおもちゃ\n[強]=\nToy [strong]
-\n股間\nなぞり=\nCrotch Rubbing
+\nおもちゃ\n[強]=\nToy [Strong]
+\n股間\nなぞり=\nCrotch Teasing
 \n尻ペチ\n右=\nSlap Right Butt
 \n尻ペチ\n左=\nSlap Left Butt
 
@@ -198,15 +198,15 @@ r:^\nイラマ\n([Ａ-Ｚ０-９]{1,2})$=\nDeepthroat\n$1
 \nジュースを\n出させる=Serve\nJuice
 \n放出=\nRelease
 \n引き抜く=Pull\nOut
-\nクンニシェイク絶頂=Cunnilingus Shake Climax
+\nクンニシェイク絶頂=Cunnilingus Shake Orgasm
 クンニ\nシェイク\nＡ=Cunnilingus Shake A
 クンニ\nシェイク\nＢ=Cunnilingus Shake B
 指で\nシェイク\nＣ=Finger\nShake C
 \n直接飲む=Drink\nDirectly
 \nグラスに\n注ぐ=Pour\nInto a Glass
-\n股間を\n弄る=Fondle\nCrotch
+\n股間を\n弄る=Tease\nCrotch
 \n引き抜く\n[Lv3]=Pull\nout [Lv3]
-泥酔姦へ=Drunk Fuck
+泥酔姦へ=To Drunk Fuck
 
 
 //Foreplay
@@ -218,7 +218,7 @@ r:^\nイラマ\n([Ａ-Ｚ０-９]{1,2})$=\nDeepthroat\n$1
 r:^\n乳首摘み\n([Ａ-Ｚ０-９]{1,2})$=Nipple Picking $1
 r:^\n胸揉み\n([Ａ-Ｚ０-９]{1,2})$=Grab Breast $1
 r:^相互\nオナニー\n([Ａ-Ｚ０-９]{1,2})$=Mutual\nMasturbation $1
-r:^\nマンズリ\n([Ａ-Ｚ０-９]{1,2})$=\nRubbing $1
+r:^\nマンズリ\n([Ａ-Ｚ０-９]{1,2})$=\nPussy Rub $1
 r:^\nクンニ\n([Ａ-Ｚ０-９]{1,2})$=\nCunnilingus\n$1
 r:^\n手マン\n([Ａ-Ｚ０-９]{1,2})$=\nHandjob $1
 r:^\nアナル\n愛撫([Ａ-Ｚ０-９]{1,2})$=Anal Caress $1
@@ -245,11 +245,11 @@ r:^\n([Ａ-Ｚ])フィニ$=\nEnd $1
 
 
 //Foraplay Finalizations
-\nマンズリ\n絶頂=\nRubbing
-\nオナニー\n絶頂=\nMasturbation
-\nアナル\n絶頂=\nAnal
-\nクンニ\n絶頂=\nCunnilingus
-\n手マン\n絶頂=\nHandjob
+\nマンズリ\n絶頂=\nPussy Rub Orgasm
+\nオナニー\n絶頂=\nMasturbation Orgasm
+\nアナル\n絶頂=\nAnal Orgasm
+\nクンニ\n絶頂=\nCunnilingus Orgasm
+\n手マン\n絶頂=\nHandjob Orgasm
 
 
 

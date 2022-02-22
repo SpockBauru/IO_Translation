@@ -5,7 +5,7 @@
 キーパッドで快適にプレイいただけます。=You can play comfortably with the keypad.
 
 //Common buttons
-戻る=Return
+戻る=Back
 タイトル=Title
 終了=Exit
 テキスト=Text
@@ -43,7 +43,6 @@
 //============================== Hidden Debug Mode ==============================
 
 //Neko and Tomoe Stats
-デバッグモードが開放されました=Debug mode unlocked
 デバッグモードでは、通常のプレイでは発生しない状態・ゲーム進行が不可能になる場合があります。     \n \rデバッグモードで発生した不具合に関しては保証致しかねますのでご了承ください。=In debug mode, you may run into an unexpected state or may not be able to proceed in the game. Please note that we cannot guarantee correct operation in debug mode.
 
 ▼フリーエッチ音瑚=▼ Neko Free Sex
@@ -59,8 +58,8 @@
 
 ▼フリーエッチ兎萌=▼ Tomoe Free Sex
 ▼特殊プレイ兎萌=▼ Tomoe Special Play
-輪/立位＆脇コキ=Orgy: Standing & Side Job
-輪/二穴バック,イラマ=Orgy: Two-holes, Blowjob
+輪/立位＆脇コキ=Orgy: Standing & Armpit
+輪/二穴バック,イラマ=Orgy: Double Penetration & Blowjob
 輪/座位,パイズリ,イラマ=Orgy: Sitting, Boobjob, Blowjob
 前戯：兎萌=Foreplay:Tomoe
 カスタム：兎萌\r=Editor:Tomoe\r
@@ -70,23 +69,23 @@
 
 //ADV
 //Neko scenes
-はじめから=New Game
+はじめから=Prologue
 音瑚Lv0\r\n強姦後～ポイント説明=Neko Lv0\r\nAfter rape, point explanation
-音瑚Lv0\r\n来店EV：強姦後来店=Neko Lv0\r\nVisit EV: rape after coming to the store
+音瑚Lv0\r\n来店EV：強姦後来店=Neko Lv0\r\nVisit EV: Visit after rape
 音瑚Lv2\r\n来店EV=Neko Lv2\r\nCome to store EV
 音瑚Lv3\r\n来店EV=Neko Lv3\r\nCome to store EV
 音瑚Lv4\r\n来店EV=Neko Lv4\r\nCome to store EV
-音瑚Lv0＞1\r\nレベル移行劇=Neko Lv 0>1\r\nLevel Transition Scene
-音瑚Lv1＞2\r\nレベル移行劇=Neko Lv 1>2\r\nLevel Transition Scene
-音瑚Lv2＞3\r\nレベル移行劇=Neko Lv 2>3\r\nLevel Transition Scene
-音瑚Lv3＞4\r\nレベル移行劇=Neko Lv 3>4\r\nLevel Transition Scene
-散歩EV：導入=Walk EV: Introduction
-監獄プレイ導入=Introduction of jail play
-音瑚Lv0 END\r\nBADEND=Neko Lv0 END\r\nBadend
-音瑚Lv1 END\r\n精神崩壊=Neko Lv1 END\r\nMental collapse
+音瑚Lv0＞1\r\nレベル移行劇=Neko Lv 0>1\r\nLevel Transition Event
+音瑚Lv1＞2\r\nレベル移行劇=Neko Lv 1>2\r\nLevel Transition Event
+音瑚Lv2＞3\r\nレベル移行劇=Neko Lv 2>3\r\nLevel Transition Event
+音瑚Lv3＞4\r\nレベル移行劇=Neko Lv 3>4\r\nLevel Transition Event
+散歩EV：導入=Walking event intro
+監獄プレイ導入=Prison play intro
+音瑚Lv0 END\r\nBADEND=Neko Lv0 END\r\BADEND
+音瑚Lv1 END\r\n精神崩壊=Neko Lv1 END\r\nMental breakdown
 音瑚Lv2 END\r\nイチャラブ=Neko Lv2 END\r\n Love-dovey
-音瑚Lv3 END\r\n私のご主人様=Neko Lv3 END\r\nMy master
-音瑚Lv4-1 END\r\nラストオーダー=Neko Lv4-1 END\r\nLast order
+音瑚Lv3 END\r\n私のご主人様=Neko Lv3 END\r\nMy Master
+音瑚Lv4-1 END\r\nラストオーダー=Neko Lv4-1 END\r\nLast Order
 音瑚Lv4-2 END\r\nみーんなご主人様=Neko Lv4-2 END\r\nEveryone is my Master
 
 //Tomoe Scenes
@@ -96,18 +95,29 @@
 兎萌Lv1\r\n帰宅時EV:H満足度35=Tomoe Lv1\r\nVisit EV: H satisfaction level 35
 兎萌Lv2\r\n来店EV=Tomoe Lv2\r\nCome to store EV
 兎萌Lv3\r\n来店EV=Tomoe Lv3\r\nCome to store EV
-兎萌Lv0＞1\r\nレベル移行劇=Tomoe Lv 0>1\r\nLevel Transition Scene
-兎萌Lv1＞2\r\nレベル移行劇=Tomoe Lv1>2\r\nLevel Transition Scene
-兎萌Lv2＞3\r\nレベル移行劇=Tomoe Lv2>3\r\nLevel Transition Scene
+兎萌Lv0＞1\r\nレベル移行劇=Tomoe Lv 0>1\r\nLevel Transition Event
+兎萌Lv1＞2\r\nレベル移行劇=Tomoe Lv1>2\r\nLevel Transition Event
+兎萌Lv2＞3\r\nレベル移行劇=Tomoe Lv2>3\r\nLevel Transition Event
 兎萌Lv0 END\r\nBADEND=Tomoe Lv0 END\r\nBADEND
 兎萌Lv1 END\r\nアナタさようなら=Tomoe Lv1 End\r\nGood-bye to you
 兎萌Lv2 END\r\n肉食兎の年下狩り=Tomoe Lv2 END\r\nRabbit hunt for young meat
-兎萌Lv3 END\r\nチンポ当てゲーム=Tomoe Lv3 END\R\nGuess the dick game
+兎萌Lv3 END\r\nチンポ当てゲーム=Tomoe Lv3 END\R\nCock guessing game
 
 
 //Botton Options
 危険日指定=Unsafe Days
+1月=January
 2月=February
+3月=March
+4月=April
+5月=May
+6月=June
+7月=July
+8月=August
+9月=September
+10月=October
+11月=November
+12月=December
 日～　　　日=  to
 初期値10日～16日=Default:10 to 16
 
@@ -115,7 +125,7 @@
 
 デバッグモードを優先的に表示する=Give priority to debug mode
 
-ポイントカード画面へ=Go to the point card screen
+ポイントカード画面へ=To reward card screen
 ポイントアイテム\r\n全解放=Unlock all\r\nItems
 未解放化=Lock all\r\nItems
 

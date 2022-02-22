@@ -70,7 +70,7 @@ r:^（酔い度：(.+)）$=(Drunkenness: $1)
 タイトル画面「つづきから」が選択可能になりました。=You can now select "Continue" from the title screen.
 
 //============================== Point Card Menu ==============================
-【ポイントカードのご利用について】=[About the use of Card Points]
+【ポイントカードのご利用について】=[About the reward card]
 ●特殊プレイはキャストの快堕レベルに応じて取得が可能です\r\n　条件に合わない場合は取得できません。\r\n●お帰りの際ポイントを加算致します。\r\n●ポイントの返納はできませんので予めご了承ください。\r\n●このカードはデミステ本店のみでご利用いただけます。\r\n=● ●Special positions are available based on a girl's corruption level.\r\nThey cannot be acquired unless conditions are met.\r\n● Points will be awarded upon your return to home.\n● Please note that points cannot be refunded.\n● This card is valid only at the main Demi Stage Cafe.\r\n
 r:^(\[[0-9]+Pt\])を消費して解放してよろしいですか？$=Unlock by using $1 points?
 r:^\[([0-9]+)ポイント\]を消費して解放してよろしいですか？=Unlock by using $1 points?
