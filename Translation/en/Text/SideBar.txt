@@ -10,3 +10,7 @@
 蝋燭/鞭痕\nクリア=Remove wax/cuts
 キーパッド=Keypad
 断面表示=X-Ray Window
+
+//Keep this blank, this text is now in the texture (image)
+//Change Position
+体位変更= 

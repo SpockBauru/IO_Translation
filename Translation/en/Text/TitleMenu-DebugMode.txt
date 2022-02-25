@@ -17,8 +17,8 @@
 ※カスタムの解放状況は維持され特殊プレイはリセットされます=※ Customizations will be saved, but special positions will be reset.
 
 //Free Mode
-※ランダムでエッチシーンへ移動します。\r\nシーンの変更は「サイドメニュー」の体位変更から選択可能です。=※ Start from a random sex scene.\r\nYou can change scenes from "Change position" in the "Side Menu".
-ランダムでシーンへ移行します。\n移行後はミニメニューから好きな体位へ\n素早く移動することができます。=※ Start from a random sex scene.\r\nYou can change scenes from "Change position" in the "Side Menu".
+※ランダムでエッチシーンへ移動します。\r\nシーンの変更は「サイドメニュー」の体位変更から選択可能です。=※ Start from a random sex scene.\r\nYou can change scenes from "Change Position" in the "Side Menu".
+ランダムでシーンへ移行します。\n移行後はミニメニューから好きな体位へ\n素早く移動することができます。=※ Start from a random sex scene.\r\nYou can change scenes from "Change Position" in the "Side Menu".
 
 //Return to title screen
 タイトル画面へ戻りますか？=Return to the title screen?
