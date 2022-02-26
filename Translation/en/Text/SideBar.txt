@@ -2,6 +2,7 @@
 
 //Note: Some settings are in "SettingsMenu.txt"
 
+体位変更=Change          \n          Position
 背景の描画設定=Background
 遮断物設定=Obstructions
 男の表示【一括】=Show Man (All)
@@ -10,7 +11,3 @@
 蝋燭/鞭痕\nクリア=Remove wax/cuts
 キーパッド=Keypad
 断面表示=X-Ray Window
-
-//Keep this blank, this text is now in the texture (image)
-//Change Position
-体位変更= 
