@@ -1,5 +1,5 @@
 //Regular Expression
-r:^プリセット (\([a-zA-Z _].*)$=Preset ($1)
+r:"^プリセット (\([a-zA-Z _].*)$"=Preset $1
 
 //====================Machine Translations with DeepL====================
   ※カスタム画面などでは無効になります=  Disabled in custom screens.
