@@ -67,7 +67,7 @@ determination.
 
 --
 
--Mr.
+-
 
 ***BGround_BG00_00
 
@@ -345,7 +345,7 @@ had the first time.
 
 --
 
--Mr.
+-
 
 ***FadeOutBlack
 //正常位　Dループ
