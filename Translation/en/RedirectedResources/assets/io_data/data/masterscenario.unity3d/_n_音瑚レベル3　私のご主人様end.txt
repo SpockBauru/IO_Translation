@@ -355,7 +355,7 @@ waiting for your return.』
 ***ST01_41_00_07_01_00
 
 音瑚(CH01_0440)
-『それに…今は別の気分なんです…』
+『Besides...I'm in a different mood...』
 //顔赤らめ
 
 They stare at me enraptured. This is how I've been 

@@ -88,7 +88,7 @@ heading home.』
 
  ***ST02_10_00_02_01_00
 ？？？(CH02_0309)
-『あら、本当？とっても助かるわ』
+『Oh, really? That's very helpful.』
 
 学生(CH06_0010)
 『Here, this way.』
