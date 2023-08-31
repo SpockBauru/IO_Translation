@@ -35,7 +35,7 @@ The translations are all inside the `Bepinex\Translation\en` folder. They are th
 - Righ now we need help to translate the story and sex dialogues. They are in the files `Text\ADV_ManualTranslations.txt` and `Text\POSITIONS_ManualTranslations.txt` respectively.
   - Inside these files you will see commented lines and uncommented lines. Uncommented lines (without `//` in the beginning) were already translated by some good soul. Commented lines were translated by machine, and must be properly translated by a good human being.
   - To add a translation, first make a proper manual translation of the text on a commented line. After finished, uncomment the line and it will be considered as translated. The goal is to translate everything!
- - If you want to see the changes in your game, use the tool [TranslateRedirectedResources.exe](https://github.com/SpockBauru/SpockPlugins_Miconisomi/releases/tag/r9) to send your translations to the RedirectedResources file. To use it, just extract the file to the game folder (where the Launcher is) and run the program. A message of conclusion will eventually appear in a console window, and its done! Simple like that :)
+ - If you want to see the changes in your game, use the tool [TranslateRedirectedResources.exe](https://github.com/SpockBauru/SpockPlugins_Miconisomi/releases/tag/r10) to send your translations to the RedirectedResources file. To use it, just extract the file to the game folder (where the Launcher is) and run the program. A message of conclusion will eventually appear in a console window, and its done! Simple like that :)
 
 
 ## Credits
