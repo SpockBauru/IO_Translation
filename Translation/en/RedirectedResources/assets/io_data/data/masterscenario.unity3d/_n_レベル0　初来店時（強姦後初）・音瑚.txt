@@ -4,11 +4,11 @@
 //---------------------------------------------
 ***BGround_BG99_00
 
--
-
 --
 
-I go to the club again the next day.
+――
+
+The next day, I went to the club again.
 
 
 //SE：ノック音
@@ -17,7 +17,7 @@ I go to the club again the next day.
 //音瑚の部屋のBGM
 ***BGM_ティータイム
 
-I open the door...
+When I opened the door....
 
 ***SE_door04
 //ガチャ音
@@ -30,202 +30,217 @@ I open the door...
 ***BGM_FadeOut
 
 音瑚
-『.........』
+『.................』
 
 
-and it's exactly as I predicted.
+Yep, I expected nothing less.
 
-It's probably because I'm generously giving the 
-club money almost every day, no matter what 
-Neko-chan says to the staff.
+Even if Neko-chan went to the staff to complain, 
+I've been opening my wallet here generously 
+everyday.
 
-It’s proof that Demi Cafe accepts me as a 
-customer. And I have to make her realize that.
+It's proof that the Demi Stage Cafe accepts me as 
+one of its customers. I gotta make her understand 
+that.
 
 音瑚(CH01_0067)
-『Ugh! The nerve you have coming in here after what 
-you did!』
+『--...!! The nerve you have, walking in here so 
+shamelessly after what you did--!!』
 
 音瑚(CH01_0068)
-『Turns out you’re just like all the others! No, 
-you’re the worst of them all!』
+『You really are just the same as every other 
+customer that's tried to do weird stuff to me! 
+...No, you're the worst of them all!!』
 
-I thought she would be too depressed to talk.
+And here I thought she might have been too 
+depressed to even open her mouth.
 
-...But I guess she’s fine if she has enough energy 
-to be this ferocious.
+...But if she still has enough energy to scowl at 
+me like this, then she'll probably be fine.
 
 音瑚(CH01_0069)
-『What are you so quiet for?! Say something!』
+『Why're you so quiet--!! Say something!』
 
 主人公
-『I just got here and now you want me to leave?』
+『I just got here, are you telling me to leave or 
+something?』
 
 音瑚(CH01_0070)
-『Obviously! You know what you did, right?!』
+『--! Of course I am!! You understand what you did 
+to me, right?!!』
 
 主人公
-『Yeah. I get it, it's normal to be angry about 
-it.』
+『Yep. I get that you're mad too, I don't really 
+mind that.』
 
 音瑚(CH01_0071)
-『Then get out...』
+『Then, get ou--....』
 
 ***BGM_Sweet_&amp_Horror
 
 主人公
-『Okay, I’ll leave, but you do know that I always 
-chose you and ordered all kinds of expensive 
-things, right?』
+『Sure but, I've been coming here for you everyday 
+and ordering tons of stuff in your name... you get 
+that, right?』
 
-She stares and interrupts before I finish talking.
+Before she's finished, I put on my best glare and 
+cut her off.
 
 音瑚(CH01_0072)
-『S...so what...』
+『--!... W-What about it....』
 
-No matter how naive and energetic she may be, she 
-seems to be aware of the implications.
+Seems like she understands what I mean, no matter 
+how naive or innocent she always tries to be.
 
 主人公
-『What do you think would happen if I stopped 
-asking for you?』
+『What do you think would happen, if I stopped 
+doing that?』
 
 ***ST01_50_00_03_05_50
 音瑚(CH01_0073)
-『I’d be relieved. I don't want to see your face. 
-It would be one less trouble in my life...』
+『What'... It'd be a big relief to me. I don't want 
+to even look at your face. If I never saw it 
+again, it'd be too...』
 
 主人公
-『At the very least, you won’t be able to stay here 
-anymore. It's not a place that keeps girls who 
-have no customers and don't make money.』
+『At the very least, you probably won't be able to 
+stay here. This ain't the sort of place that'd 
+shelter a girl that brings in no money and no customers.』
 
 音瑚(CH01_0074)
-『Well, I can just go to another club...』
+『I-It doesn't have to be here, I could always go 
+to another....』
 
 主人公
-『You embarrassed a person famous in this industry. 
-Demi Cafe will absolutely have you take 
-responsibility for it.』
+『You made a VIP of this industry lose a lot of 
+face. I wouldn't be surprised if Demi Stage Cafe 
+was forced to make you take responsibility.』
 
 主人公
-『The next place you’ll be sent to will be more 
-real and hard. You'll be treated worse than what 
-happened yesterday...'』
+『You'll probably be sold off to a whole lot more 
+serious and hard place, you know? They'll probably 
+do much more horrible stuff to you than I did~....』
 
 ***ST01_50_00_03_00_50
 音瑚(CH01_0075)
-『...』
+『--!.....』
 
-Even though she’s staring at me, somehow I feel 
-like her ambition has disappeared.
+Her scowl's as hard as ever, but I feel like a bit 
+of her dogged spirit just left her.
 
 主人公
-『So like I said, I'll keep choosing you to make 
-you the best girl here.』
+『That's why, I'll keep booking you everyday, and 
+make you the best girl here.』
 
 音瑚(CH01_0076)
-『...No.』
+『...No way.』
 
-She knows she has to entertain me no matter how 
-much she hates to.
+Whether she hates it or what, she should 
+understand that she has no choice other than to 
+entertain me.
 
 主人公
-『The club welcomes me to be your master. I wonder 
-if you understand what that means you need to 
-do.''』
+『This club is welcoming me with open arms, 
+Neko-chan. To be your master, that is. You 
+probably know what you have to do in that case, no?』
 
-I approach and reach out.
+I get closer, and reach out my hands.
 
 ***ST01_50_00_03_06_50
 音瑚(CH01_0077)
-『No! Stay away, pervert! Gross!''』
+『No--! Don't come closer--!! You pervert--! You 
+disgust me!!』
 
 主人公
-『It hurt before because it was your first time. 
-I'll be gentle today, so it’ll feel much more 
-better.''』
+『Last time hurt a lot, didn't it? It was your 
+first time, that's why. I'll be a lot more gentle 
+today so it'll feel a whole lot better, Neko-chan.』
 
 ***ST01_50_00_03_03_50
 音瑚(CH01_0078)
-『Sh, shut up! Shut up! Shut up!''』
+『S-Shut up! Shut up shut up--!!』
 
 主人公
-『Did you think about it? Fantasized about it...? ]』
+『Did you just think back to it? Imagine it in your 
+head...?』
 
 ***ST01_50_23_03_05_50
 音瑚(CH01_0079)
-『N, no! I…I don’t want to have sex!''』
+『N-No, I did not! ...I-I do... do not... want to 
+have sex, at all--!』
 
 主人公
-『You’re right. We shouldn’t rush things. Well 
-then, let's order something to bring up your 
-sales.''』
+『True. We don't need to rush things... for now, 
+let's order something so that your sales go up.』
 
 ***ST01_50_00_03_05_50
 音瑚(CH01_0080)
-『I don't want anything! Go ahead and order. I 
-won't drink or eat any of it!''』
+『I don't want anything at all--!! Even if you 
+order it, I won't drink anything, nor will I eat 
+anything!!』
 
 主人公
-『That's fine. Let's spend the rest of the time on 
-plenty of service then.』
+『Whatever you say. Then, let's just spend the rest 
+of our remaining time together on regular 
+service.』
 
 ***ST01_50_00_06_06_50
 音瑚(CH01_0081)
-『Wh, what?''』
+『H-Haah--?』
 
 主人公
-『I’ll tell the staff I won’t be coming back because 
-Neko-chan wouldn’t serve me at all. It's too bad 
-Neko-chan will be roughed up again by guys other than me...''』
+『I'll tell the staff later, that I won't be coming 
+back since you don't 'serve' me at all. It's a shame 
+that some other guy will end up roughing you up~...』
 
 ***ST01_50_00_05_05_50
 音瑚(CH01_0082)
-『I don’t want anything to do with sex, neither 
-with you or with any other guy...!''』
+『It doesn't matter if it's you or some other guy, 
+I'm not doing that stuff anymore...!』
 
 主人公
-『You say that, but that might not work if you were 
-sold to another club. There are places that cater 
-to perverts who enjoy girls pain.''』
+『You say that but, you might not be able to do anything about 
+it with just that. There's lots of clubs out there that 
+specially cater to the sort of perverts that enjoy seeing girls in pain.』
 
 ***ST01_50_00_06_00_50
 音瑚(CH01_0083)
-『What...』
+『Eh--....』
 
-Her face got splashed with the color of unease. 
-Seeing such a reaction gets me excited.
+Unease so sharp that even I could see it clearly 
+filled her face. Seeing those sorts of reactions 
+from her arouse me a whole lot too now.
 
 ***ST01_50_00_06_00_50
 音瑚(CH01_0084)
-『There’s no way such a place exists...right?』
+『T-There couldn't... possibly be a place like 
+that... right?』
 
 I shake my head.
 
 主人公
-『Customers at such places become more delighted the more 
-the girls become unwilling. I bet everyone there would 
-get extremely excited if they saw you crying and screaming.』
+『The customers that go to places like that feel raw 
+pleasure from seeing girls hate it. Considering you're 
+the type to cry and scream too, you'd probably make a smash hit.』
 
 ***ST01_50_00_05_00_50
 音瑚
-『.........』
+『.................』
 
 主人公
-『Even I can't bear to see that happen to you. I 
-just want to spend a good time with you, so I 
-won’t do anything absurd…Please, relax.』
+『Personally, I can't accept that either. I just 
+want to spend my every evening having fun together 
+with you, Neko-chan, not force you. ...So relax.』
 
-Although she snapped at me and rattled on and on, 
-just like magic, her eyes drifted into anxiety.
+Her gaze became anxious and unsteady, if all that 
+bite until now was just my imagination.
 
-It looks like she understands both of our 
-positions.
+Seems like she understands now, just where she and 
+I stand.
 
 ***ST01_50_00_05_03_50
 音瑚(CH01_0085)
-『You’re such a coward...』
+『You're just, playing dirty...』
 
 ***BGM_FadeOut
 

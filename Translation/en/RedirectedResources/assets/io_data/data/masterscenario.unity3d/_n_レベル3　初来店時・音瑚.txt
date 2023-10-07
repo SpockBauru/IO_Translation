@@ -7,195 +7,205 @@
 //ロビーBGM
 ***BGM_Mad_Trick
 
-I walked past the receptionist and greeters and 
-into the back of the lobby.
+Not bothering with the reception and any of the 
+greeters, I carried my feet straight to the back 
+of the lobby.
 
-Ahead of me. There was a figure a little off 
-center in the aisle. When it saw me, it came 
-running towards me.
+Ahead of me, there was a human figure standing 
+there, a bit off the center of the path. Noticing 
+me, she ran up to me with tiny steps.
 
 //音瑚立ち絵イン
 
 ***ST01_41_00_01_00_00
 音瑚(CH01_0105)
-『We've been expecting you.』
+『I've been waiting for you.』
 
-I was surprised, because I thought I was supposed 
-to be in my room.
+I thought she never left her room, so I was a bit 
+surprised.
 
 音瑚(CH01_0106)
-『I've been wondering why you haven't come to my 
-room since I haven't knocked yet.』
+『...You didn't come and knock at my door at the 
+usual time so, I got worried...』
 
 主人公
-『It's unusual for you to come to the lobby when 
-you usually wait in your room. What's wrong?』
+『That's rare, you always just wait for me in your 
+room too, no matter how long I take. What's 
+wrong?』
 
 ***ST01_41_00_05_00_00
 音瑚(CH01_0107)
-『I hope I didn't bother you.』
+『S-Should I... not... have?』
 
-Before I could say anything, I leaned in close... 
-not to be attached to her, but to stand slightly 
-behind her as if quietly leaning against her.
+Before I could say a single thing, she closed the distance and... 
+didn't cling to me, which makes sense considering where we are, and 
+instead quietly just stuck to my rear, as if trying to snuggle up to me.
 
 ***ST01_41_00_05_00_02
 音瑚(CH01_0108)
-『I'm not really supposed to come here to pick you 
-up because it would be a problem for the other 
-guests and cast members if you're booked... but...』
+『Those of us that... uhm, already have bookings are 
+actually in the way of the other cast members and 
+customers so, I really shouldn't be doing this... but.』
 
 音瑚(CH01_0109)
-『I asked Tomoe, and she said that if Master hadn't 
-told me not to come, I could go at least once.』
+『When I asked Tomoe-san about it, she said that 
+since you didn't tell me not to, it was okay to do 
+it just the one time atleast.』
 
 ***ST01_41_00_05_05_02
 音瑚(CH01_0110)
-『But... but... but... was it wrong?』
+『....But, uhm, should I... not have?』
 
-I looked down at her silently, and her small voice 
-became even quieter.
+With me quietly looking down at her from above, 
+her already small voice got even smaller.
 
 主人公
-『No, it's not.』
+『No, it's fine.』
 
 ***ST01_41_00_02_01_00
 音瑚(CH01_0111)
-『Good.』
+『Thank god.』
 
 ***ST01_41_00_01_01_00
 音瑚(CH01_0112)
-『'I'm not really allowed to do this, but if I like 
-this kind of greeting, I'll do it every time. 
-Please let me do it!』
+『It really is not allowed but, if you like it then 
+I can do it everytime, master. Please let me do 
+it!』
 
-she stares at me with eyes so straight that I 
-can't remember the face that stared at me.
+She stared at me straight with her big eyes, to 
+the point that I almost couldn't remember the way 
+she used to scowl at me.
 
 ***ST01_41_00_01_01_00
 音瑚(CH01_0113)
-『Well, I'm embarrassed if the other girls see me, 
-so let's go to my room.』
+『Erhm, it'd be embarrassing if any of the other 
+girls see us like this so... let's quickly go to 
+my room, master.』
 
-A nasty thought came to mind as Neko-chan tried to 
-walk away from the hug, taking one arm as a matter 
-of course.
+Neko-chan took my arm and clung to it, as if to 
+hug it, as if it was completely natural. And a 
+nasty, mean thought came to my mind.
 
 主人公
-『Well, I haven't decided yet that Neko-chan will 
-be the one to play with today...』
+『Eh, I haven't decided who I'm gonna have fun with 
+today though...』
 
 //独立系から03の移行ありにポーズが飛ぶのでバシュってなるかも。
 
 ***ST01_30_00_06_00_00
 音瑚(CH01_0114)
-『Huh?』
+『Eh...』
 
-I told the receptionist that I was going to use 
-Neko-chan again today.
+I'd already called and booked Neko-chan for today, 
+of course.
 
 ***ST01_30_00_05_00_00
 音瑚(CH01_0115)
-『I heard that you have an appointment. I heard you 
-have an appointment...』
+『Uhm, e-erhm... is it, not me today? I heard that 
+you already put in a reservation...』
 
 主人公
-『Oh, maybe the staff misunderstood. I was thinking 
-of just reserving a table for drinks and picking a 
-cast member based on my mood.』
+『Ah~, the staff might have misunderstood. I only 
+booked a seat at the bar today, I was thinking of 
+picking a cast member based on my mood instead.』
 
-she was so shocked that she didn't even realize 
-that she was heading for Neko-chan's room.
+I don't know if it's due to the shock or what, but 
+she didn't even realize that I was already walking 
+towards her room to begin with.
 
 ***ST01_30_00_05_05_00
 音瑚(CH01_0116)
-『~~~~...』
+『~~~~~~~....』
 
 ***ST01_30_00_05_05_00
 音瑚(CH01_0117)
-『I thought... you'd play with me. That's what you 
-meant.』
+『I really thought... that you came for me today 
+too... I see, so that's how it was...』
 
-she gently released my arm from her grasp.
+She let go of the arm she was holding between her 
+chest.
 
 ***ST01_30_00_05_05_00
 音瑚(CH01_0118)
-『Um...why...』
+『Uhm... why....』
 
 主人公
-『Why don't you just order me not to ask why?』
+『If I ordered you not to ask?』
 
 ***ST01_30_00_05_05_00
 音瑚(CH01_0119)
-『...and obey. ...and obey. I will obey...』
+『...!! ...o-obey--. I'll obey....』
 
-As I stood there, my shoulders slumped and I was 
-completely discouraged.
+Standing on the spot, she lost her heart, and 
+dropped her shoulders.
 
-To the casual observer, it might look like I'm 
-making a cast girl cry in the lobby.
+From the side, it might have looked like that I 
+was bullying and making one of the cast members 
+cry in the lobby.
 
 ***ST01_30_00_05_05_00
 音瑚(CH01_0120)
-『Master has many children to choose from but for 
-me there is only one master...』
+『Master, you can... pick whoever you want from all 
+the girls here but... I... I only have you, my one 
+and only master, you know...』
 
 ***ST01_30_00_01_00_00
 音瑚(CH01_0121)
-『...... Please come and visit me if you feel like 
-it. I'll be waiting for you, even if it's not 
-today...』
+『....Please come see me, when you feel like it. 
+Even if it's not today, I'll wait for you as long 
+as it takes...』
 
-It's time to stop being so mean and teach her a 
-lesson. It's no fun to pull out too many fangs, 
-and there's no point in doing so any more.
+Alright, that's enough teasing her for today. 
+Things are gonna get boring if I declaw her too 
+much, and there's no point in going further anyway.
 
 主人公
-『I was actually planning to go to Neko-chan's room 
-today, but I just wanted to tease her.』
+『I was actually planning on heading straight to 
+your room today, Neko-chan, but I just couldn't 
+help but tease you a bit.』
 
 ***ST01_30_00_06_00_00
 音瑚(CH01_0122)
-『!』
+『--!!!』
 
 ***ST01_30_00_23_03_00
 音瑚(CH01_0123)
-『'Oh, my God! I was really worried about you just 
-now!』
+『Jeez, you meanie! I was seriously worried, you 
+know!!』
 
-I use my hands to soothe Neko-chan, who has 
-instantly turned bright red.
+I rein her in and pacify with using both my hands, 
+her face red as a tomato.
 
 主人公
-『Hey, you're talking too loud in here...』
+『C'mon, you're being loud, you know.』
 
 ***ST01_30_00_23_05_00
 音瑚(CH01_0124)
-『Come on! Then come to my room quickly! Please 
-come!』
+『--!! Come to my room already then! Please come!』
 
 ***BGM_FadeOut
 ***ST01_30_00_23_05_05
 
 
-She looked excited and walked quickly to her room, 
-checking to see if I was following her.
+She quickly paced towards her room, still 
+agitated, looking behind herself every so often to 
+check that I was still following her.
 
 //黒背景
 ***BGround_BG99_01
 
-I thought about stopping to tease her on the way, 
-but I didn't want her to start crying, so I 
-didn't.
+The thought to stop in the middle did cross my 
+mind but, it's gonna be annoying if she really 
+does start crying so I scrapped it.
 
 //音瑚の部屋のBGM
 ***BGM_ティータイム
 
 ***SE_room_door_C
 
-I closed the door and took a breath. As soon as I 
-sat down where I usually sit, Neko-chan started 
-talking.
+Finally, after she shut the door, she finally let go 
+of the breath she was holding. The moment she sat her 
+ass down on her usual spot, she started rattling on.
 
 
 //背景：音瑚の部屋
@@ -205,89 +215,89 @@ talking.
 
 
 音瑚(CH01_0125)
-『Oh, my God, you scared me! I really thought you 
-weren't going to come. I thought there was 
-something wrong with me and I might have upset you.』
+『Jeez, don't shock me like that! You made me think 
+that you weren't gonna come afterall. I really 
+thought that I messed something up and made you mad, you know.』
 
 ***ST01_53_00_05_00_53
 音瑚(CH01_0126)
-『I was so surprised. ...... God!』
+『It really shocked me, you know... you dummy!!』
 
 主人公
-『I didn't think you'd be that depressed, so I was 
-surprised myself.』
+『I didn't think you'd get that depressed over it, 
+so I was surprised too, honestly.』
 
-After Neko-chan went into her room, she was sure 
-that I had arrived and her usual energy had 
-returned.
+The moment we got to her room, and she was finally 
+sure that I was gonna stay for the day, her cheer 
+returned to her.
 
 ***ST01_53_00_05_00_53
 音瑚(CH01_0127)
-『It was the first time she went to the lobby on 
-her own, and she said she wasn't going to play 
-with me today.』
+『That's your fault, I came all the way out to the 
+lobby to see you, and you said something like 
+that.』
 
 主人公
-『But I'm free to choose who I want to play with, 
-right?』
+『But I'm free to play around with whoever I want, 
+no?』
 
 ***ST01_53_00_05_05_53
 音瑚(CH01_0128)
-『Umm... yes, but... But I've been waiting for you. 
-I've decided to make you my master...』
+『Uuu... you are, but... But I was waiting for you. 
+I already decided that you're my master so...』
 
 主人公
-『You say it like that for the money?』
+『Are you saying that because of the debt?』
 
 ***ST01_53_00_05_05_53
 音瑚(CH01_0129)
-『'No, no... Of course, work is work, but whether 
-you're a master or not has nothing to do with 
+『N-No--!.... Of course, my job is my job but... 
+you being my master has nothing to do with the 
 money.』
 
 主人公
-『Then try to act prettier?』
+『Why don't you try to act cuter then?』
 
 ***ST01_53_00_00_06_53
 音瑚(CH01_0130)
-『'Oh, pretty? How did you do that?』
+『C-Cuter?! That's so sudden... h-how do I do it?』
 
 主人公
-『What if I told you to do it on your own too, 
-that's an order?』
+『If I ordered you to figure that part out yourself 
+too, then?』
 
 ***ST01_53_00_05_05_53
 音瑚(CH01_0131)
-『...』
+『...--!』
 
 ***ST01_53_00_04_05_53
 音瑚(CH01_0132)
-『I'll... do it.』
+『I'll... I'll do it...』
 
-As she finished, she stood up abruptly.
+She said that, and suddenly stood up.
 
 主人公
-『Are your orders absolute?』
+『Orders are absolute, huh?』
 
 ***ST01_30_00_04_05_00
 音瑚(CH01_0133)
-『Uh, yeah...』
+『Y-Yeah....』
 
 主人公
-『'Then tell me what you want me to do now. That's 
-an order.』
+『Think over what you want me to do to you today 
+then. And that's an order.』
 
 ***ST01_31_00_04_05_00
 音瑚(CH01_0134)
-『Please play with Neko by giving her orders like 
-that a lot today.』
+『...Please give your Neko... lots of orders like 
+that today too... and play with her lots.』
 
 主人公
-『So let's have lots of fun today.』
+『Alright, then let's do just that.』
 
 ***ST01_31_00_02_01_00
 音瑚(CH01_0135)
-『O, okay...』
+『O-Okay....』
 
 ***BGM_FadeOut
 
