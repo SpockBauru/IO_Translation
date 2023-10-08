@@ -58,9 +58,11 @@ r:^（酔い度：(.+)）$=(Drunkenness: $1)
 特殊プレイでは使用できません=Cannot be used in special play
 前戯コミュでは使用できません=Cannot be used in foreplay mode
 　睡眠時　　選択不可 =Not available when sleeping
+　失神時　　選択不可 =Not available when fainted
 次のシーンまでスキップしますか？=Do you want to skip to the next scene?
 次の選択肢・シーンまでスキップしますか？=Skip to the next choice/scene?
 フリーモードが解放されました=Free Mode Unlocked
+兎萌のフリーモードが開放されました=Tomoe's Free Mode Unlocked
 デバッグモードが開放されました=Debug Mode Unlocked
 (ADV専用設定)=(only for ADV)
 (ADVのみ反映)=(Reflects only in ADV)
@@ -133,9 +135,11 @@ sr:^説明：(.*)$=Description: $1
 
 //============================== Uncategorized ==============================
 ポイントを確認=Check your points
-あああああああああ=Ah ah ah ah
+あああああああああ=Aaaaaaaaaaa
 まだ時間はあるけど\n今日はこれぐらいにして帰ろう。=There’s still time, but let's go home for today.
 営業時間一杯まで遊んでしまった･･･\n今日は帰ろう。=I played until closing... Let's go home now.
 後日…=At a later date…
 今日はどうしようか…=What should I do today ...
 あいうえおあいうえおあいうあいうえお=Aiueo Aoi Eae Aiueo
+失神姦=Fainted rape
+有効 (無効シーンのため停止中)=Enabled (stopped due to invalid scene)
