@@ -9,12 +9,12 @@
 ホールド足コキ=Holding Footjob
 フェラ=Blowjob
 後背位=Doggy Style
-拘束調教=Restraint Training
+拘束調教=Restraint Training        
 Wフェラ=Double Blowjob
 立位＆脇コキ=Standing & Armpit
 重なり３Ｐ=Overlapping 3P
 \n相互\nオナニー=Mutual\nMastur\nbation
-放尿=Pissing
+放尿=Urination
 騎乗位＆顔騎=Cowgirl & Face Sitting
 座位＆パイズリ＆イラマ=Sitting, Boobjob, Blowjob
 二穴バック＆イラマ=Double Penetration & Blowjob
@@ -22,32 +22,38 @@ Wフェラ=Double Blowjob
 ドリンクプレイ=Drink play
 手コキ=Handjob
 挟み足コキ=Footjob
-屋外/放尿=Outdoor/Pissing
+屋外/放尿=Outdoor/Urination
 座位=Seated Cowgirl
 馬乗りパイズリ=Cowboy Boobjob
 抑えつけバック=Holding Doggy
 調教/拘束調教=Training/Restrained Training
 イラマ=Deepthroat
-調教/拘束姦=Training/Bondage Fuck
-調教/失神姦=Training/Fainted Fuck
+調教/拘束姦=Training/Bondage Sex
+調教/失神姦=Training/Fainted Sex
 屋外/リードイラマ=Outdoor/Leash Deepthroat
-屋外/路地裏Ｈ=Outdoor/Alley Fuck
-飲/泥酔姦=Drinking/Drunk Fuck
-飲/睡眠姦=Drinking/Sleeping Fuck
+屋外/路地裏Ｈ=Outdoor/Alley Sex
+飲/泥酔姦=Drinking/Drunk Sex
+飲/睡眠姦=Drinking/Sleeping Sex
 リードイラマ=Leash Deepthroat
 ３Ｐ/Ｗフェラ=3P/Double Blowjob
 ３Ｐ/騎乗位＆顔騎=3P/Cowgirl & Face Sitting
 ３Ｐ/重なり３Ｐ=3P/Overlapping 3P
-睡眠姦=Sleeping Fuck
+睡眠姦=Sleeping Sex
 
+泥酔姦=Drunk Sex
+正常位（酔=Missionary (Drunk)
+バック（酔=Doggy (Drunk)
+立ちアナル（酔=Standing Anal (Drunk)
+騎乗位（酔=Cowgirl (Drunk)
+背面座位（酔=Seated Reverse Cowgirl (Drunk)
 
-Missionary(酔=Missionary (drunk
-Standing Anal(酔=Standing Anal (drunk
-Cowgirl(酔=Cowgirl (drunk
-Doggy(酔=Doggy (drunk
-Seated Reverse Cowgirl(酔=Seated Reverse Cowgirl (Drunk
+Missionary(酔=Missionary (Drunk)
+Standing Anal(酔=Standing Anal (Drunk)
+Cowgirl(酔=Cowgirl (Drunk)
+Doggy(酔=Doggy (Drunk)
+Seated Reverse Cowgirl(酔=Seated Reverse Cowgirl (Drunk)
 
-路地裏Ｈ=Alley Fuck
+路地裏Ｈ=Alley Sex
 
 
 
@@ -61,9 +67,9 @@ Seated Reverse Cowgirl(酔=Seated Reverse Cowgirl (Drunk
 
 [酔い]正常位\r\n[酔い]バック\r\n[酔い]立ちアナル\r\n[酔い]騎乗位\r\n[酔い]背面座位\r=[Drunk] Missionary\r\n[Drunk] doggy\r\n[Drunk] Standing Anal\r\n[Drunk] Cowgirl\r\n[Drunk] Reverse Cowgirl\r
 
-拘束調教\n失神姦\nリードイラマ\nドリンクプレイ\n睡眠姦=Restrained Training\r\nFainting Fuck\r\nLeash Deepthroat\r\nDrink Play\r\nSleeping Fuck
+拘束調教\n失神姦\nリードイラマ\nドリンクプレイ\n睡眠姦=Restrained Training\r\nFainting Sex\r\nLeash Deepthroat\r\nDrink Play\r\nSleeping Sex
 
-拘束姦\n放尿\n裏路地Ｈ\n泥酔姦=Bondage Fuck\r\nPissing\r\nAlley Fuck\r\nDrunk Fuck
+拘束姦\n放尿\n裏路地Ｈ\n泥酔姦=Bondage Sex\r\nUrination\r\nAlley Sex\r\nDrunk Sex
 
 //Tomoe Positions
 兎萌フリーエッチ　特殊プレイ=Tomoe Free Play
@@ -170,23 +176,23 @@ r:^\nぶっかけ\n([Ａ-Ｚ０-９]{1,2})$=Boy\n$1 Cum
 r:^\nピストン\n([Ａ-Ｚ０-９]{1,2})$=Piston $1
 r:^\nイラマ\n([Ａ-Ｚ０-９]{1,2})$=\nBlowjob\n$1
 
-\n電マ\n=Wand\nMassager
-\nアナパ\n=Anal Beads
-\n電気攻め\n[OFF]=Electrocute [OFF]
-\n電気攻め\n[弱]=Electrocute [Weak]
-\n電気攻め\n[強]=Electrocute [Strong]
-\n鞭\n蝋燭=Whip\nCandle
-\n蝋燭に\n持ち替え=Switch to Candle
-\n鞭に\n持ち替え=Switch to Whip
-\n機械姦=Fucking Machine
-\n機械姦Ａ=Fucking Machine A
-\n機械姦Ｂ=Fucking Machine B
-\n精飲=Semen Drinking
-\n精液を\n飲ませる=Drink Semen
-精液を\n舐め\nさせる=Lick Semen
-\n失神絶頂=Fainting Orgasm
+\n電マ\n=\nWand\nMassager
+\nアナパ\n=\nAnal Beads
+\n電気攻め\n[OFF]=\nElectrocute [OFF]
+\n電気攻め\n[弱]=\nElectrocute [Weak]
+\n電気攻め\n[強]=\nElectrocute [Strong]
+\n鞭\n蝋燭=\nWhip\nCandle
+\n蝋燭に\n持ち替え=\nSwitch to Candle
+\n鞭に\n持ち替え=\nSwitch to Whip
+\n機械姦=\nFucking Machine
+\n機械姦Ａ=\nFucking Machine A
+\n機械姦Ｂ=\nFucking Machine B
+\n精飲=\nSemen Drinking
+\n精液を\n飲ませる=\nDrink Semen
+精液を\n舐め\nさせる=\nLick Semen
+\n失神絶頂=\nFainting Orgasm
 
-\n放尿絶頂=\Pissing Orgasm
+\n放尿絶頂=\nUrination Orgasm
 \nおもちゃ\n[OFF]=\nToy [OFF]
 \nおもちゃ\n[弱]=\nToy [Weak]
 \nおもちゃ\n[強]=\nToy [Strong]
@@ -207,7 +213,7 @@ r:^\nイラマ\n([Ａ-Ｚ０-９]{1,2})$=\nBlowjob\n$1
 \nグラスに\n注ぐ=Pour\nInto a Glass
 \n股間を\n弄る=Tease\nCrotch
 \n引き抜く\n[Lv3]=Pull\nout [Lv3]
-泥酔姦へ=To Drunk Fuck
+泥酔姦へ=To Drunk Sex
 
 
 //Foreplay

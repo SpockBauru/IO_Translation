@@ -43,7 +43,7 @@
 //============================== Hidden Debug Mode ==============================
 
 //Neko and Tomoe Stats
-デバッグモードでは、通常のプレイでは発生しない状態・ゲーム進行が不可能になる場合があります。     \n \rデバッグモードで発生した不具合に関しては保証致しかねますのでご了承ください。=In debug mode, you may run into an unexpected state or may not be able to proceed in the game. Please note that we cannot guarantee correct operation in debug mode.
+デバッグモードでは、通常のプレイでは発生しない状態・ゲーム進行が不可能になる場合があります。     \n \rデバッグモードで発生した不具合に関しては保証致しかねますのでご了承ください。=Please note that there is no guarantee that the game will work correctly in debug mode.\nBy using debug mode, you may run into unexpected states or may not be able to proceed in the game.
 
 ▼フリーエッチ音瑚=▼ Neko Free Sex
 ▼特殊プレイ音瑚=▼ Neko Special Play
@@ -65,7 +65,7 @@
 カスタム：兎萌\r=Editor:Tomoe\r
 兎萌レベル=Tomoe Level
 
-Ｈ満足度=H Satisfaction
+Ｈ満足度=H Level
 
 //ADV
 //Neko scenes

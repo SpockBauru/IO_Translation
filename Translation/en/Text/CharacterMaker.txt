@@ -16,10 +16,10 @@
 ランダムでカスタマイズを生成します\n終了するには[閉じる]を押してください=Generate Random Customization.\nPress [Close] to exit.
 ランダム=Random
 
-現在のカスタマイズを適応してカスタムを終了しますか？=Do you want to apply the current settings and close the maker?
+現在のカスタマイズを適応してカスタムを終了しますか？=Do you want to apply the current character settings and close the maker?
 適応して終了=Apply and Close
-適応しないで終了=Close without apply
-カスタムに戻る=Go Back to the Maker
+適応しないで終了=Revert and Close
+カスタムに戻る=Go Back to Maker
 
 //============================== Color Window ==============================
 ブレンド率=Blending Ratio
@@ -35,7 +35,7 @@
 ヘアカラー=Hair Color
 
 //============================== Head ==============================
-※変更するとキスやフェラなどの際に\n　位置が合わなくなります=※ If changed, face positions will be misaligned during kissing or BJs.
+※変更するとキスやフェラなどの際に\n　位置が合わなくなります=※ If changed, face positions will be \nmisaligned during kissing or blowjobs.
 
 頭の大きさ=Head Size
 音瑚デフォ=Neko\nDefault
@@ -70,7 +70,7 @@
 乳首スライダー=Nipple Size
 陥没乳首=Nipple Depth
 乳首の尖り具合=Nipple Pointiness
-胸の揺れ(ダンピング)=Breast Shaking (Dumping)
+胸の揺れ(ダンピング)=Breast Shaking (Damping)
 
 //============================== Body ==============================
 体型スライダー=Body Size
