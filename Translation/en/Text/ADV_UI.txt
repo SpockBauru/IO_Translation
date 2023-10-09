@@ -23,21 +23,26 @@ r:^（発情度：(.+)）$=(Excitement: $1)
 r:^（体　力：(.+)）$=(Stamina: $1)
 r:^（酔い度：(.+)）$=(Drunkenness: $1)
 //Character Endings
-音瑚レベル0\nBADEND=Neko Level END\n Bad End
-音瑚レベル1\n精神崩壊END=Neko Level 2 END\nMental Breakdown
-音瑚レベル2\nイチャラブEND=Neko Level 2 END\nLove-Dovey
+音瑚レベル0\nBADEND=Neko Level 0 END\nBad End
+音瑚レベル1\n精神崩壊END=Neko Level 1 END\nMental Breakdown
+音瑚レベル2\nイチャラブEND=Neko Level 2 END\nLovey-Dovey
 音瑚レベル3\n私のご主人様END=Neko Level 3 END\nMy Master
+音瑚レベル4-1\nラストオーダーEND=Neko Level 4-1 END\nLast Order
 音瑚レベル4-2\nみーんなご主人様END=Neko Level 4-2 END\nEveryone is my Master
 
-兎萌レベル0\nBADEND=Tomoe Level 0 END\n Bad End
-兎萌レベル1\nアナタさようならEND=Tomoe Level 1 END\n Good-bye to you
-兎萌レベル2\n肉食兎の年下狩りEND=Tomoe Level 2 END\nRabbit hunt for young meat
+兎萌レベル0\nBADEND=Tomoe Level 0 END\nBad End
+兎萌レベル1\nアナタさようならEND=Tomoe Level 1 END\nGood-bye to You
+兎萌レベル2\n肉食兎の年下狩りEND=Tomoe Level 2 END\nCarnivorous Rabbit's Meat Hunt
 兎萌レベル3\nチンポ当てゲームEND=Tomoe Level 3 END\nDick Guessing Game
 
 
-//Free H
-(フリーエッチ)=(Free Sex)
-(特殊プレイ)=(Special Menu)
+//Sex Menu
+FreeSex=   Free Sex
+SpecialMenu=     Special Menu
+(フリーエッチ)= 
+(特殊プレイ)= 
+         LOCKED     LEVEL+PT=   LOCKED     LEVEL+PT
+　泥酔時　　選択不可 =   Selectable        when drunk
 
 //Start of a new day
 兎萌の部屋へ=Tomoe's Room
@@ -58,9 +63,11 @@ r:^（酔い度：(.+)）$=(Drunkenness: $1)
 特殊プレイでは使用できません=Cannot be used in special play
 前戯コミュでは使用できません=Cannot be used in foreplay mode
 　睡眠時　　選択不可 =Not available when sleeping
+　失神時　　選択不可 =Not available when fainted
 次のシーンまでスキップしますか？=Do you want to skip to the next scene?
 次の選択肢・シーンまでスキップしますか？=Skip to the next choice/scene?
 フリーモードが解放されました=Free Mode Unlocked
+兎萌のフリーモードが開放されました=Tomoe's Free Mode Unlocked
 デバッグモードが開放されました=Debug Mode Unlocked
 (ADV専用設定)=(only for ADV)
 (ADVのみ反映)=(Reflects only in ADV)
@@ -71,7 +78,7 @@ r:^（酔い度：(.+)）$=(Drunkenness: $1)
 
 //============================== Point Card Menu ==============================
 【ポイントカードのご利用について】=[About the reward card]
-●特殊プレイはキャストの快堕レベルに応じて取得が可能です\r\n　条件に合わない場合は取得できません。\r\n●お帰りの際ポイントを加算致します。\r\n●ポイントの返納はできませんので予めご了承ください。\r\n●このカードはデミステ本店のみでご利用いただけます。\r\n=● ●Special positions are available based on a girl's corruption level.\r\nThey cannot be acquired unless conditions are met.\r\n● Points will be awarded upon your return to home.\n● Please note that points cannot be refunded.\n● This card is valid only at the main Demi Stage Cafe.\r\n
+●特殊プレイはキャストの快堕レベルに応じて取得が可能です\r\n　条件に合わない場合は取得できません。\r\n●お帰りの際ポイントを加算致します。\r\n●ポイントの返納はできませんので予めご了承ください。\r\n●このカードはデミステ本店のみでご利用いただけます。\r\n=● Special positions are available based on a girl's corruption level.\r\n      They cannot be acquired unless all conditions are met.\r\n● Points will be awarded upon your return home.\n● Please note that points cannot be refunded.\n● This card can only be used at Demi Stage's main store.\r\n
 r:^(\[[0-9]+Pt\])を消費して解放してよろしいですか？$=Unlock by using $1 points?
 r:^\[([0-9]+)ポイント\]を消費して解放してよろしいですか？=Unlock by using $1 points?
 
@@ -98,7 +105,7 @@ sr:^説明：(.*)$=Description: $1
 ハート目＋レイプ目の解放=Unlock heart eyes & rape eyes 
 胸の拡縮　0%～24%、81%～100%の解放=Unlock breast size ranges 0%-24% and 81%-100%
 陥没スライダーの解放=Unlock nipple depth slider
-乳首スライダーの解放=Unlock nipple slider
+乳首スライダーの解放=Unlock nipple size slider
 体型の拡縮　0%～37%、76%～100%の解放=Unlock body size ranges 0%-37% and 76%-100%
 肉付きスライダーの解放=Unlock body build slider
 肌色　【色白】【褐色①】【褐色②】の解放=Unlock skin color [White], [Brown 1] and [Brown 2]
@@ -133,9 +140,11 @@ sr:^説明：(.*)$=Description: $1
 
 //============================== Uncategorized ==============================
 ポイントを確認=Check your points
-あああああああああ=Ah ah ah ah
+あああああああああ=Aaaaaaaaaaa
 まだ時間はあるけど\n今日はこれぐらいにして帰ろう。=There’s still time, but let's go home for today.
 営業時間一杯まで遊んでしまった･･･\n今日は帰ろう。=I played until closing... Let's go home now.
 後日…=At a later date…
 今日はどうしようか…=What should I do today ...
 あいうえおあいうえおあいうあいうえお=Aiueo Aoi Eae Aiueo
+失神姦=Fainted rape
+有効 (無効シーンのため停止中)=Enabled (stopped due to invalid scene)

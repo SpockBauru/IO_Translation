@@ -7,234 +7,252 @@
 //ロビーのBGM
 ***BGM_Mad_Trick
 
-I came to Demi Cafe today without a reservation.
+I came over today without a booking in place.
 
-I'm the only one who calls on Neko-chan anyway, 
-and I refrain from booking unless I’m absolutely 
-sure I can show up.
+I'm the only one who ever books her anyway, so I 
+don't book in advance unless I know I'm gonna come 
+for sure.
 
-After using the toilet, I looked around the lobby 
-while heading to the reception desk.
+Dealing with my business in the restroom, I made 
+my way to the main desk and ended up looking 
+around the lobby.
 
-The lobby feels luxuriously vast, with only a few 
-people consisting of the staff and cast members 
-waiting for customers.
+The lobby felt needlessly, indulgently vast, with 
+only a few staff and some cast members waiting for 
+their clients populating it.
 
-There were also other cast members in the booth 
-seats talking happily with low voices.
+I also saw some of the cast members sitting at the 
+box seats, talking to each other and giggling in 
+low voices.
 
 ？？？(CH02_0053)
-『Hey...』
+『Hey....』
 
-I heard a voice from the booth seats.
+A voice called out to me, from the lounge with all 
+the box seats.
 
 //兎萌立ち絵イン
 
 ***ST02_00_00_00_01_00
 兎萌(CH02_0054)
-『Um, if you have time...Can we talk for a bit?』
+『Uhm, if you have some time... I'd like to chat a 
+bit.』
 
-I nodded and sat in the booth seat.
+I nodded, and sat down on the box seat she led me 
+to.
 
 主人公
-『What’s wrong?』
+『What's the matter?』
 
 ***ST02_00_00_05_01_00
 兎萌(CH02_0055)
-『About...the other day...』
+『It's uhm... uhm... the other day...』
 
 ***ST02_00_00_05_05_00
 兎萌(CH02_0056)
-『Even though I was drunk...I'm sorry for what I 
-did.』
+『While it's true that I was a bit drunk... I'm 
+still very sorry for doing what I did.』
 
-Drunk? The other day…? Ahhh, I guess we both 
-couldn’t stop ourselves at that moment...
+Drunk? The other day...? Aah, right. In the end, 
+neither of us were able to control ourselves that 
+day so...
 
-I had banged Tomoe-san, who never had sex in the 
-club.
+I ended up banging her thoroughly, someone like 
+her who'd never done the real thing in the club 
+before.
 
 ***ST02_00_00_05_05_00
 兎萌(CH02_0057)
-『Onii-san is just so easy to talk to...I got 
-drunk...』
+『You were just so easy to talk to, onii-san... I 
+couldn't help myself and ended up drinking so 
+much...』
 
-That said, it was only a one time thing, 
-especially since she was drunk.
+Yeah but, it was a one time thing. And she was 
+drunk too.
 
-But the brooding Tomoe-san doesn’t seem to think 
-so.
+Then again, seems like she herself keeps beating 
+herself over it and doesn't think of it that way.
 
 ***ST02_00_00_05_05_00
 兎萌(CH02_0058)
-『But what happened...this might sound like an 
-excuse, but it was the alcohol, so please forget 
-it ever happened.』
+『But uhm... the things that we did... they were because of 
+all the alcohol too so, and this might sound like a 
+convenient excuse from my end but, I want you to forget about them.』
 
 ***ST02_00_00_05_05_00
 兎萌(CH02_0059)
-『Of course there are issues with my husband...But 
-more than anything, I inconvenienced you with my 
-frustrations...』
+『There's my husband too, of course... no, more 
+than that, I ended up burdening you with my own 
+sexual needs, onii-san...』
 
 ***ST02_00_00_05_00_00
 兎萌(CH02_0060)
-『I'll never do it again, okay?』
+『I'll try not to ever do it again, so please?』
 
-As I listen silently the whole time, she shows me 
-a gaze urging me to forget.
-
-主人公
-『Is...that so. I'm also sorry for getting carried 
-away. But...』
-
-If she’s obviously trying to set some distance 
-between us, I’ll be upfront.
+As I stayed quiet and didn't say a word, she kept 
+throwing that gaze at me, badgering me to forget.
 
 主人公
-『Doing it with you felt so sooooo good.』
+『Is that, so... I'm sorry as well, since I let the 
+mood get to me as well at that time. But...』
+
+If she's gonna put some distance between us 
+anyway, I might as well say it now.
+
+主人公
+『It felt wonderful to do it with you, Tomoe-san.』
 
 ***ST02_00_00_06_05_00
 兎萌(CH02_0061)
-『...eh.』
+『...Eh?』
 
 主人公
-『Normally, being told it was the alcohol would’ve 
-been the end of it, but I was fairly conscious 
-that time...』
+『We both were very drunk there, I won't deny that, 
+but at the same time, I was still very conscious 
+of it all...』
 
 主人公
-『Tomoe-san's skin was so soft and supple with a 
-nice scent...and your reaction was very cute.』
+『Your skin was so soft, Tomoe-san, and it smelled 
+so nice... and your body reacted so nicely, so 
+cutely.』
 
 ***ST02_00_00_05_01_00
 兎萌(CH02_0062)
-『Y-you don’t have to...Err, I'm happy with your 
-compliments, but...』
+『D-Don't... c-compliment me like... no, being 
+complimented like that feels very nice but...』
 
 主人公
-『I think...I know why Tomoe-san doesn’t have sex.』
+『I think I understand why you don't do the... real 
+thing... here in the club.』
 
 ***ST02_00_00_06_00_00
 兎萌(CH02_0063)
-『Huh...what do you mean?』
+『Eh... what do you mean?』
 
 主人公
-『It's because you’re so attractive and sexy, and 
-if you go all the way, the customers would 
-misunderstand and obsess over you.』
+『You're just so attractive and sexy, I can understand 
+why you'd be scared of customers misunderstanding and 
+clinging to you, if you do such wonderful things for them.』
 
 ***ST02_01_00_01_01_00
 兎萌(CH02_0064)
-『Fufu...don't tease me. That's not true. I told 
-you exactly why I don’t have sex...』
+『...Fufuh... jeez, don't tease me. It's not like 
+that at all. You already know the real reason... I 
+told it to you the other day....』
 
 主人公
-『...It’s because I have a husband.』
+『...It's because of your husband, isn't it?』
 
-Although this is a booth seat, it’s still in the 
-lobby. I confirm with Tomoe-san in a small voice.
+Even if these are box seats, we're still in the 
+lobby. So I asked in a very low voice.
 
 ***ST02_01_00_01_01_00
 兎萌(CH02_0065)
-『Yes...』
+『Yeah...』
 
 主人公
-『If I were your husband, I wouldn’t be able to go 
-on a business trip and leave such a wonderful 
-person like you alone.』
+『Personally, I would never be able to leave a 
+wonderful wife like you behind and go on a 
+business trip like that.』
 
-As I utter words, I can hear something in her 
-voice changing from confusion and embarrassment, 
-to joy.
+The more I speak... the more I can feel her 
+confusion and puzzlement turning into 
+embarrassment and joy.
 
 ***ST02_01_00_01_01_00
 兎萌(CH02_0066)
-『My husband is working far away for my sake, you 
-know...』
+『Don't say that... jeez. It's not like I'm 
+stupid... even I know that he's working so much 
+for my sake...』
 
-If she thinks so...then why doesn’t she refuse me?
+If she knows that... I do wonder why she doesn't 
+turn me down.
 
-No matter how much she says she won’t have sex, 
-she works here, aware of the services offered by 
-the club.
+To begin with, even if she doesn't do the 'real 
+deed' with her clients, she still comes here to 
+work everyday despite knowing what this place is about.
 
 主人公
-『If I had such a young and beautiful wife, I 
-wouldn't be able to wait and come right back home. 
-Your husband is a lucky man.』
+『If I had such a young and beautiful wife like you, I 
+wouldn't be able to take it and come home right away. 
+What a lucky man your husband is, I'm honestly jealous.』
 
 ***ST02_01_00_05_01_00
 兎萌(CH02_0067)
-『C’mon now...I'm not that young anymore...』
+『C'mon, always with that... I'm not that young 
+anymore, you know...』
 
-Usually, going this far is the same thing as 
-saying I want to have sex again. And even then, I 
-wasn’t reprimanded.
+Normally, if a man says this much... it's the same 
+as him saying that he wants to have sex again. And 
+yet she's not pushing me away, or even rebuking me.
 
 主人公
-『I was surprised when you called out, but now I'm 
-really excited just to be with you.』
+『It surprised me when you called out to me earlier 
+but, just being with you like this is enough to 
+make my heart pound now, Tomoe-san.』
 
 ***ST02_01_00_05_01_00
 兎萌(CH02_0068)
-『You’re so good with your words...』
+『Jeez, you're such a sweettalker...』
 
-Whatever she’s saying, I'm sure deep down she’s 
-expecting something. Let's pull back a little.
+She's saying all that but, she probably wants it 
+inside. ...I'll try pulling back a bit.
 
 主人公
-『...Sorry. You were talking about how that never 
-happened before. Tomoe-san, you’re kind and easy 
-to talk to, so I tend to talk too much...』
+『...I'm sorry. You came to ask me to forget about 
+it, didn't you? You're very sweet and easy to talk 
+to, so I ended up dragging it out...』
 
 ***ST02_00_00_01_01_00
 兎萌(CH02_0069)
-『Oh no, it’s okay. I’m the one who stopped you. 
-Are you going to Neko-chan again today?』
+『No, it's fine. I was the one who stopped you and 
+asked you to listen... You're going to go see 
+Neko-chan again today, no?』
 
-As I try to get up from my seat, Tomoe-san stares 
-at me with a feverish gaze.
+As I was getting up from the chair, I felt her hot 
+gaze staring through me.
 
 主人公
-『Um...I haven't decided yet. But choosing you 
-after what happened...wouldn’t it be awkward?』
+『...Ah, erhm... I still haven't made up my mind about 
+that. But we did just do that last time so, even if I were 
+to make an appointment with you... it'd just be a bother, no?』
 
 ***ST02_00_00_11_01_00
 兎萌(CH02_0070)
-『…No, not at all. I mean, if you’re still okay 
-with it...』
+『...No. Not at all. Uhm... If it's still alright 
+with you, onii-san, even after knowing....』
 
-She wants me to choose her. She fell for it more 
-easily than I expected.
+And there it is. She finished it off with "please 
+ask for me". She fell easier than I expected.
 
-She wants me to forget about it, but it’s 
-Tomoe-san herself who can't forget that intense 
-act.
+She was telling me to forget it, but it was her 
+herself who couldn't forget all the passionate 
+stuff we did last time.
 
-When I sat down again and stared back, Tomoe-san 
-let out a small breath of relief and placed her 
-hand on the other.
+When I sat my ass back down again and returned her 
+gaze, she let out a very small sigh of relief, and 
+put her hands on mine.
 
-I can see the color of frustration in her watery 
-eyes. There’s no doubt, Tomoe-san is expecting 
-something.
+Within her moist eyes, I could see her lust and 
+sexual craving. No matter how you slice it, she's 
+hungry for it too.
 
-At first, Tomoe-san may have come to ask that I 
-forget about last time, but she ended up losing to 
-her strong rabbit lust.
+I'm sure that at first, she probably came to 
+earnestly ask me to forget about what we did but, 
+in the end, her lust as a rabbit won out.
 
-If I’m a bit forceful, I should be able to fuck 
-her again. And she’s clearly expecting it.
+If I push her a bit, she'll probably let me do her 
+again. She's clearly hoping for it too, afterall.
 
-When I saw Tomoe-san blushing a little, my 
-expectations and excitement rose up tremendously.
+Seeing her blushing cheeks, my desire and arousal 
+hit new highs.
 
-So, I've riled up Tomoe-san, but I originally came 
-here to see Neko-chan.
+...So. I ended up making her long for it this 
+badly, but I came here for Neko-chan in the first 
+place.
 
-It’s fun to tease Tomoe-san by choosing Neko-chan. 
-Now then, what to do...
+Tantalizing her by booking Neko-chan sounds like a 
+fun time too. Now then, what should I do...
 
 ***BGM_FadeOut
 ***ST02_00_00_11_01_05

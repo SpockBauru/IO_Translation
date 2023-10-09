@@ -4,64 +4,66 @@
 //黒背景
 ***BGround_BG99_00
 
-There was a big change in the project I was 
-involved in at work, and no matter how hard I 
-tried, I couldn't make time to go to the club.
+The project I was involved in at work had a big 
+change, and no matter how I tried to extricate 
+myself, I couldn't find the time to go to the club.
 
-Even if I want to meet Neko-chan, I couldn't 
-easily go to Demi Cafe.
+Even if I wanted to see her, I couldn't find any 
+chances to go and actually do it.
 
-I finally managed to catch a break. Finally I can 
-go to Demi Cafe ... I can go see Neko-chan.
+Finally, it was more or less resolved. I can 
+finally go to the club... finally see and have fun 
+with Neko-chan now.
 
-I quickly made a reservation call.
+I quickly picked up the phone and called to put in 
+a booking.
 
 //SE コール音など
 ***SE_phone_calling
 
-After a while...the phone connected to the usual 
-staff reception. After completing the usual 
-formalities, I got to the main subject.
+It rang for a bit... then connected. After the 
+usual pleasantries, I got to the point.
 
 ***SE_END
 
 主人公
-『So, I'd like to appoint Neko-chan for tomorrow 
-when the club is open...』
+『So, I would like to book Neko-chan for tomorrow 
+right from when the club opens up...』
 
 スタッフ
-『I'm sorry. There is a prior appointment for that 
-time...』
+『Our apologies. She already has an appointment for 
+that time...』
 
-Eh? Does Neko-chan have a customer other than me?
+Eh? ...She has other clients than me?
 
-Or did I get blacklisted from the club because 
-Neko-chan complained a considerable amount?
+Or, did Neko-chan's complaints finally get through 
+and they blacklisted me??
 
-But then it should’ve happened the time when I had 
-my way with her that other day.
+But if so, I'd have been blacklisted the moment I 
+assaulted her in her sleep back then.
 
 主人公
-『Oh really? Then, when will Neko-chan be free 
-tomorrow?』
+『Ah, is that so? Then, is she free tomorrow? If 
+so, when?』
 
-I calm down and ask when she’s free.
+I calmed down, and asked when she'd be free.
 
 スタッフ
-『I am sorry. Tomorrow, the cast member you want is 
-reserved, but she will be free the day after 
-tomorrow.』
+『Our deepest apologies. Her time is already 
+completely reserved for tomorrow as well... 
+however, she's currently free all day for the day after tomorrow.』
 
-What’s going on...
+What is this...
 
-Is someone trying to hog her like me, or maybe she 
-got a few more loyal customers...?
+Is someone else trying to monopolize her too? Or 
+does she have just that many more customers now...
 
-In any case, it seems that I wasn't the only one 
-who couldn’t get a reservation.
+In any case, it seems like I'm not blacklisted or 
+anything.
 
-Although I was quite uncertain, I made a 
-reservation for the whole day and hung up.
+While being submerged in the sudden gloominess, I 
+booked her out completely on the day after 
+tomorrow, from opening till closing, then cut the call.
 
 //黒背景終わり
 //背景：ロビー
@@ -70,166 +72,178 @@ reservation for the whole day and hung up.
 ***BGM_Mad_Trick
 
 
-----
+---------------
 
---
+――
 
-It was the day of the reservation, and I was 
-nervous the whole time.
+I didn't manage to calm down at all, and before I 
+knew it, it was the day.
 
-That Neko-chan has other customers. She serviced 
-others...In other words, had sex.
+Neko-chan, of all people, has customers. She's 
+'servicing' other men... in other words, having 
+sex with them.
 
-I couldn't help thinking so, and I came to the 
-club earlier than the designated time.
+When I thought about it, I couldn't control myself 
+and ended up showing up to the club even before 
+the reservation time.
 
 主人公
-『Should I get a drink or something...』
+『Maybe I'll get something to drink....』
 
-I sat nearby and started thinking then my mind 
-started to wander off.
+I loitered around aimlessly, not even sitting down 
+anywhere, while thinking things that I usually 
+wouldn't.
 
 //兎萌立ち絵イン
 
 ***ST02_00_00_01_01_00
 兎萌(CH02_0041)
-『Oh. Onii-san, you’re very early today. You might 
-be the first customer.』
+『Oh my~. Onii-san, you came quite early today, 
+didn't you? You might be the first one here.』
 
-When I raised my head to a familiar voice, it was 
-Tomoe-san.
+Hearing a familiar voice, I raised my face only to 
+see Tomoe-san there.
 
 主人公
-『Oh, hello...』
+『Ah, hello...』
 
-That was a weak response to her greeting.
+In response to a greeting like that, I ended up 
+replying without any energy and spirit.
 
 ***ST02_00_00_01_01_00
 兎萌(CH02_0042)
-『To come at this time...It’s with Neko-chan today, 
-right? But you don’t seem well. If you’d like, I’d 
-be happy to talk.』
+『Coming so early... it's Neko-chan again today, 
+no? But you seem very down today. If I'll do, then 
+I really don't mind lending you an ear, you know?』
 
 主人公
-『No, it’s just I couldn't come for a few days, and 
-I was surprised that Neko-chan's schedule was 
-booked out.』
+『No, it's just that I've just been unable to come 
+in for quite a few days, and seeing her schedule 
+so full surprised me, that's all.』
 
-I told her with a bitter smile. I didn't really 
-want to show how pitiful I was to Tomoe-san.
+I said that and nothing more, with a bitter laugh. 
+I don't want to show Tomoe-san much of my pathetic 
+side either.
 
 ***ST02_00_00_02_01_00
 兎萌(CH02_0043)
-『Ah yes. It seems that many customers heard the 
-rumors and reserved Neko-chan over the past few 
-days.』
+『Oh, right. Over these past few days, it seems 
+like quite a few customers who'd heard the rumours 
+started reserving Neko-chan.』
 
-So there were other customers...Many, even...
+So she really did find other customers, huh.... 
+And quite a few of them....
 
-However, I calmly ask her while trying not to give 
-any hints on my face or attitude that I felt like 
-it was over.
+But I keep myself under control and don't let 
+anything show in my voice or expression, and ask 
+her calmly.
 
 主人公
-『Rumors…?』
+『Rumours...?』
 
 ***ST02_00_00_01_01_00
 兎萌(CH02_0044)
-『She used to stay in her room, but it looks like 
-she’s been out in the lobby for the past few 
-days.』
+『She'd always been a shutin, never leaving her 
+room, but for the past few days she's been showing 
+up in the lobby.』
 
 ***ST02_00_00_01_01_00
 兎萌(CH02_0045)
-『I wouldn’t say rumors...it was more like I heard 
-a customer talking about seeing Neko-chan that 
-time and how her aura was very good.』
+『I wouldn't call them 'rumours', really... I just 
+heard one of the customers who was there at the time 
+talking about how the air around her's become much better.』
 
 ***ST02_00_00_02_01_00
 兎萌(CH02_0046)
-『Her behavior became softer...』
+『About how it became a lot softer...』
 
 主人公
-『Going to the lobby herself...』
+『Went to the lobby, by herself....』
 
-As Tomoe-san says, Neko-chan was a girl who just 
-waits in her room, whether she had a customer or 
-not.
+Just as she said, Neko-chan was always a girl who 
+simply waited in her room, not caring a whit 
+whether she got any customers or not.
 
-Even though I managed to get close to her to some 
-extent, I have never been greeted or chatted to at 
-the lobby.
+Even when someone like me, who was a tiny bit close to 
+her, booked her out, she never came to the door to 
+receive me, or ever chatted with me outside in the lobby.
 
-Despite that...
+And yet....
 
-Did she get angry or impatient with me after I 
-suddenly stopped messing around with her?
+I don't know whether it was because it pissed her off 
+that I messed around with her to my heart's content and 
+then stopped showing up, or whether she just got tired of me...
 
-Did she start looking for other customers?
+But did she really start looking for other 
+customers all on her own....?
 
 ***ST02_01_00_02_01_00
 兎萌(CH02_0047)
-『And then, the customer came back again. 
-Apparently, her service was very good and she 
-became quite popular.』
+『That was when it began. Customers started coming 
+back to her again. Apparently, her service is 
+rated quite highly.』
 
 ***ST02_01_00_02_01_00
 兎萌(CH02_0048)
-『Her reputation spread by word of mouth, even to 
-customers who had been put off by Neko-chan’s past 
-attitude.』
+『Seems like it spread by word of mouth to even 
+those customers that were pushed away by her 
+attitude long ago.』
 
-Her service was very good...Tomoe-san's words are 
-damaging.
+Service rated highly.... every single word of hers 
+does damage to me.
 
 ***ST02_00_00_01_02_00
 兎萌(CH02_0049)
-『This is also thanks to Onii-san being Neko-chan’s 
-partner…Thank you again.』
+『This is all thanks to you too, isn't it, 
+Onii-san? ...Let me say it again, thank you very 
+much.』
 
 主人公
-『Ah, no...』
+『Ah, no....』
 
 I feel bitter.
 
 ***ST02_00_00_01_01_00
 兎萌(CH02_0050)
-『I was very relieved when Onii-san was there. Now 
-that she’s so busy, I don’t have to worry 
-anymore.』
+『I felt very relieved when you were with her too 
+but, since she's so busy now, I really don't have 
+to worry about her anymore, do I?』
 
 ***ST02_01_00_05_01_00
 兎萌(CH02_0051)
-『Neko-chan coming to me about all her worries 
-seems like a dream...Oh, I have to get ready...』
+『Neko-chan coming to me everyday back then to 
+complain and ask for advice almost seems like a 
+dream. ...Ah, it's about time for me as well...』
 
-Like a dream, huh?...I'm the one who wants to 
-think it's a dream.
+A dream, huh? ...I'm the one who wants to believe 
+this to be a dream.
 
-Did I just blindly believe that Neko-chan opened 
-up only to me?
+Was I just deluding myself thinking that Neko-chan 
+was opening up her heart to me...
 
 ***ST02_01_00_02_01_00
 兎萌(CH02_0052)
-『Until next time…Choose me too, from time to time, 
-fufu.』
+『Until next time then. ...Ask for me one of these 
+days too, okay? Fufuh~』
 
 //兎萌立ち絵はけ
 ***ST02_01_00_02_01_05
 
-Looking as Tomoe-san leaves, I was stunned by the 
-story I just heard.
+Watching her back moving away from me, I stood 
+there, dumbfounded by what I just heard.
 
 ***BGM_FadeOut
 
 //黒暗転
 ***BGround_BG99_01
 
-Whatever, it's my turn tonight...Fuck, "my turn" 
-my ass! I only go to the club to make her mine.
+Either way, it's my turn tonight. ...Fuck, the 
+fuck am I thinking! "My turn"? I've been coming 
+here everyday just to make her mine and only mine.
 
-In any case, what she did with the other guys...I 
-have to check with her directly.
+In any case, there's no other option... I can only 
+confirm with her directly, what she did with all 
+those other men.
 
 //暗転あけ
 //背景：音瑚の部屋
@@ -242,252 +256,265 @@ have to check with her directly.
 
 ***ST01_21_00_02_01_00
 音瑚(CH01_0382)
-『Oh, Mister, have you finally come to play? I 
-thought you couldn't come because you were forcing 
-yourself.』
+『Ah, mister. You finally came to see me again? I was 
+just starting to think that you were forcing yourself 
+all this time, and finally couldn't do it anymore--』
 
-Neko-chan with the usual attitude and tone. 
-Anyway, I ask her about what I just heard from 
-Tomoe-san.
+Her tone and attitude are like always. For now, 
+let's ask about what I just heard from Tomoe-san.
 
 主人公
-『...I heard you’ve been out in the lobby lately.』
+『...I heard that you've been going out to the 
+lobby by yourself, lately.』
 
 ***ST01_20_00_00_00_00
 音瑚(CH01_0383)
-『So sudden, what about it...?』
+『W-What? What about it...?』
 
-Her voice seemed softer than I expected. I stare 
-at the anxious Neko-chan.
+Seems like she didn't think she'd say it that 
+softly. I stare at her anxious face.
 
 ***ST01_20_00_04_01_00
 音瑚(CH01_0384)
-『That's right. I was out. But I wasn't looking for 
-Mister specifically.』
+『That's right. I did. But it's not like I was 
+looking for you or anything, okay?』
 
 主人公
-『I see…』
+『I see....』
 
-Tomoe-san's story is true then. So everything 
-after that is also...
+So what Tomoe-san said was true, huh? Then the 
+rest must have been....
 
 ***ST01_20_00_00_01_00
 音瑚(CH01_0385)
-『Anyway! Why haven’t you come lately? I almost 
-forgot about you, Mister...』
+『That aside! Why didn't you come at all these past 
+few days? I was just about to forget you, you 
+kn--...』
 
-While listening to her, I tried hard to look at 
-Neko-chan, but I unconsciously drooped my head 
-down in disappointment.
+I'd been trying my best to keep looking at her 
+face this whole time but, before I realized 
+myself, I'd slumped my head down.
 
 ***ST01_20_00_06_06_00
 音瑚(CH01_0386)
-『H-hey! What's wrong? It was a joke! …What 
-happened? Heey.』
+『H-Hey! W-What's wrong? That was a joke, obviously 
+it was a joke! ...Hey, what happened? Tell me--!』
 
 主人公
-『Oh, oh...sorry. I couldn't see you for a while.』
+『A-Aah... sorry. I couldn't see you these past few 
+days.』
 
 ***ST01_20_00_04_00_00
 音瑚(CH01_0387)
-『That's because Mister didn't come. So...』
+『I-Isn't that your fault? You didn't come to see 
+me at all. So...』
 
 主人公
-『So you were looking for another customer in the 
-lobby?』
+『So you looked for other customers in the lobby?』
 
 ***ST01_20_00_03_00_00
 音瑚(CH01_0388)
-『As if! I didn't say that!』
+『I didn't, dummy! When did I say that?!』
 
 主人公
-『I was supposed to come yesterday. But all the 
-reservations were filled. I was told you were 
-servicing other men.』
+『I actually planned on coming yesterday. But you 
+were completely booked out. Apparently, you were 
+busy 'servicing' other men.』
 
 ***ST01_20_00_04_04_00
 音瑚(CH01_0389)
-『H-Hey! It’s true that some customers came 
-yesterday and I was dealing with them...』
+『H-Hey! It's true that quite a few customers 
+showed up, and I did keep them company but...』
 
 主人公
-『...Meaning, you were doing it. Here.』
+『...So you did it with them, basically. Here.』
 
 ***ST01_20_00_04_00_00
 音瑚(CH01_0390)
-『Huuuuuh? I feel like I’m being misunderstood 
-here...』
+『Haah... I feel like you're misunderstanding 
+something really badly...』
 
 ***ST01_20_00_03_00_00
 音瑚(CH01_0391)
-『It was service, as in attending to guests! 
-Chatting with customers is normal because they’re 
-customers.』
+『It was just service, just regular old service! 
+They were paying customers, so of course I chatted 
+with them and stuff.』
 
 ***ST01_21_00_04_05_00
 音瑚(CH01_0392)
-『I don’t do that...nasty service that Mister is 
-thinking about. D-don't worry.』
+『I didn't do any of the sort of, u-uhm... depraved 
+stuff that you're thinking, mister. S-So relax.』
 
 主人公
 『W-Why...?』
 
 ***ST01_21_00_03_05_00
 音瑚(CH01_0393)
-『B-because, isn’t it obvious?!』
+『That's, uhm... because... uhm, ah... i-it's 
+obvious, isn't it?!』
 
-Obvious...? Is serving customers without 
-sex...obvious...?
+Obvious...? Her 'servicing' them by just chatting 
+and not having sex...? That's... obvious?
 
 ***ST01_21_00_23_03_00
 音瑚(CH01_0394)
-『Oh my gooood...Mister is so dull!!』
+『Jeez~~~... You're too dense, mister!!』
 
 ***ST01_21_00_23_06_00
 音瑚(CH01_0395)
-『I only...d-do it with you. I-I...decided that on 
-my own.』
+『Uhm, for stuff like that... I-I've already, made 
+up my mind... t-to do it only with you. I-I 
+decided that... on my own.』
 
-Huh? Wha? Sex only with me, Neko-chan...
+Nn? Huh? ...Only with me? She...
 
 主人公
-『You decided...?』
+『Decided that...?』
 
 ***ST01_21_00_23_05_00
 音瑚(CH01_0396)
-『Yes, that's right! I decided! That's why I 
-haven't had sex with other people and never will! 
-Is there a problem?』
+『T-That's right! I made up my mind, by myself! So, 
+I've not had any sex with any other people, and I 
+won't ever! Do you mind that?』
 
 主人公
-『N-no. It's fine. Were you...waiting for me?』
+『N-No. Of course I don't... by any chance, were 
+you waiting for me?』
 
-Her reddish face became even redder.
+Her red face looked even redder.
 
-Neko-chan makes a small nod and lets out a small 
-voice.
+She nodded very head very slightly and then let 
+out a small voice, as if mustering all she could.
 
 ***ST01_20_00_23_05_00
 音瑚(CH01_0397)
-『That’s why I was out in the lobby. I wasn't 
-attracting customers...I-I was looking for you...』
+『That's why I went out to the lobby too. It wasn't 
+to attract other customers... I-I was looking 
+for... uhm--... l-looking for you.』
 
 ***ST01_20_00_05_05_00
 音瑚(CH01_0398)
-『Earlier, look...it's been a while so I was a 
-little shy. Sorry for lying and making you feel 
-down...』
+『I said otherwise earlier but, you know... it's been a 
+while since we've seen each other, so I felt shy... I 
+didn't mean to lie and make you feel down... I'm sorry...』
 
 ***ST01_20_00_03_03_00
 音瑚(CH01_0399)
-『...Wait, why do I have to apologize! Mister was 
-the one who didn’t come to the club.』
+『...Wuh, why am I the one apologizing! It's your 
+fault for not coming to see me, you know.』
 
 ***ST01_20_00_04_00_00
 音瑚(CH01_0400)
-『And when you finally did, you misunderstood! 
-*Sigh*...I worried for nothing.』
+『And when you did come, you had a giant 
+misunderstanding by yourself! Haah... I worried 
+for nothing.』
 
 主人公
-『Oh, you worried about me.』
+『So you were worried, huh?』
 
 ***ST01_20_00_24_04_00
 音瑚(CH01_0401)
-『Ugh!! Don't make me say anything more 
-embarrassing!』
+『Nnnnnnnnnn~~!! ....Don't make me say any more 
+embarrassing stuff, okay?!』
 
-…What the. Did I just put all my bad impressions 
-and misunderstandings on Neko-chan?
+...Haah. So I was just pushing all my prejudice 
+and misunderstandings onto her this whole time, 
+huh?
 
-I’m feeling weak. Her overly feminine words 
-started to sound funny.
+My strength left me. All those unmanly things I 
+just said all came back and seemed ridiculous in 
+my head.
 
 ***ST01_20_00_23_05_00
 音瑚(CH01_0402)
-『I don't want to repeat myself so I'll say it one 
-more time. I'm not doing anything, like sex, even 
-if I'm dealing with customers.』
+『I don't want you to ask me again and again later so I'll 
+say it one last time, but even if I do let other customers 
+book me, I don't do anything lewd or whatever else with them--!』
 
 ***ST01_20_00_04_00_00
 音瑚(CH01_0403)
-『Even I have standards, you know. I just act 
-friendly because I still have debt to pay back! 
-You got that?!』
+『I have standards too, you know... But I do have a 
+lot of debt leftover still so I was just being 
+hospitable, that's all! Do you get it?!』
 
 主人公
-『Ah, yeah. I see, I see.』
+『Y-Yeah. I got it, I got it.』
 
-I nodded earnestly, bearing the brunt of her 
-ferocity and being nailed down by her spirit.
+Being on the receiving end of her ferocity and 
+being oppressed by her spirit, I could do nothing 
+but nod.
 
-At the same time, the impatience Neko-chan showed 
-made me laugh a little.
+At the same time, feeling her anxiety and unrest, 
+I ended up laughing out a bit.
 
 ***ST01_20_00_03_00_00
 音瑚(CH01_0404)
-『If Mister came here properly, I wouldn’t have had 
-to deal with other customers in the first place.』
+『To begin with, as long as you come daily, I won't 
+have to deal with any other customers myself 
+either, you know.』
 
 ***ST01_20_00_03_03_00
 音瑚(CH01_0405)
-『...What’s with that grin? So creepy!』
+『...What's with that face? Stop grinning like 
+that... it's creepy!』
 
 ***ST01_21_00_05_00_00
 音瑚(CH01_0406)
-『...I was lonely, okay? When I started thinking 
-you might not come anymore, I couldn't stop and 
-got really anxious...』
+『...I was really lonely, you know? Once I started 
+thinking that you might not come again, I couldn't 
+stop myself, and I got really worried, okay?....』
 
 ***ST01_21_00_05_00_00
 音瑚(CH01_0407)
-『If you don't come, I...I can't do ‘it’ anymore...』
+『And if you don't come anymore, I... can't... 
+h-have sex, either so...』
 
 主人公
-『If you wanted to, you could’ve done it with 
-another customer.』
+『You could have just done it with any other 
+customer though?』
 
-I know it’s a terrible thing to say considering I 
-was so depressed about it, but I can’t help 
-teasing her.
+I realize that it's a bit cruel coming from the mouth 
+of someone who was that depressed about it just a few 
+moments ago, but I just couldn't help but tease her a bit.
 
 ***ST01_21_00_03_03_00
 音瑚(CH01_0408)
-『Didn’t I tell you not to make me repeat myself?! 
-I said the only person I’ll allow myself to do it 
-with...is you!』
+『I told you, don't make me say it again!! I 
+already made up my mind... you're the only one 
+who's allowed to do that stuff to me, mister!』
 
 主人公
-『Okay then, how about we do it now?』
+『Then, wanna do it right now?』
 
 ***ST01_21_00_23_03_00
 音瑚(CH01_0409)
-『Ugh!! How can you say something naughty so 
+『Nn---!! How can you even something like that so 
 easily?!』
 
 主人公
-『Hmm, so is that a no for today?』
+『Nnnn, is that a no for today then?』
 
-I was completely rejuvenated.
+I was completely back to being me.
 
-Neko-chan is warm and hasn't noticed yet, but her 
-lower body is already excited.
+She's been so flustered that she's not noticed 
+yet, but my crotch is already rock hard.
 
 ***ST01_21_00_25_03_00
 音瑚(CH01_0410)
-『...N-no, I want to...I've been waiting for so 
-long since the last time...Do it...』
+『...N-No, I wanna do it... Ever since we had sex 
+last, I've been, e-enduring it... D-Do me... 
+okay?』
 
 主人公
-『All right, I’ll give it to you if you say 
-‘Master’.』
+『Alright, I'll do it if you call me 'master'.』
 
 ***ST01_21_00_23_03_00
 音瑚(CH01_0411)
-『N-no, not yet!』
+『N-Not yet, not happening!』
 
-Still too soon, huh...But ‘not yet’ means that I'm 
-already her master...She’d scratch me if I said 
-that.
+Not yet, huh... But I guess that means she already 
+thinks of me as her master, huh.... but if I say 
+that out loud, she'll probably claw me.
 
 ***ST01_21_00_23_03_05
 
@@ -496,16 +523,17 @@ that.
 //暗転
 ***BGround_BG99_01
 
-I pulled in and embraced Neko-chan, who was 
-irritated and embarrassed. She smells nice.
+I pulled her irritated, embarrassed self towards 
+me, and hugged her hard. She smelled nice, like a 
+woman.
 
-And we headed straight for the bed. Although she 
-has a lot to say, she doesn’t resist. Rather, she 
-hugs me back.
+And I dragged her off to bed. Her mouth kept 
+running restlessly, but she didn't resist. If 
+anything, she hugged me back.
 
-I’ll make her moan to her heart’s content. And 
-she’ll naturally come to call me ‘Master’ again 
-and again.
+I'll make her moan till she gives out today, and 
+make her naturally... yet energetically call me 
+her master.
 
 
 

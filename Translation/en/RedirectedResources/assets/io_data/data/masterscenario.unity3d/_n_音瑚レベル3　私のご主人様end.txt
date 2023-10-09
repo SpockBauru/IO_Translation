@@ -7,8 +7,8 @@
 //ロビー音楽
 ***BGM_Mad_Trick
 
-I arrived at the lobby of the demi-cafe right on 
-time for my appointment.
+I got to the Demi-cafe lobby just in time for my 
+booking.
 
 //音瑚立ち絵イン
 
@@ -16,33 +16,32 @@ time for my appointment.
 音瑚(CH01_0412)
 『Master!』
 
-When she sees me, she immediately runs over to 
-greet me. Recently, this pick-up had become the 
-norm.
+The moment she saw me, she ran up to greet me. 
+Recently, this has become the norm for us.
 
 ***ST01_30_00_01_01_00
 音瑚(CH01_0413)
 『I've been waiting for you. Please give me lots of 
-love today.』
+love today as well.』
 
-This is where I always go as soon as I finish 
-work.
+After I'm done with work, I come here straight 
+every single day.
 
 ***ST01_31_00_01_02_00
 音瑚(CH01_0414)
-『Do you want to talk here for a bit? Or do you 
-want to go to your room now?』
+『Shall we talk a bit here? Or shall we head to my 
+room?』
 
 主人公
-『Which do you prefer, Neko-chan?』
+『What would you rather do, Neko-chan?』
 
 ***ST01_31_00_05_01_00
 音瑚(CH01_0415)
-『I'm happy either way, but I'd like to go to my 
-room right away if that's okay.』
+『I'd be fine with either but... if possible, I'd 
+love to head straight to my room.』
 
 主人公
-『Then let's do it.』
+『Let's do just that then.』
 
 ***BGM_FadeOut
 ***BGround_BG99_01
@@ -50,18 +49,19 @@ room right away if that's okay.』
 
 //暗転
 
-When I say that, she takes my arm and hugs me. The 
-initial sharpness is completely gone... and I feel 
-like an obedient dog.
+When I said that, she took my arm and hugged it. 
+The bitey feeling from before's completely gone... 
+she's almost like a loyal and obedient dog.
 
-As soon as I got to my room, I ordered a play that 
-would suit my mood today.
+The moment we got to the room, I asked for 
+something that fit my mood today.
 
-I enjoyed Neko's body and her reactions. If this 
-wasn't a store, we'd be lovers.
+And I enjoyed her body and reactions lots. If this 
+wasn't a club like this, we'd look completely like 
+lovers.
 
-After several climaxes, I decided to give a break 
-to Neko-chan, who had gone limp.
+After making her orgasm several times, I finally 
+gave her limp body the break it deserved.
 
 //黒背景終わり
 //背景：音瑚の部屋
@@ -73,247 +73,255 @@ to Neko-chan, who had gone limp.
 
 ***ST01_53_00_01_00_53
 音瑚(CH01_0416)
-『Huh... huh... huh...』
+『Haah... fuuuh... haah...』
 
 主人公
-『You should be lying in bed, what's wrong with 
-you?』
+『You could have just kept lying on the bed too. 
+What's up?』
 
 ***ST01_53_00_01_00_53
 音瑚(CH01_0417)
-『Well, I'm exhausted from lying down, but I 
-immediately want to fuck Master again, so...』
+『Erhm, when I'm on the bed, even when I'm 
+completely beat, my body starts wanting you again 
+so...』
 
 主人公
-『'But that's okay. ...Don't you want to have sex 
-today already?』
+『That'd be fine too though. ...You don't wanna 
+have sex anymore for today?』
 
 ***ST01_53_00_01_01_53
 音瑚(CH01_0418)
-『It's not that, but.... But before that, there was 
-something I wanted to say, or rather, something I 
-wanted to confirm...』
+『T-That's not it... Before that, there's something 
+I want to say, or rather, something I want to 
+confirm....』
 
-I felt restless and fidgety. I shut up as if to 
-prompt her, wondering what she was going to say.
+For some reason, she seems restless and fidgety. I 
+got curious and urged her to go on with my eyes 
+while shutting my mouth.
 
 ***ST01_53_00_05_00_53
 音瑚(CH01_0419)
-『Um... I know this is going to sound weird, but... 
-Master has always been my master, right?』
+『Uhm... this might sound weird but... uhm... 
+you'll always be my master... right?』
 
-Sure, I wonder why now. However, Neko-chan 
-sometimes wants to be pampered like this.
+It does sound weird, for sure. Why now, after all 
+this time? But, she does ask me to pamper her like 
+this sometimes.
 
 主人公
-『Hmm? That's right.』
+『Nn? That's right.』
 
 ***ST01_53_00_05_05_53
 音瑚(CH01_0420)
-『Even if the store is no longer relevant will you 
-still be my master?』
+『...E-Even if the store isn't part of the story 
+anymore... will you still keep being my master?』
 
-She seemed different from the way she wanted to be 
-pampered. I wondered what she was trying to do.
+Somehow, it feels a bit different from all those 
+times. I wonder why she's asking this?
 
 ***ST01_53_00_05_05_53
 音瑚(CH01_0421)
-『No, you don't understand, do you? I'll say it 
-properly. I mean, not as a cast member, but...』
+『No, you won't understand it like this, will you? 
+I'll say it properly. Uhm, what I want to say is, 
+rather than as one of the cast here...』
 
-She just said it and shut up. Just as I was about 
-to ask her if she was finished, Neko-chan took a 
-deep breath and inhaled...
+She stopped in the middle of her sentence. The 
+moment I was about to ask her if that was it, she 
+took a deep breath and....
 
 ***ST01_53_00_04_05_53
 音瑚(CH01_0422)
-『Will you keep me as your master's property outside 
-of the store and demi-cafe?』
+『W-Won't you... keep me as your pet and property, 
+even outside the store?』
 
 主人公
-『...?』
+『...?!』
 
 ***ST01_53_00_05_05_53
 音瑚(CH01_0423)
-『I really like you, Master. That's what I've always 
-said, but I wanted to say it properly.』
+『I really do love you, master. I have for a, 
+g-good while but... I uhm, I just wanted to say it 
+properly.』
 
 ***ST01_53_00_25_00_53
 音瑚(CH01_0424)
-『So, please accept this as a confession.』
+『..So uhm, p-please accept my, confession--!』
 
 主人公
-『Well, um... am I okay?』
+『E-Erhm... you sure you're fine with me?』
 
-I felt ashamed of myself for not being able to 
-give a witty reply. I looked at Neko-chan's face, 
-who had done her best to convey her message.
+I felt embarrassed at not being able to come up with 
+a clever response. I looked at the face of the girl 
+who'd done her best to communicate her feelings to me.
 
 ***ST01_53_00_25_05_53
 音瑚(CH01_0425)
-『Of course! I don't want it to be master!』
+『Of course!! It has to be you, master, I won't 
+accept anyone else!』
 
-I've always wished that I could have Neko-chan all 
-to myself. I don't know how to react when it comes 
-to reality.
+I'd always wanted to make her mine. And now that 
+it was turning into reality, I didn't know how to 
+react.
 
-Neko-chan is looking at me as if she's trying her 
-best to spy on me.
-
-主人公
-『I'm happy...very happy. But...』
-
-I want to hug her and take her away right now. 
-But...
+Neko-chan was, of course, staring at my face, 
+trying to gauge my reaction.
 
 主人公
-『Neko-chan still has a reason for working here...』
+『I'm happy... I'm really happy. But...』
+
+Even I want to just hug her tightly and carry her 
+away from this place. But...
+
+主人公
+『You still need to keep working here, so...』
 
 ***ST01_53_00_01_01_53
 音瑚(CH01_0426)
-『Ji, it's actually over.』
+『A-Actually, I don't anymore.』
 
 主人公
-『When you say finished, do you mean you've paid off 
-your debt?』
+『You don't...? Do you, erhm, mean that your debt's 
+paid off?』
 
 ***ST01_53_00_01_00_53
 音瑚(CH01_0427)
-『Yes. Today, a staff member suddenly suggested 
-that I have a partner other than my master from 
-time to time...』
+『Yes. Today, one of the staff came out of nowhere 
+and told me to take on customers aside from you, 
+master...』
 
 ***ST01_53_00_00_00_53
 音瑚(CH01_0428)
-『...As you know, I've never had any other 
-customers nominate me before.』
+『...As you know, until now, no other customer has 
+ever booked me before.』
 
-Yes, Neko-chan didn't flirt with anyone before I 
-came to visit her at the store, and in fact, she 
-even put mud on the VIP's face.
+That's right. Before I started coming to this 
+place, she refused to yield to anyone else, heck, 
+she even insulted a VIP.
 
-It was a cast member that the store was having a 
-hard time dealing with because they couldn't kick 
-her out with her debt.
+However, with her debt, they couldn't exactly 
+chase her out either, so the club had no idea how 
+to deal with her.
 
-That's when I started going to Demi-Cafe, and I 
-picked Neko-chan.
+And that was when I started coming here everyday, 
+booking her from opening to closing.
 
 ***ST01_53_00_00_00_53
 音瑚(CH01_0429)
-『she hadn't said anything like that before because 
-she had been getting a lot of orders from the 
-master.』
+『You've always been spending money on me without a 
+care till now, so none of them ever said anything 
+about it before.』
 
 ***ST01_53_00_04_00_53
 音瑚(CH01_0430)
-『When I asked her why she was being so insistent, 
-she told me that she had just paid me off that 
-day.』
+『...And now suddenly, one of them was being awfully insistent 
+about it, almost too much. So when I asked about the reason, 
+they told me that my debt was finally paid off, just yesterday.』
 
-Neko-chan's face didn't light up, even though it 
-should be something she could be honestly happy 
-about.
+Even though she should be over the moon about it, 
+her face refused to light up.
 
 ***ST01_53_00_04_05_53
 音瑚(CH01_0431)
-『After seeing the way you've been treating your 
-master lately, she thought it would be okay if she 
-served you to other customers...』
+『Seems like they think it might be fine to put me 
+out in front of other customers, seeing the way I 
+act around you...』
 
 ***ST01_53_00_04_00_53
 音瑚(CH01_0432)
-『It's like she's asking me if I'd like to work here 
-again as a non-repaying cast member...』
+『So it seemed like they were trying to get me to 
+work here as a proper cast member again, instead 
+of just for the debt...』
 
 ***ST01_53_00_05_00_53
 音瑚(CH01_0433)
-『And she told me that if I wanted to, I should 
-service more than just my master...』
+『And they told me that if I wanted to do that, I 
+should 'pick up' some other customers aside from 
+you...』
 
 ***ST01_53_00_00_05_53
 音瑚(CH01_0434)
-『But I don't want to do this with anyone but my 
-master. If that's the case, then there's no need 
-for me to stay in the store anymore.』
+『But, I... I hate the idea of doing this sort of 
+stuff, with anyone other than you, master... So 
+there's no reason for me to be here anymore.』
 
 ***ST01_53_00_04_00_53
 音瑚(CH01_0435)
-『I haven't decided what I want to do yet, and I 
-don't have any money, but if it's for master, I'll 
-do my best to find a normal job. So...』
+『I still haven't thought about what I want to do yet, 
+and I don't have any money either but, if it's for 
+you, master, I'll do my best to find a normal job. So...』
 
 
 ***ST01_53_00_05_00_53
 音瑚(CH01_0436)
-『I'm not very good at it, but I can do the housework. I 
-know I'm not very good at it, but I can do the 
-housework... and of course, the night work... leave it all to me.』
+『Please take me home. I'm not very good at it, but 
+I can do housework too... a-and of course, I can 
+warm your bed too... please leave it all to me.』
 
-The pure feeling of celebration and the happiness 
-of Neko-chan's confession hit me now and I was 
-overwhelmed with emotion.
+My pure desire to celebrate with her, and the 
+delayed happiness from her confession finally hit 
+me all at once, and I felt moved.
 
-What am I letting myself go on and on about 
-without properly responding to the confession of 
-the girl I like?
+What am I even doing? The girl I love just 
+confessed to me, and instead of giving her an 
+answer, I'm making her talk on and on like this.
 
 ***ST01_53_00_01_00_53
 音瑚(CH01_0437)
-『I'm sorry. But I hadn't thought about what I would 
-do if master refused me...』
+『...Ah. But I didn't think at all about what if 
+you say no, mast--...』
 
 主人公
-『How could I say no?』
+『How could I ever say no to you?』
 
 ***BGM_FadeOut
 ***FadeInBlack
 //黒暗転
 
-I hugged Neko-chan to interrupt her.
+I held her, as it to cut off her words.
 
-Then we went around and around until time allowed 
-us to reconfirm our feelings for each other.
+And then, as if to reconfirm our feelings for one 
+another, we fucked and fucked until we ran out of 
+time.
 
-On the way home, Neko-chan told me that she would 
-make sure to talk to me. She also said she was 
-looking forward to going to my house.
+When I was leaving, she said that she'd properly 
+talk things out with the club. She also told me 
+that she was looking forward to coming home with me.
 
-However, I worried that I would not be able to 
-quit the demi-cafe that easily just because I was 
-out of debt.
+However, would she really be able to quit that 
+easily, just because her debt was paid off? I got 
+worried.
 
-However, Neko-chan has absolutely no intention of 
-dealing with anyone other than me. That seemed to 
-be an unwavering decision.
+However, what's more is that she has no intention 
+whatsoever to entertain anyone else other than me. 
+She had her heart set on it, it seemed.
 
-There was no point in keeping such a "useless" 
-cast member in the store, I guess.
+Even they wouldn't want to feed and keep a 
+'useless' cast member like her around, surely.
 
-In the end, it seems that Neko-chan was a cast member 
-that the store had trouble dealing with from 
-beginning to end. The conversation went unexpectedly smoothly.
+In the end, from the start till this moment, it seemed 
+like Neko-chan had been nothing more than a hot potato 
+for the club. So it actually went surprisingly smoothly.
 
------
+―――――
 
----.
+---
 
--- Later.
+―― Sometime in the future.
 
 //何か明るくて穏やかな音楽
 ***BGM_Harmless
 
-I'm done with work today.
+Another day of work dealt with.
 
 主人公
-『Well, well...』
+『Now then...』
 
-The destination is no longer a demi-cafe. There 
-are no more detours.
+No more do I head to the demi-cafe after work. Nor 
+do I make any sort of detours at all.
 
-Then I hurried straight home.
+Everytime, I go straight home.
 
-because
+Why? Because--
 
 //SE ドアガチャ音
 ***SE_door04
@@ -336,41 +344,44 @@ because
 
 ***ST01_42_00_02_01_00
 音瑚(CH01_0438)
-『Welcome back.』
+『Welcome back~』
 
-she comes out to pick me up with a bouncy step. 
-Recently, this pick-up had become the norm.
+She came to greet me at the door, with a bounce in 
+her step. Recently, this has become a norm for us.
 
 主人公
-『You didn't call me Master today.』
+『Not gonna call me master today, huh?』
 
-When Neko-chan heard this, she giggled in a funny 
-way.
+Hearing that, she giggled, as if I just said 
+something stupid.
 
 ***ST01_42_00_02_01_00
 音瑚(CH01_0439)
-『Say it or not, master is my master! I've been 
-waiting for your return.』
+『You're my master whether or not I say it, master! 
+I've been waiting for you to come home.』
 
 ***ST01_41_00_07_01_00
 
 音瑚(CH01_0440)
-『Besides...I'm in a different mood...』
+『Not to mention... right now, I'm in the mood for 
+something different...』
 //顔赤らめ
 
-They stare at me enraptured. This is how I've been 
-greeted ever since I brought her home.
+She stared at me in a daze. Ever since I brought 
+her home, everyday's been like this.
 
 主人公
-『Tell me how you feel.』
+『And what sort of mood is that? Tell me.』
 
 ***ST01_41_00_03_03_00
 
 音瑚(CH01_0441)
-『Oh my god, master is still too dull like that!』
+『Jeez~, you're always so dense about stuff like 
+that, master!』
 
-I knew she was asking me out, of course, but I 
-teased her a bit, as I always do. Then...
+Of course, I knew that she was asking for it but, 
+I teased her a little bit like I always do. And 
+when I did...
 
 //黒暗転
 ***BGround_BG99_00
@@ -378,20 +389,21 @@ teased her a bit, as I always do. Then...
 
 ***SE_FABRIC_Movement_Fast_03_mono
 
-Neko-chan pounced on me. I let the kiss fall and 
-quickly pulled myself up and spread my legs to 
-lure her in.
+She leaped at me. After showering me in kisses, 
+she suddenly pulled back and spread her legs 
+invitingly.
 
 ***ST01_43_00_27_01_00
 
 音瑚(CH01_0442)
-『You can fill me up right now here today.』
+『Please fill me up right here today.』
 
-The nectar running down her thighs and the tingle 
-of her throbbing honey pot made my cock tingle.
+Looking at her honey slowly dripping down her 
+thighs, and the honeypot it came from twitching, 
+my meatrod stood erect in an instant.
 
-As she was invited to do so, she sank her 
-throbbing self into the nasty hole.
+Not resisting her temptation, I stuffed my 
+towering manhood inside her perverted meathole.
 
 //暗転終わり
 //シネマここから
@@ -401,133 +413,139 @@ throbbing self into the nasty hole.
 ***LoopCV_0001
 
 音瑚(CH01_0443)
-『I just couldn't resist today...』
+『I just couldn't, endure it today so...』
 
 主人公
-『I don't know if I've ever been this naughty.』
+『Were you always this lewd, Neko-chan~?』
 
-The smell of her warm skin and her breathy hips 
-almost took me right away.
+The scent of her hot skin and, the smooth hip 
+technique made me feel I was going to lose 
+control.
 
 音瑚(CH01_0444)
-『Oh, master...I did this...mmm...』
+『Y-You're the one--... who made me this way, 
+master... nn--...』
 
-Neko-chan was nervous on the first day we brought 
-her home, but now she asks for me here and there 
-on a whim like this.
+The girl, who was so nervous when I first brought 
+her here, now begs for it in all sorts of places 
+whenever she wants it.
 
 ***Cinema_0901
 
 
-Today, that meant that it was the front door right 
-after I got home.
+And today, that just happened to be right at the 
+entrance.
 
 音瑚(CH01_0445)
-『I love you, my only master.... I want to keep 
-doing this to you......』
+『You're mine and only mine, master, I love you... 
+I want to, keep doing it like this--, ah, do it 
+lots like this... everyday....』
 
-Every time I pull my hips back lightly, my vaginal 
-flesh jerks and shudders with pleasure as it 
-clamps down on the manhood, but spits it out.
+Everytime I pulled back, her pussyfolds, even 
+while twitching and gushing from the pleasure, 
+tried to hold me back.
 
 音瑚(CH01_0446)
-『It's a good thing I followed my master after 
-all... I've been happy every single day...』
+『Hah--, ah--, I really am glad I decided to follow 
+you, master--... everyday is so full of 
+happiness--....』
 
 音瑚(CH01_0447)
-『It feels so good to be filled up like 
-this...ahhh...mmm...』
+『I feel so fulfilled and it feels so good--... 
+hauuu--, ah--... nnn--....』
 
 主人公
-『Neko-chan's insides are extra hot today... let's 
-get out of here early.』
+『Your insides are really something else today, 
+Neko-chan--... I might cum quick.』
 
 音瑚(CH01_0448)
-『Hahaha... if you're going to give it out, give me 
-a kiss... I want to keep it all connected...』
+『Hah--, hah--... i-if you're gonna cum, kiss 
+me--... I want to cum while we're fully 
+connected~』
 
-I didn't expect her to be so slutty and cute... in 
-my house, having sex on my doorstep.
+I can't believe how lewd and adorable she is... a 
+girl like her is mine, and I'm fucking her at my 
+front door.
 
 //アップでキス
 ***Cinema_0902
 ***LoopCV_0005
 
 音瑚(CH01_0449)
-『Mmmm...mmmm...ahhh............』
+『Nn--, *kiss*... nnn... ah, fuh... nnn....』
 
-Neko-chan aggressively flicked her tongue at me. 
-Even though my cock was already up to the base, I 
-wanted to fuck her harder and harder.
+She started twisting her tongue around mine 
+assertively. Even though my dick's already all the 
+way in, I can't help but want to ravish her even more.
 
 ***Cinema_0903
 ***LoopCV_0002
 
 音瑚(CH01_0450)
-『Oh, no! Huh, master, if you hit me too hard, I'll 
-come first!』
+『Nnah--!! Haah--, master~, if you do it so hard, 
+I'll cum first!!』
 
 主人公
-『You can cum as much as you want.』
+『Cum as much as you want then.』
 
 音瑚(CH01_0451)
-『I like it together. I want to be with you... ah, 
-keep fucking me like this... don't ever let me 
-go...』
+『Nnnnnn--!! I wanna cum together--.... ah--, keep 
+fucking me like this--... don't ever let me go--!』
 
 主人公
-『Always?』
+『Ever"?』
 
-I continue to drill into Neko's center, letting my 
-breath buzz and pleasure take over.
+I kept drilling my way to her heart, while we 
+panted and let the pleasure take over.
 
 音瑚(CH01_0452)
-『I want to be Master's for the rest of my life. I 
-want to be Master's for the rest of my life... ah, 
-ah, ah...』
+『Forever and ever!! I-I want you, to let me be 
+yours for our whole lives--... ah--, ah--, 
+aaah--...』
 
 主人公
-『This is the first time I've ever made such a 
-naughty confession.』
+『It's the first time I've heard a confession that 
+lewd, Neko-chan.』
 
-I think I might be turning red from the heat, too.
+This mood is getting to me, I might be getting red 
+too.
 
 ***Cinema_0904
 ***LoopCV_0004
 
 音瑚(CH01_0453)
-『I'm so glad you accepted me as more than just a 
-naughty body, I love you.』
+『You made my body this lewd and, you accepted me 
+for it too... I'm so happy, I love you--』
 
 音瑚(CH01_0454)
-『I want to be impregnated and become a bride while 
-being kept.』
+『I'm completely yours now, master, so please knock 
+me up, I wanna be your pet-wife--!』
 
-I felt a sudden rush of ejaculation at the thought 
-of Neko-chan accepting and impregnating my seed 
-like this.
+When I thought about pouring my seed into her and 
+impregnating her, the urge to ejaculate got even 
+stronger.
 
 ***Cinema_0905
 ***LoopCV_FadeOut
 
 音瑚(CH01_0455)
-『I want you to get big. I want you to cum. I want 
-you to cum all over my cock! I want you to make me 
-cum!』
+『You're getting even, bigger--! I want lots of it 
+inside me!! --Cumming, cumming... aaaaaah, 
+kkkkhhh~~!!』
 
 //暗転
 
 ***FadeInBlack
 
-After letting out plenty, I kissed her again.
+After I came inside her lots, I kissed her again.
 
 音瑚(CH01_0456)
-『In a little while... we'll bathe and eat 
-together... and I'll make you feel good all over 
-again, Master.』
+『Let's rest a bit and then... go take a bath and 
+then eat dinner... and then do this lots and lots 
+again, okay master?』
 
-Neko-chan's begging continues until she falls 
-asleep. I'm very happy every day like this.
+Her begging lasted until we went to sleep. 
+Everyday is full of bliss like this.
 
 //音瑚 レベル3　私のご主人様END：終わり
 

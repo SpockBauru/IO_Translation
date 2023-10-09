@@ -4,30 +4,31 @@
 //黒画面
 ***BGround_BG99_00
 
-Recently, I had been trying to make an appointment 
-with Tomoe, but she had been closed a lot.
+Recently, whenever I try to book Tomoe-san, she 
+ends up not being in half the time.
 
-Or they were late, or in the worst cases, absent 
-unexpectedly.
+Most of the time, she's late, or in the worst 
+cases, she doesn't show up at all sometimes.
 
-While receiving the apology from the store, I 
-somehow remembered a story... a strange rumor that 
-was spreading around the neighborhood.
+While the staff apologized to me like usual, I 
+thought back... to a rumour that's been going 
+around lately.
 
-It was just when Tomoe, who had been coming to 
-work diligently, started to do this that I 
-gradually started to hear about it.
+I started hearing about it just as Tomoe-san, a 
+model worker who showed up everyday right on time, 
+started being like this.
 
-At dusk, a lascivious woman appears, targeting 
-students on their way home from school... Her soft 
-demeanor catches the students off guard.
+It concerned a perverted and slutty woman, who aimed 
+solely at school boys on their way home... her 
+graceful and gentle nature making them lower their guard.
 
-And then seduces them into the back alleys... 
-That's the rumor. No, it can't be...
+With skillful words, she'd drag them into a back 
+alley and then... or so it went. No way, it can't 
+be, right...?
 
-----
+---------------
 
---
+――
 
 //黒背景終わり
 //背景：夕暮れの通路
@@ -36,256 +37,260 @@ That's the rumor. No, it can't be...
 ***BGround_BG11_01
 
 ***MonoCV_CH06_0001
-I've been late for club activities more often than 
-I thought I would be. I was warned by the teacher 
-that there would be perverts on the way home.
+Man, club activities sure drag on a lot lately. 
+Our teachers warned us too, to be careful or a 
+pervert or whatever on the way home, and yet...
 
 ***MonoCV_CH06_0002
-My friends are leaving before me today... By the 
-way, I heard that the pervert was a woman.
+My friends all went home early... Thinking about 
+it, they said that the pervert was a woman.
 
 ***MonoCV_CH06_0003
-I wonder if women do that too, not just chickens. 
-It's kind of hard to imagine.
+Do women really do that sorta stuff too? It's 
+kinda hard to imagine.
 
 ***MonoCV_CH06_0004
-Well, whatever... it's getting dark, let's get 
-home.
+Well, whatever... it's starting to get pretty 
+dark, so let's get home.
 
 ？？？(CH02_0306)
-『Hey, I'd like to...』
+『Hey, boy, could you...』
 
 ***MonoCV_CH06_0005
-...hmm, who?
+...Nn, who is it?!
 
 //兎萌立ち絵イン
 ***Item02_0004
 ***ST02_11_00_05_05_00
 
 ？？？(CH02_0307)
-『I'm sorry to talk to you so suddenly. I'm in a bit 
-of trouble...』
+『Sorry for calling out to you so randomly. I'm a 
+bit lost...』
 
 ***MonoCV_CH06_0006
-I was surprised, but... you're a beautiful woman.
+That surprised me, whew. ...What a pretty 
+onee-san.
 
 学生(CH06_0007)
-『How can I help you?』
+『W-What's the matter?』
 
 ***ST02_11_00_05_05_00
 ？？？(CH02_0308)
-『I just moved here and I'm lost. I just moved here, 
-so I'm lost...』
+『Where's the nearest station here? ...I just moved 
+here, so I don't...』
 
 ***MonoCV_CH06_0008
-She was just asking me for directions, but I couldn't 
-help but look at her face, her breasts, her ass... The 
-station... yes, it was in the direction of the station.
+Even though she's just asking for directions, my 
+eyes keep being drawn to her face, her chest, and 
+her butt.... The station... Right, the station.
 
 学生(CH06_0009)
-『I'll take you to the nearest one since you're 
-heading home.』
+『Ah, erhm... uhm, it's on my way anyway so I'll 
+take you there.』
 
  ***ST02_10_00_02_01_00
 ？？？(CH02_0309)
-『Oh, really? That's very helpful.』
+『Oh my, really? You're really helping me out.』
 
 学生(CH06_0010)
-『Here, this way.』
+『I-It's this way.』
 
 //SE 歩く足音
 ***SE_FOOTSTEPS_Asphalt_Trainers_Walk_Slow_x8_loop_mono
 
 ***ST02_10_00_05_01_00
 ？？？(CH02_0310)
-『I'm so glad there's a girl just like me.』
+『Thank god there was a boy like you just when I 
+needed it.』
 
 ***MonoCV_CH06_0011
-Sister, you smell kind of nice and I'm nervous....
+She kinda smells really nice, my heart's 
+pounding...
 
 ***ST02_10_00_02_01_00
 ？？？(CH02_0311)
-『Thank you for being so kind, it's like back to 
-school.』
+『You must be on your way home from school, right? 
+Sorry, you're very sweet.』
 
 ***MonoCV_CH06_0012
-I like her better than the teacher I admired... 
-She's beautiful, and I knew her tits and her ass 
-were... amazing...
+She's even more of my type than that teacher... 
+She's a real beauty, and her boobs too, and her 
+butt... amazing...
 
 学生(CH06_0013)
-『Uh...uh...uh...yes.』
+『Aah... eh, ah... y-yes.』
 
 ***MonoCV_CH06_0014
-I shouldn't be staring at that place. Well, it's 
-closer if you take this side street...
+...W-What am I doing? I shouldn't stare like that. 
+Erhm, it's closer if we take this street....
 
 ***ST02_11_00_01_01_00
 ？？？(CH02_0312)
-『Hmm, what's wrong? ...Hmm... there are so many 
-narrow streets here, I'm really... lost...』
+『Fufuh, what's wrong?... Fuuh... this place really 
+is full of all kinds of narrow streets and alleys, 
+so finding the perfect one is... seriously...』
 
 ***MonoCV_CH06_0015
-I wonder if she noticed that I was looking at her 
-body... I'm embarrassed to face you...
+I wonder if she noticed me staring... It's kinda 
+hard to look at her face now...
 
 学生(CH06_0016)
-『Oh, sister, that's not the station, it's an 
-alleyway, a dead end.』
+『Ah... O-Onee-san, that's not the way to the 
+station, that alley leads to a dead end.』
 
 ***MonoCV_CH06_0017
-Oh, I don't think she can hear me. she's walking 
-that way...! I have to go after her.
+Ah, can she not hear me? She keeps going that 
+way...! I gotta run after her.
 
 //背景：路地
 ***BGround_BG12_01
 
 ***ST02_11_00_00_01_00
 ？？？(CH02_0313)
-『Oh, my God, what's wrong? Isn't this the way?』
+『Oh my, what's wrong? Is it, not this way?』
 
 学生(CH06_0018)
-『Uh-huh. I mean, look at this end. It's a dead 
-end.』
+『Y-Yeah. I mean, look, it's a dead end.』
 
 ***MonoCV_CH06_0019
-I can't wait to get back to this completely 
-different place...
+We came the entire wrong way, we gotta go back...
 
 ***ST02_11_00_07_01_00
 ？？？(CH02_0314)
-『Oh, really. ...Hmm... But I'm fine here.』
+『Oh dear... you're right. ...Fufuh, but this is 
+just fine.』
 
 学生(CH06_0020)
-『What...?』
+『Eh...?』
 
 ***SE_FABRIC_Movement_Fast_03_mono
 //軽いぎゅみたいな音
 
 ***MonoCV_CH06_0021
-Suddenly, your sister grabbed me by the wrist...
+Suddenly, she grabbed my wrist...
 
 ***MonoCV_CH06_0022
-I was pulled along as if I were being walked to 
-the end of a long, narrow, dimly lit alley.
+And dragged me along, as if walking me, to the end 
+of the narrow and dark alley.
 
 ***MonoCV_CH06_0023
-I'm suddenly reminded of the attention I got at 
-school today. The woman who targeted a student on 
-her way home, not a chikan...
+Suddenly, I remembered the warning they gave us at 
+school. The pervert that went for school kids on 
+their way home, not a man but a...
 
 ***MonoCV_CH06_0024
-And yet, such a beautiful person would do such a 
-thing...
+B-But, why would such a pretty...
 
 学生(CH06_0025)
-『It's directions, right? I'm in the wrong place at 
-the wrong time.』
+『Y-You asked for the way, right? T-This is, 
+completely the wrong way.』
 
 ***MonoCV_CH06_0026
-My voice rises.
+My voice shrilled.
 
 ？？？(CH02_0315)
-『You've been looking at me sexually since we were 
-walking...』
+『Fufufuh, you were looking at me with lewd eyes 
+this whole time, no...?』
 
 ***MonoCV_CH06_0027
-It's obvious... But that's not what I meant... how 
-should I, um...
+S-She noticed.... Wuh, t-that's not the... what do 
+I do, erhm, erhm....
 
 学生(CH06_0028)
-『Well...but...』
+『Eh... uhm... but--』
 
 ***MonoCV_CH06_0029
-The good smell that had been wafting from her 
-earlier seemed to have become denser and denser.
+The scent I smelled from her suddenly felt a lot 
+denser and rich.
 
 ？？？(CH02_0316)
-『Do I know what masturbation is? If you're looking 
-at me like that, you're already doing it every 
-day...』
+『Say. Do you know what 'masturbation' is? Fufuh, 
+since you were looking at me with those eyes, I 
+wonder, do you do it everyday....』
 
 ？？？(CH02_0317)
-『How many times a week do you shank your lovely 
-cock?』
+『How many times do you rub your cute cock per 
+week?』
 
 学生(CH06_0030)
-『No, I didn't do that...』
+『I-I don't--, do that... miss.』
 
 ？？？(CH02_0318)
-『'Oh my god, I masturbate many times a day. I've 
-done it again today.... But I'm still wet.』
+『Oh dear~, I do it a whole lot everyday, you know. 
+I did it a ton today too... But I'm still wet.』
 
 学生(CH06_0031)
-『...ahh...』
+『--!... Eh... ah..』
 
 ？？？(CH02_0319)
-『You're getting so red...』
+『Fufuh... going so red...』
 
 学生(CH06_0032)
-『...』
+『!!....』
 
 ？？？(CH02_0320)
-『Are you scared? Then I'm going to start with your 
-mouth and tongue and slowly make my cock feel nice 
-and soft.』
+『Are you scared? In that case, I'll start with my 
+mouth, and my tongue... and slowly melt your dick 
+and make you feel amazing, okay?』
 
 ？？？(CH02_0321)
-『'You haven't had sex yet, have you? Or have you 
-had sex with any girls?』
+『You probably have never had sex, have you? Or did 
+you do it with some girl already?』
 
 学生(CH06_0033)
-『What do you mean by sex...』
+『S... Sex....』
 
 ***MonoCV_CH06_0034
-I was too nervous to speak properly. I asked 
-back....
+My heart's pounding so much, my head's not working 
+properly. I ended up asking back...
 
 ？？？(CH02_0322)
-『It's a great feeling to slide your cock into a 
-woman's pussy and bounce it around inside.』
+『It's something really nice where you rub your 
+dick inside a woman's pussy and then gush it out 
+inside.』
 
 学生(CH06_0035)
-『Well, that's because you're having a baby.』
+『T-That, you can make babies doing that... so--』
 
 ***MonoCV_CH06_0036
-My mouth is dry...I don't know what I'm saying...
+My mouth's dry... what am I even saying...
 
 ？？？(CH02_0323)
-『Well, well, well. You know exactly what I'm 
-talking about. Yes, I do. Don't you want to know 
-what it feels like to make a baby?』
+『Oh my, fufufuh, I see you already know~. That's 
+right, don't you wanna give the nice and fun 
+baby-making a try?』
 
 ？？？(CH02_0324)
-『You can cum in my cunt as much as you want until 
-it's empty, you know...』
+『You can pour as much of your semen into my pussy 
+as you want, until you're empty, okay?....』
 
 学生(CH06_0037)
-『But, but...』
+『B-But--....』
 
 ？？？(CH02_0325)
-『It's okay. I love doing that kind of thing with 
-girls like me...hey...let's fuck your sister raw 
-right here.』
+『It's alright. I love doing that sort of stuff 
+with boys like you... Hey... let's fuck this part 
+of onee-san raw, okay?』
 
 学生(CH06_0038)
-『What? Hame...?』
+『Ra, w? Fuck...?』
 
 ？？？(CH02_0326)
-『Ahhh... you're so cute, I couldn't hold back 
-anymore... you could have run away... mmm...』
+『Aah, jeez... you're so adorable I just can't take 
+it anymore... you could have run away too, you 
+know... nnfufuh~』
 
 ***MonoCV_CH06_0039
-My legs are completely cowering and I don't really 
-understand all of what's being said, but... I 
-don't want to run away.
+Even though my legs are frozen, even though I 
+don't know all of what she's talking about... I 
+don't wanna run away.
 
 ？？？(CH02_0327)
-『You were expecting me to do this, too, weren't 
-you? I'm going to give you my first...』
+『You were hoping that it'd go this way too, no? 
+I'll take your virginity, don't worry...』
 
 ？？？(CH02_0328)
-『Let's feel good together until we go crazy.』
+『Let's feel good until we both go crazy, okay?』
 
 //兎萌 レベル2　肉食兎の年下狩りEND・終わり
 

@@ -9,12 +9,12 @@
 ホールド足コキ=Holding Footjob
 フェラ=Blowjob
 後背位=Doggy Style
-拘束調教=Restraint Training
+拘束調教=Restraint Training        
 Wフェラ=Double Blowjob
 立位＆脇コキ=Standing & Armpit
 重なり３Ｐ=Overlapping 3P
 \n相互\nオナニー=Mutual\nMastur\nbation
-放尿=Pissing
+放尿=Urination
 騎乗位＆顔騎=Cowgirl & Face Sitting
 座位＆パイズリ＆イラマ=Sitting, Boobjob, Blowjob
 二穴バック＆イラマ=Double Penetration & Blowjob
@@ -22,32 +22,38 @@ Wフェラ=Double Blowjob
 ドリンクプレイ=Drink play
 手コキ=Handjob
 挟み足コキ=Footjob
-屋外/放尿=Outdoor/Pissing
+屋外/放尿=Outdoor/Urination
 座位=Seated Cowgirl
 馬乗りパイズリ=Cowboy Boobjob
 抑えつけバック=Holding Doggy
 調教/拘束調教=Training/Restrained Training
 イラマ=Deepthroat
-調教/拘束姦=Training/Bondage Fuck
-調教/失神姦=Training/Fainted Fuck
+調教/拘束姦=Training/Bondage Sex
+調教/失神姦=Training/Fainted Sex
 屋外/リードイラマ=Outdoor/Leash Deepthroat
-屋外/路地裏Ｈ=Outdoor/Alley Fuck
-飲/泥酔姦=Drinking/Drunk Fuck
-飲/睡眠姦=Drinking/Sleeping Fuck
+屋外/路地裏Ｈ=Outdoor/Alley Sex
+飲/泥酔姦=Drinking/Drunk Sex
+飲/睡眠姦=Drinking/Sleeping Sex
 リードイラマ=Leash Deepthroat
 ３Ｐ/Ｗフェラ=3P/Double Blowjob
 ３Ｐ/騎乗位＆顔騎=3P/Cowgirl & Face Sitting
 ３Ｐ/重なり３Ｐ=3P/Overlapping 3P
-睡眠姦=Sleeping Fuck
+睡眠姦=Sleeping Sex
 
+泥酔姦=Drunk Sex
+正常位（酔=Missionary (Drunk)
+バック（酔=Doggy (Drunk)
+立ちアナル（酔=Standing Anal (Drunk)
+騎乗位（酔=Cowgirl (Drunk)
+背面座位（酔=Seated Reverse Cowgirl (Drunk)
 
-Missionary(酔=Missionary (drunk
-Standing Anal(酔=Standing Anal (drunk
-Cowgirl(酔=Cowgirl (drunk
-Doggy(酔=Doggy (drunk
-Seated Reverse Cowgirl(酔=Seated Reverse Cowgirl (Drunk
+Missionary(酔=Missionary (Drunk)
+Standing Anal(酔=Standing Anal (Drunk)
+Cowgirl(酔=Cowgirl (Drunk)
+Doggy(酔=Doggy (Drunk)
+Seated Reverse Cowgirl(酔=Seated Reverse Cowgirl (Drunk)
 
-路地裏Ｈ=Alley Fuck
+路地裏Ｈ=Alley Sex
 
 
 
@@ -61,9 +67,9 @@ Seated Reverse Cowgirl(酔=Seated Reverse Cowgirl (Drunk
 
 [酔い]正常位\r\n[酔い]バック\r\n[酔い]立ちアナル\r\n[酔い]騎乗位\r\n[酔い]背面座位\r=[Drunk] Missionary\r\n[Drunk] doggy\r\n[Drunk] Standing Anal\r\n[Drunk] Cowgirl\r\n[Drunk] Reverse Cowgirl\r
 
-拘束調教\n失神姦\nリードイラマ\nドリンクプレイ\n睡眠姦=Restrained Training\r\nFainting Fuck\r\nLeash Deepthroat\r\nDrink Play\r\nSleeping Fuck
+拘束調教\n失神姦\nリードイラマ\nドリンクプレイ\n睡眠姦=Restrained Training\r\nFainting Sex\r\nLeash Deepthroat\r\nDrink Play\r\nSleeping Sex
 
-拘束姦\n放尿\n裏路地Ｈ\n泥酔姦=Bondage Fuck\r\nPissing\r\nAlley Fuck\r\nDrunk Fuck
+拘束姦\n放尿\n裏路地Ｈ\n泥酔姦=Bondage Sex\r\nUrination\r\nAlley Sex\r\nDrunk Sex
 
 //Tomoe Positions
 兎萌フリーエッチ　特殊プレイ=Tomoe Free Play
@@ -94,35 +100,35 @@ Seated Reverse Cowgirl(酔=Seated Reverse Cowgirl (Drunk
 スピード\nアップ=Speed\nUP
 もどる=Back
 \nフィニッシュ=\nFinish
-\n体勢の\n変更=\nPosition
+\n体勢の\n変更=\nChange Position
 \n絶頂=\nOrgasm
 \n口に出す=\nCum in Mouth
 
 //Display
-\n表示変更=Appearance\n
+\n表示変更=\nChange Appearance
 
 \n全裸\n全着=\nNaked
 \nトップス\n着脱=\nTop
 \nボトムス\n着脱=\nBottom
 \nブラ着脱\n=\nBra
 \nパンツ\n着脱=\nPanties
-パンスト\n網タイツ\n着脱=Pantyhose\n/Fishnet
+パンスト\n網タイツ\n着脱=\nPantyhose\n/Fishnet
 \n靴下着脱=\nSocks
 \n靴着脱=\nShoes
 \nメガネ\n着脱=\nGlasses
 \n耳着脱=\nEars
-尻尾着脱=Tail
+尻尾着脱=\nTail
 ワンピ\n下着\n着脱=One Piece Underwear
 
 //Items
-\nアイテム\nその他=Other\nItems
+\nアイテム\nその他=\nOther\nItems
 
 \n破瓜=\nDeflower
 \n涙=\nTears
-\nバイブ=Dildo
+\nバイブ=\nDildo
 \n首輪=\nCollar
-\nクリ\nパーツ=\nClitoris Acc.
-\n乳首\nパーツ=\nNipples Acc
+\nクリ\nパーツ=\nClitoris\nAccessory
+\n乳首\nパーツ=\nNipple\nAccessory
 \n目隠し\n=\nBlindfold
 \nギャグボ=\nGag
 
@@ -138,16 +144,19 @@ Seated Reverse Cowgirl(酔=Seated Reverse Cowgirl (Drunk
 \n顔注視=\nFace
 \n顔注視\n[音瑚]=\nFace [Neko]
 \n顔注視\n[兎萌]=\nFace [Tomoe]
-任意\nカメラ③\n記録無し=User camera 1 None
-任意\nカメラ②\n記録無し=User camera 2 None
-任意\nカメラ①\n記録無し=User camera 3 None
-任意\nカメラ①=User camera 1
-任意\nカメラ②=User camera 2
-任意\nカメラ③=User camera 3
-カメラ\nフリー操作\n＋ｵｰﾄ回転=Free Camera\nAuto Rotate
-カメラ\nフリー操作=Free\nCamera
+任意\nカメラ①\n記録無し=Camera\nPreset 1\n(empty)
+任意\nカメラ②\n記録無し=Camera\nPreset 2\n(empty)
+任意\nカメラ③\n記録無し=Camera\nPreset 3\n(empty)
+任意\nカメラ①\n位置保存=Save\nCamera\nPreset 1
+任意\nカメラ②\n位置保存=Save\nCamera\nPreset 2
+任意\nカメラ③\n位置保存=Save\nCamera\nPreset 3
+任意\nカメラ①=Camera\nPreset 1
+任意\nカメラ②=Camera\nPreset 2
+任意\nカメラ③=Camera\nPreset 3
+カメラ\nフリー操作\n＋ｵｰﾄ回転=\nFree Camera\n+ Auto Rotate
+カメラ\nフリー操作=\nFree\nCamera
 カメラ\nランダム\nアングル=\nRandom Camera
-カメラ\nエフェクト\nフレーム=Filter Effects
+カメラ\nエフェクト\nフレーム=\nCamera\nFilters
 
 //Recording Window (F5)
 最大5件（名前順）=Up to 5 items (By name)
@@ -167,23 +176,23 @@ r:^\nぶっかけ\n([Ａ-Ｚ０-９]{1,2})$=Boy\n$1 Cum
 r:^\nピストン\n([Ａ-Ｚ０-９]{1,2})$=Piston $1
 r:^\nイラマ\n([Ａ-Ｚ０-９]{1,2})$=\nBlowjob\n$1
 
-\n電マ\n=Wand\nMassager
-\nアナパ\n=Anal Beads
-\n電気攻め\n[OFF]=Electrocute [OFF]
-\n電気攻め\n[弱]=Electrocute [Weak]
-\n電気攻め\n[強]=Electrocute [Strong]
-\n鞭\n蝋燭=Whip\nCandle
-\n蝋燭に\n持ち替え=Switch to Candle
-\n鞭に\n持ち替え=Switch to Whip
-\n機械姦=Fucking Machine
-\n機械姦Ａ=Fucking Machine A
-\n機械姦Ｂ=Fucking Machine B
-\n精飲=Semen Drinking
-\n精液を\n飲ませる=Drink Semen
-精液を\n舐め\nさせる=Lick Semen
-\n失神絶頂=Fainting Orgasm
+\n電マ\n=\nWand\nMassager
+\nアナパ\n=\nAnal Beads
+\n電気攻め\n[OFF]=\nElectrocute [OFF]
+\n電気攻め\n[弱]=\nElectrocute [Weak]
+\n電気攻め\n[強]=\nElectrocute [Strong]
+\n鞭\n蝋燭=\nWhip\nCandle
+\n蝋燭に\n持ち替え=\nSwitch to Candle
+\n鞭に\n持ち替え=\nSwitch to Whip
+\n機械姦=\nFucking Machine
+\n機械姦Ａ=\nFucking Machine A
+\n機械姦Ｂ=\nFucking Machine B
+\n精飲=\nSemen Drinking
+\n精液を\n飲ませる=\nDrink Semen
+精液を\n舐め\nさせる=\nLick Semen
+\n失神絶頂=\nFainting Orgasm
 
-\n放尿絶頂=\Pissing Orgasm
+\n放尿絶頂=\nUrination Orgasm
 \nおもちゃ\n[OFF]=\nToy [OFF]
 \nおもちゃ\n[弱]=\nToy [Weak]
 \nおもちゃ\n[強]=\nToy [Strong]
@@ -204,7 +213,7 @@ r:^\nイラマ\n([Ａ-Ｚ０-９]{1,2})$=\nBlowjob\n$1
 \nグラスに\n注ぐ=Pour\nInto a Glass
 \n股間を\n弄る=Tease\nCrotch
 \n引き抜く\n[Lv3]=Pull\nout [Lv3]
-泥酔姦へ=To Drunk Fuck
+泥酔姦へ=To Drunk Sex
 
 
 //Foreplay
@@ -222,24 +231,24 @@ r:^\n手マン\n([Ａ-Ｚ０-９]{1,2})$=\nHandjob $1
 r:^\nアナル\n愛撫([Ａ-Ｚ０-９]{1,2})$=Anal Caress $1
 
 //Finalizations
-\n起こして\n続ける=\nContinue Awake
-\n無理やり\n続ける=\nContinue Forcing
-\nそのまま\n続ける=\nKeep Going
+\n起こして\n続ける=\nGet her up and continue
+\n無理やり\n続ける=\nForcibly continue
+\nそのまま\n続ける=\nKeep going
 
-\n付着精液\n=Semen Amount
+\n付着精液\n=Amount\nof adhered semen
 
 r:^\n([Ａ-Ｚ])フィニ$=\nEnd $1
 \nチンコを\n引き抜く=\nPull out
 
 \n中出し\nする=Cum\nInside
-\n腹に\nぶっかけ=Cum on\nBelly
-\n胸に\nぶっかけ=Cum on\nChest
-\n顔に\nぶっかけ=Cum on\nFace
-\n背中に\nぶっかけ=Cum on\nBack
-\n尻に\nぶっかけ=Cum on\nButt
-\n尻\nぶっかけ=Cum on\nButt
-\n太ももに\nぶっかけ=Cum on\nThighs
-\n手に\nぶっかけ=Cum on\nHand
+\n腹に\nぶっかけ=Cum\non Belly
+\n胸に\nぶっかけ=Cum\non Chest
+\n顔に\nぶっかけ=Cum\non Face
+\n背中に\nぶっかけ=Cum\non Back
+\n尻に\nぶっかけ=Cum\non Butt
+\n尻\nぶっかけ=Cum\non Butt
+\n太ももに\nぶっかけ=Cum\non Thighs
+\n手に\nぶっかけ=Cum\non Hand
 
 
 //Foraplay Finalizations

@@ -8,64 +8,68 @@
 ***ST02_00_00_00_00_05
 
 
---In a world where humans and demi-humans coexist 
-naturally--
+--A world where humans and demi-humans co-exist 
+together naturally--
 
 //黒画面終わり
 //背景：クラブフロント
 
 ***BGround_BG00_01
 ***BGM_Mad_Trick
-『There's a club called the "Demi Stage Cafe".』
+『Right now, I'm at the club「Demi Stage Cafe」』
 
-I go to this club on the way home from work for 
-comfort. This is my third visit.
+I come here on my way home from work, to soothe my 
+daily pains. Then again, I say that, but I've only 
+come here three times so far.
 
-I happened to find this club online, and it was 
-much more expensive than a normal one, but I still 
-checked it out.
+I came across info about it online, and while the 
+ticket price was much higher than other clubs, I 
+still checked it out.
 
-Because, according to rumors, if you get along well with 
-the cast members and become a regular, it becomes more than 
-a “normal” club...In other words, you can do “other” things.
+Because, according to the rumours, if you become a regular 
+and get along well with the hostesses, stuff much more... 
+shall we say, depraved than other clubs becomes a possibility.
 
-It's just a rumor, but on my first visit this one 
-girl took my interest when I first saw her.
+...In the end, it's still just a rumour, but one 
+of the girls instantly caught my eye when I first 
+came here.
 
 //立ち絵表示
 ***BGround_BG03_01
 
-That girl was Neko-chan.
+That girl? Neko-chan.
 
-As the club name suggests, it only has 
-demi-humans, most likely combining the cultures of 
-hostesses with demi-humans together.
+Just like the club name, the names of all the 
+hostesses are likely connected to them, in one way 
+or another, what with them all being demi-humans.
 
-I chose the one recommended by a staff member. And 
-she was cuter in person than in the photo.
+The staff recommended her, so I went for it. And 
+the girl that showed up? Even cuter than the 
+photo.
 
-Anyway, she looked way better than the others and 
-was totally my type.
+Anyways, point being, she towered so much above 
+all the others, and more than anything else, she 
+was straight up my type.
 
 //立ち絵終わり
 ***BGround_BG01_01
 
 
-However, saying this in front of her might make 
-her hate me, but she really has a cat-like 
-personality. Giving off a “Don’t go near” vibe.
+It's just... and she'd probably get pretty ticked off if 
+I said this to her face but, she really is just like a 
+cat... She refuses to let her guard down near me, at all.
 
-But, if possible, I would like to become friendly 
-with her and be referred to and treated as a 
-master.
+But, I want to get close to her. I want to snuggle 
+up to her as she calls me 'master' and pours a 
+drink for me.
 
 //黒背景
 ***BGround_BG99_01
 ***BGM_FadeOut
 
-As usual, I made my reservation, so the 
-receptionist immediately directed me to head to 
-her private room.
+As usual, I'd already booked her out in advance, 
+so it didn't take long at the counter at all. Time 
+to head to her room.
 
 //SE ドアガチャ音
 
@@ -76,79 +80,80 @@ her private room.
 
 
 音瑚(CH01_0000)
-『Welcome...thank you for visiting today.』
+『Welcome... Thank you for coming to see me today.』
 
-She comes and greets properly at the door. 
-However, she doesn't show me the same lively 
-greeting when I first visited the club.
+She came all the way to welcome me at the door, 
+this time. But it's my third visit and she still 
+hasn't shown me any energy at all.
 
 主人公
-『I'm back again…Do you hate me visiting?』
+『It's me again... should I not have?』
 
 ***ST01_00_00_04_00_00
 
 
 音瑚(CH01_0001)
-『Eh? Why? Th-That's not the case. I'm glad that 
-you came, but...』
+『Eh... why? I-It's nothing like that. I am pretty 
+happy that you came to see me...』
 
 主人公
-『Your tail...It’s swinging right and left an awful 
-lot. So it's true that cats only do that when 
-they're in a bad mood, right?』
+『Your tail... you're shaking it left and right. 
+....If I remember right, cats only do that when 
+they're in a bad mood, no?』
 
 ***ST01_00_00_03_03_00
 
 音瑚(CH01_0002)
-『He...hey! Stop staring at it!』
+『Wha--... Jeez! It's not for you to look at!』
 
-Clothes that clearly show her body line. The 
-tightness on her skin seems like it would repel 
-water.
+A dress that shows off the bodyline. Skin so taut 
+and young, water would roll off it.
 
 主人公
-『I came to enjoy your company, so please don’t get 
-mad. I'm glad I got to see you today too.』
+『I came here to enjoy myself with you today, so 
+cheer up, c'mon. I'm happy to see you again, 
+Neko-chan.』
 
 ***ST01_00_00_04_03_00
 
 音瑚(CH01_0003)
-『...O-Okay. But don't stare at it too much.』
+『...O-Okay, fine. But don't stare, okay?』
 
 ***ST01_00_00_01_05_00
 
 音瑚(CH01_0004)
-『Umm...I'm not used to greetings. But when 
-customers choose me, I'm always told to greet them 
-like that.』
+『Nnn... I still can't get used to greeting people. 
+But they told me to absolutely do it, if someone 
+ever comes to see me.』
 
-She's a little bit more whiny than when I first 
-came to visit, but she talks more now.
+Unlike my first visit, she's slowly opening up bit 
+by bit, and becoming grumbly.
 
 主人公
-『You're so serious. But it's not my first time 
-visiting, so I want you to take it easy.』
+『You're so serious, Neko-chan. It's not the first 
+time I've come though, so just take it easy.』
 
 ***ST01_00_00_01_05_00
 
 音瑚(CH01_0005)
-『Mmm...it's easy to say that...I haven't worked 
-that long...I'm new to this, and I don't know how 
-to say it any other way.』
+『Nn~.... even if you tell me to... I still haven't been 
+here long... and it's the first time I'm doing this kind 
+of job, so I don't know what sort of flowery words to say.』
 
 主人公
-『I want to get to know you more, Neko-chan, so I 
-hope you can loosen up a bit.』
+『You really don't need to. I just want to get 
+along lots with you, so you can just take it easy 
+yourself too.』
 
 ***ST01_01_00_03_05_00
 
 音瑚(CH01_0006)
-『I don't need you to ask how I’m feeling. 
-*Sigh*...you're thinking of something vulgar, 
-right?』
+『I'm not sure why you care so much about the mood 
+of a cast member. Haah... your head's probably 
+full of lewd stuff anyway, no?』
 
-I'd be lying if I said no. But still, sighs hurt a 
-heart looking for comfort...
+Well, yeah. I can't deny that. But your sighs 
+wound my comfort craving heart...
 
 //ＳＥ：ドアのノック音
 
@@ -156,88 +161,93 @@ heart looking for comfort...
 ***ST01_01_00_00_00_00
 
 主人公
-『Neko-chan, that sigh kinda hurt a little...Ah, it 
-seems that the drinks have arrived.』
+『Neko-chan, you wound me with your sighs... ah, 
+they brought the drinks.』
 
 音瑚(CH01_0007)
-『I feel bad for telling you, but alcohol...』
+『Sorry, I know you went out of your way to order 
+for me, but alcohol and I don't....』
 
 主人公
 『I know. You don't like alcohol, right?』
 
-I want Neko-chan to open up a little, so I'm going 
-to be more gentleman-like.
+I want her to open her heart to me, even just a 
+bit. To that end, I'm trying to gentlemanly reach 
+out to her myself.
 
 ***ST01_50_00_00_00_50
 
-I take the ordered soft drink and hand it over to 
-Neko-chan. After smelling to make sure it isn't 
-alcohol, she finally starts to drink.
+I pick up the glass of juice I ordered, and hand it to 
+Neko-chan. Still suspicious that it's alcohol, she gives 
+it a good sniff before she finally brings it to her mouth.
 
 音瑚(CH01_0008)
-『Chu...』
+『*sip*....』
 
 主人公
-『.........』
+『.................』
 
 音瑚
-『.........』
+『.................』
 
-She drinks without glancing at me. I wonder if her 
-mood is better now. Maybe I can get closer to 
-her...?
+She's really engrossed in the drink. ...Wonder if 
+she feels a bit more cheery now? Let's see, can I 
+close in on this distance...?
 
 ***ST01_50_00_04_00_50
 
 音瑚(CH01_0009)
-『Umm...』
+『Uhm~....』
 
 主人公
-『Eh! What, I haven't done anything yet!!』
+『Eh! Ah, I haven't done anything yet though?!』
 
 ***ST01_50_00_03_04_50
 
 音瑚(CH01_0010)
-『...Did you feel like doing something? I mean, 
-it's hard to drink...with you staring so much.』
+『....--! Were you planning on doing something? 
+Heck, stop staring like that... it's really hard 
+to drink like this.』
 
-My body slightly slumped down. I missed my chance 
-to sit beside her.
+I sat my hips back down on the couch. ...It was 
+the perfect chance to get beside her too.
 
 音瑚(CH01_0011)
-『...Hmph.』
+『...Nnnnn~』
 
-Yikes, she's really suspicious of me now. Can’t be 
-helped. Gotta make something up.
+Damn, those are some distrustful eyes. No other 
+choice, I gotta lie and smooth things over.
 
 主人公
-『No, it’s just the way you were drinking, made me 
-wonder if the drink tastes nice.』
+『No, well, you were just drinking it so 
+deliciously, I just couldn't take my eyes off 
+you.』
 
 ***ST01_50_00_00_00_50
 
 音瑚(CH01_0012)
-『Oh okay.』
+『I guess that's okay then.』
 
-I could see Neko-chan's thighs at the corner of my 
-eyes. If I sit next to her, I might be able to 
-casually touch her legs and pretend it was accident...
+I can see her thighs from the corner of my eyes. If I 
+could just sit next to her, I might be able to brush up 
+my legs against hers and brush it off as an accident...
 
-...But she doesn’t trust me yet so it's impossible 
-right now.
+...But I guess that's not happening, I just made 
+her suspicious of me.
 
 音瑚(CH01_0013)
-『Thanks for the drink. I’ll take them away.』
+『Thanks for the drink. I'll take the glasses 
+away.』
 
 //音瑚立ち絵一旦はけ
 ***ST01_05_00_00_00_05
 
-What's more, she stood up to take the glasses 
-away. It's pretty hard to get close to her.
+And because of that, she took the glasses away 
+herself. What a tough shield.
 
-With Neko-chan’s guard being so strong I wonder if 
-there are other customers who managed to flirt 
-with her…I follow her with my eyes.
+I wonder, have any customers managed to get past 
+her rock solid guard and flirted with her 
+before.... I chase her with my eyes.
 
 //音瑚立ち絵戻り
 ***ST01_00_00_00_00_00
@@ -245,124 +255,123 @@ with her…I follow her with my eyes.
 
 
 音瑚(CH01_0014)
-『Wh-what...What’s with that look...』
+『W-What... what's with that look...』
 
 主人公
-『Nothing, it's just you don't take the initiative 
-to talk with me...I wonder if you get along with 
-other customers and they get special treatment.』
+『Nothing, it's just, you really don't go out of your way to 
+talk to me... so I was wondering there's any particular 
+customers of yours that you make an exception for and get along with.』
 
-It's rude to go straight to the point and ask, but 
-I was genuinely curious.
+I realize I probably come off as too direct and 
+pigheaded, but I'm genuinely curious.
 
 ***ST01_00_00_04_00_00
 
 音瑚(CH01_0015)
-『Special? Getting along with customers? What are 
-you talking about? This is a cafe bar.』
+『Exception? Get along with? The heck's that mean? 
+To begin with, this is a cafe bar, no?』
 
 音瑚(CH01_0016)
-『A maid cafe that gives off a little more of an 
-adult-feeling to it...W-with clothes like this.』
+『It's just a more mature version of a maid cafe, 
+nothing more... t-the outfits being what they 
+are.』
 
 ***ST01_00_00_04_00_00
 
 音瑚(CH01_0017)
-『Because you can have a light meal and drink while 
-chatting, which is a way to spend your time, 
-that's what the cafe is for.』
+『In the end, it's just a cafe where you can have a 
+light meal while having a chat with a girl, 
+nothing more.』
 
 ***ST01_00_00_00_00_00
 
 音瑚(CH01_0018)
-『I don't get along with customers more than I need 
-to.』
+『So I don't really go out of my way to get along 
+with any specific customers.』
 
-I was a little surprised at the answer she gave. 
-It seems like Neko-chan believes this is a 
-regular, mature, but innocent cafe.
+The matter-of-fact reply really caught me 
+off-guard. Seems like she really does think that 
+this is a wholesome, if mature, cafe and nothing more.
 
 ***ST01_01_00_04_00_00
 
 音瑚(CH01_0019)
-『Some guys suddenly try to hug me or stare at my 
-body with a horny look, just because Demi-cafe is 
-a little more expensive than other places.』
+『Thinking you can hug the girls whenever, or 
+s-stare at them with pervy eyes just because 
+you're paying a lot--』
 
 ***ST01_01_00_03_00_00
 
 音瑚(CH01_0020)
-『I know men can't help staring, but you can't 
-touch me...in fact never do that. It's horrible, 
-just because we show some skin...』
+『I know you can't help your gaze but, touching's 
+not on the table. ...Never was, never will be. 
+Just because we show a bit of skin, doesn't mean...』
 
-I didn’t expect her to be so off the mark. Now 
-it's become even more difficult to get closer to 
-her.
+Even I didn't think she'd be this mistaken about 
+this stuff. Man, I can't exactly go out of my way 
+to touch her or do anything more now.
 
-But wait a minute. That means Neko-chan hasn't 
-done the “service” rumored here.
+But wait. That means... she hasn't done any of the 
+more depraved 'services' here, huh?
 
-Which means...Neko-chan is likely to be a virgin. 
-She hasn't even been touched by anyone let alone 
-had sex.
+That must mean... she's very likely still a 
+virgin. Forget that, she's probably never had a 
+man touch her.
 
-My hurt feelings began to feel alive again.
+My deflating heart started feeling excited again.
 
 ***ST01_00_00_00_00_00
 
 音瑚(CH01_0021)
-『You’ve been awfully silent...Did I say something 
-weird?』
+『You've been quiet for a bit... did I say 
+something weird?』
 
 主人公
-『No. I now have a better understanding of 
-Neko-chan’s feelings.』
+『Nah. I understand how you feel, I do.』
 
-For the time being, let's just see how this goes.
+For now, let's just smile and nod.
 
 //ＳＥ：メールの着信音
 
 ***SE_se_maoudamashii_onepoint28
 
 音瑚
-『...?』
+『....?』
 
 主人公
-『Ah, sorry. It wasn't in silent mode.』
+『Ah--, sorry. I forgot to put it on vibrate.』
 
-I take my phone out of my pocket and see that it's 
-an email from my boss. It's rare to get an email 
-after hours. Might be urgent.
+I pull out my phone and look at it and what do you 
+know, it's my boss. That's rare, after hours too. 
+It might be urgent.
 
 音瑚(CH01_0022)
-『Is it perhaps from your girlfriend?』
+『Is it from your girlfriend?』
 
 主人公
-『Eh? Why would you think that?』
+『Eh? Why?』
 
 ***ST01_00_00_00_01_00
 
 音瑚(CH01_0023)
-『Because you’re looking at the phone with a 
-serious face.』
+『You're looking at it really seriously.』
 
 主人公
-『No, it's just the office...They might need help. 
-Today was short, but maybe next time when I'm 
-free. Sorry.』
+『Nah, it's from my office... They might be calling 
+me in. We might have to wrap it up here for today, 
+sorry.』
 
-Can't even come up with a good reply, and yet I 
-seriously answered with that.
+Unable to come up with a clever response, I ended 
+up replying honestly.
 
 ***ST01_00_00_00_01_00
 
 音瑚(CH01_0024)
-『Oh I see. Um, come visit again...Are you okay 
-with that farewell greeting?』
+『I see. Erhm, come to see me again... that's fine, 
+right? They told me to say that.』
 
 主人公
-『Yup. That's fine. I'll come visit again.』
+『Yeah, it's good. I'll come again.』
 
 //音瑚立ち絵はけ
 //ＳＥ：ドアガチャ音
@@ -374,254 +383,261 @@ with that farewell greeting?』
 
 //黒背景
 
-It seems like the call wasn't urgent, but I don't 
-feel like going back to the cafe. Besides, its 
-probably awkward to show up after that.
+It doesn't seem like it's anything urgent at the 
+office, but I don't feel like going back inside 
+either, at this point. She's probably gonna make a face too.
 
-I hoped to get closer to her today...But I'm still 
-not used to it, and it's only my fourth time.
+I was really hoping to get closer to her today 
+too... But, it's not like I'm used to this stuff 
+either, I guess. It was only my 4th visit today.
 
-Plus, knowing Neko-chan hasn't been with anyone 
-yet is enough for today.
+Not to mention, just getting to know that nobody's 
+laid a hand on her yet makes the visit worth it.
 
 //背景：ロビー
 ***BGround_BG01_01
 
 
-I've only just met Neko-chan recently, but she’s 
-all I think about now.
+Even though we only just met, all I can think of 
+is her.
 
-I'm really lucky to be able to easily make 
-reservations for such a cute girl multiple times 
-in a row.
+My luck must be amazing, to be able to book an 
+adorable girl like her everyday like this.
 
-When I get on better terms and get her to drop her 
-guard, I'll gently guide her for her first time...
+Once we're closer and she trusts me more, I can 
+just slowly and gently lead her....
 
 主人公
-『Oh...Neko-chan...』
+『Haaah.... Neko-chan....』
 
 ？？？(CH02_0000)
-『Ah, are you looking for Neko-chan?』
+『Oh my, are you looking for Neko-chan?』
 
-I suddenly stop, realising I was voicing my 
-thoughts, which someone nearby heard. I quickly 
-turn around to look.
+Judging by how close the voice was and realizing 
+that I almost bumped into someone, I stopped and 
+looking at the presence right before me.
 
 //兎萌立ち絵イン
 
 ***ST02_00_00_01_01_06
 
 ？？？(CH02_0001)
-『Are you okay?』
+『Are you alright?』
 
-I took a step back as I was too close to see. A 
-beautiful woman with a soft and fluffy atmosphere 
-is staring at me.
+I hurriedly took a step back and put some distance 
+between us. A girl with an aura just as soft as 
+her voice was standing there, looking at me.
 
 ***ST02_00_00_01_01_00
 
 主人公
-『S-sorry. I didn't notice...』
+『I-I'm sorry, I didn't notice....』
 
 ***ST02_01_00_00_01_00
 
 ？？？(CH02_0002)
-『Are you looking for Neko-chan's room? Or if you 
-have a concern, I can call the staff immediately.』
+『Are you looking for Neko-chan's room? Or perhaps 
+you're troubled by something? I can call the staff 
+over if need be.』
 
 主人公
-『Uh, no...I'm actually going home now...』
+『Ah, erhm, no... I was just about to head back 
+home....』
 
-It’s so embarrassing that someone heard me speak 
-to myself.
+I didn't know I was saying all that outloud. How 
+embarrassing.
 
-Yet my eyes were glued to her soft-like face, 
-gaze, and appearance.
+Her gaze and appearance was so gentle and soft, I 
+couldn't take my eyes off her.
 
 ***ST02_20_00_06_06_00
 
 ？？？(CH02_0003)
-『Oh, are you a customer who recently chose 
-Neko-chan?』
+『Oh, perhaps, are you the customer that's been 
+patronizing Neko-chan a lot lately...?』
 
 主人公
-『Ah, yeah...I guess.』
+『Ah, yes... I suppose I am.』
 
-If you look closely, the long ears covered with fine 
-hair stand out from between her hair. I wonder if she's 
-a rabbit demi-human...Is she also a cast member of Demi Cafe?
+Looking at her closer, there's a long fluffy pair of ears wrapped 
+in smooth hair poking out of her head. I wonder if she's a rabbit 
+demi-human... I guess that means she's one of the cast here too, huh?
 
 ***ST02_02_00_01_01_00
 
 ？？？(CH02_0004)
-『I'm sorry for asking you a lot of questions 
-without introducing myself. My name is Tomoe, I’m 
-a cast member here.』
+『I'm sorry for asking so many questions without 
+even telling you my name. I'm Tomoe, a cast member 
+here.』
 
-Tomoe-san...she gives off a calm and gentle 
-atmosphere. It wouldn't be right to call her 
-Tomoe-chan.
+Tomoe... san. A cutesy word like "chan" doesn't 
+fit her mature and gentle charm.
 
 ***ST02_00_00_01_01_00
 
 兎萌(CH02_0005)
-『I didn't mean to eavesdrop, but I heard the name 
-“Neko-chan” and thought maybe...』
+『I didn't mean to eavesdrop on you, but I just... 
+I heard Neko-chan's name, so I thought that 
+maybe...』
 
 ***ST02_00_00_01_01_00
 
 兎萌(CH02_0006)
-『“I misheard you...heehee. Thank god. Are you in a 
-rush now?』
+『But I could have just misheard, so... Fufuh, I'm 
+glad. Uhm, are you in a rush right now?』
 
 主人公
-『No, I have time. I came here a moment ago, but I 
-couldn't get along with Neko-chan, so I thought 
-I'd try again...』
+『No, I have some time. I just came over a bit ago. But 
+I really couldn't get her to open her heart to me, so I 
+thought I'd head back home and try again another day...』
 
-If it was really important the office would call. 
-Whatever, I'm more interested in Tomoe-san, who 
-knows about Neko-chan.
+If it was a serious rush, they'd call me. Forget 
+that, I'm more interested in her, she seems to 
+know Neko-chan.
 
 ***ST02_00_00_02_01_00
 
 兎萌(CH02_0007)
-『Oh dear. Well, I'm in the middle of the walkway. 
-If it's okay with you, could we talk over here...』
+『My oh my... Uhm, I do think we're blocking the 
+pathway for others, so if you would follow me...』
 
-Tomoe looks towards the corner of the lobby and 
-leads the way.
+She signalled towards a corner of the lobby and 
+walked off, as if leading the way to me.
 
 //画面、一旦暗転など
 ***BGround_BG99_01
 ***FadeInBlack
 
-----
+---------------
 
 ***FadeOutBlack
 ***BGround_BG05_01
 ***ST02_30_00_02_01_30
 
 兎萌(CH02_0008)
-『Thank you very much for choosing Neko-chan.』
+『Thank you very much, for always patronizing 
+Neko-chan.』
 
-After suddenly being bowed to deeply, I 
-unintentionally stared at Tomoe-san with wonder, 
-who spoke like the staff.
+Suddenly being given a very formal bow, I stared 
+in wonder at Tomoe-san, who was talking as if she 
+was one of the staff.
 
 ***ST02_30_00_01_01_30
 
 兎萌(CH02_0009)
-『Was I a little too formal? I started working here 
-at the same time as Neko-chan and I’ve been 
-getting along with her very well.』
+『Was that a bit too stiff, I wonder? I joined here 
+at the same time as her, so we're quite close to 
+each other.』
 
 主人公
-『Is that right? Does Neko-chan laugh a lot in 
-front of Tomoe-san?』
+『I see... Uhm, say. Does Neko-chan laugh when 
+she's with you, Tomoe-san?』
 
 ***ST02_30_00_05_00_30
 
 兎萌(CH02_0010)
-『Of course. Neko-chan is doing her best, but it seems 
-like there have been a lot of customers who are a 
-little too aggressive lately...so she tends to turn them down.』
+『Of course. ...I believe she's doing her best in her own little way, 
+however the past few clients that have visited her have apparently 
+been a bit too aggressive so... she tends to shut herself in quite easily.』
 
-After learning that Neko-chan could also laugh 
-energetically, I was relieved rather than feeling 
-down that I wasn’t the first.
+When I heard that Neko-chan laughs happily too, 
+rather than feeling depressed over the difference 
+in how she acts around me, I felt more relieved instead.
 
 ***ST02_30_00_01_01_30
 
 兎萌(CH02_0011)
-『I've been busy for the past few days, and I 
-haven't been able to talk to her about her 
-problems like before...』
+『But lately, I've seen her moving around busily, 
+yet she hasn't come to me much to ask for advice 
+regarding her clients either so...』
 
 ***ST02_30_00_02_01_30
 
 兎萌(CH02_0012)
-『I'm glad she was blessed with someone like you. 
-I'm sorry for surprising you by bowing so 
-suddenly, heehee.』
+『Knowing that she's been blessed with such a good 
+client made me happy too. I'm sorry for surprising 
+you with that bow earlier, fufuh.』
 
-…I don’t think I’m one of those customers she 
-mentioned earlier, right?
+...So she hasn't gone to her to complain about my 
+daily bookings, or how I treat her, huh?
 
 主人公
-『Hearing that from you makes me want to be a good 
-customer for Neko-chan. Otherwise, she might get 
-fed up and quit Demi-Cafe...』
+『You know, hearing you say that just makes me want 
+to be a better client to her even more. Else, she 
+might get fed up and quit out of nowhere someday...』
 
-I've read online that some cast members move to 
-another club because of certain customers they 
-don't like.
+I've read online about that happening before, how 
+some hostesses get annoyed by certain customers to 
+the point of quietly transferring to another club.
 
-I'm sure Neko-chan is in great demand.
+And knowing Neko-chan, she'd be in high demand 
+too.
 
 ***ST02_30_00_05_00_30
 
 兎萌(CH02_0013)
-『Hmm...I don't think she can, so it's weird for me 
-to say this as a cast member, but please treat her 
-well.』
+『Nn~... I'm fairly sure she can't do that, so 
+while it may sound off coming from another one of 
+the cast, please do treat her well, okay?』
 
-Asking in such a gentle tone and voice...you'd 
-naturally want to accept. But the words "don't 
-think she can" stuck out in my mind.
+Seeing her ask me that so nicely and sweetly makes 
+me want to do it even more. But what she said 
+threw me off.
 
 主人公
-『...don't think she can?』
+『...Can't?』
 
 兎萌(CH02_0014)
-『Maybe 'don't think she will' is a better way to 
-put it. Ah, please don't tell anyone you heard 
-this from me.』
+『I suppose "won't" would be more apt. Ah--, please 
+do keep that a secret though, that I was the one 
+who told you that.』
 
-While gently looking at me, Tomoe-san had a little 
-worried look in her eyes. I nod.
+She restated it softly, yet I heard a bit of panic 
+in her voice. I could only nod.
 
 兎萌(CH02_0015)
-『“Actually, I also suggested she quit. But she said 
-that no matter what, she has to do her best 
-here...that the only people she can rely on are here.』
+『I've actually told her to do the same before. But she 
+just said that she has to make it work, no matter what. 
+...Apparently, this is the only place where her kin are.』
 
 ***ST02_30_00_05_01_30
 
-She said with compassionate intent.
+She looked at me with earnest eyes.
 
 兎萌(CH02_0016)
-『Sorry, I don't know the details. I'd be glad if 
-you could be with Neko-chan for a long time.』
+『Even I don't know the details... I'm sorry. I 
+hope you can be a good client to her, one that 
+patronizes her for a long time.』
 
-As soon as she finishes talking, her calm and 
-fluffy atmosphere returns.
+As soon as she was done saying that, her soft and 
+fluffy aura came back.
 
 ***ST02_30_00_00_27_30
 
 兎萌(CH02_0017)
-『If you choose me, I'll give you plenty of service 
-in return for looking after Neko-chan.』
+『If you ask for me one of these days, I might just 
+make it up to you for it too, by serving you 
+plenty.』
 
-With a sudden sweet smile and tone, she startles 
-me. My feelings towards Neko-chan began to falter.
+Her sudden sweet smile and tone made my heart skip 
+a beat. My singlemindedness towards Neko-chan 
+almost faltered.
 
 主人公
-『W-well, I have to go now...』
+『W-Well then, I have to go now...』
 
 ***ST02_30_00_01_02_30
 
 兎萌(CH02_0018)
-『Please come visit again.』
+『Please do come see us again.』
 
 //兎萌ハケ
 
 ***FadeInBlack
 ***BGM_FadeOut
 
-I left the club with warm and kind words, 
-completely different from Neko-chan.
+I left the club with sweet words full of emotions 
+sending me off, unlike with Neko-chan.
 
 ***ST02_00_00_01_02_05
 
@@ -629,28 +645,28 @@ completely different from Neko-chan.
 ***BGround_BG99_00
 ***FadeOutBlack
 
-According to Tomoe-san's story, Neko-chan is 
-apparently lonely and there's no place for her to 
-go other than the Demi-Stage Cafe.
+From what she said, Neko-chan has nowhere else to 
+go, with her only kin being here in Demi Stage 
+Cafe.
 
-So, even if she finds out my true motives, she 
-won't go to another place. Or rather, she can't. 
-That's why she's doing her best.
+That's why, even if I stopped hiding my desires, 
+she won't go to another club, or rather, she 
+can't. That's why she's trying her best.
 
-...I want to do a lot of things too. But that's 
-after Neko-chan is able to give me an earnest 
-smile.
+...It's not like I don't want to do lots more 
+myself. But for now, I'll focus on trying to make 
+her laugh and be more comfortable around me.
 
-I quickly made a reservation to choose Neko-chan 
-tomorrow. The club's customer treatment is 
-particularly better from the 4th visit.
+I went to the counter right away and made another 
+appointment for tomorrow. The store's treatment of 
+clients gets even better after the 4th visit.
 
- The booking went smoothly, and it was possible to 
-have her for the whole day. Let's go see Neko-chan 
-again tomorrow.
+It went smoothly, I could even book her for the 
+entire day if I wanted to. Let's see her again 
+tomorrow.
 
 
-Next day--
+--The next day--
 
 ***BGround_BG00_00
 
@@ -660,35 +676,39 @@ Next day--
 ***BGround_BG01_01
 ***BGM_Mad_Trick
 
-Work finished early today so I arrived at the club 
-a little early. Time to get past the reception’s 
-pleasantries.
+I wrapped up work much earlier today, and got to 
+the club a bit early. Time to deal with the 
+reception.
 
-As soon as I asked for Neko-chan at the reception, 
-the staff member’s expression changed.
+The moment the words about having reserved 
+Neko-chan left my mouth... the staff's expression 
+changed.
 
 スタッフ
-『I am terribly sorry, sir. We certainly did make 
-your reservation, but it seems something went wrong 
-in the system, so she's not available at the moment...』
+『We're very very sorry, sir. Indeed, you certainly did 
+reserve her for today, however... it seems that there was 
+a misunderstanding somewhere, and she's already booked...』
 
 主人公
-『What? When I called, you said she was free all 
-night...』
+『Eh? But when I called, you said she was available 
+all night...』
 
 スタッフ
-『“It is our mistake, so we will not charge you on 
-the next visit. Please bring this.』
+『It was a blunder on our end, so please do accept 
+our apologies. Please, the fees for your next 
+visit will be waived. Please do wait a moment.』
 
-I received a card with an earnest apology. I guess 
-if I show this, the next visit will be free.
+I received both an earnest apology and a card too. 
+I guess the next visit's gonna be on the house if 
+I show this?
 
-Furthermore, I had Neko-chan’s next appointment 
-booked out, and after being apologized to, I had 
-no choice but to leave.
+They even confirmed my booking for tomorrow, and 
+apologized even more, so I had no choice but to 
+back off.
 
-I have my doubts, but there's nothing I can do. 
-I'll drop by the toilet before going home.
+I wasn't entirely convinced but I guess it is what 
+it is. I'll drop by the restroom before I go back 
+home.
 
 ***BGM_FadeOut
 
@@ -696,86 +716,86 @@ I'll drop by the toilet before going home.
 
 ***BGround_BG99_01
 
-When I finished using the toilet, two staff 
-members entered loudly, causing me to stop at the 
-door.
+The moment I was about to leave the stall after 
+doing my business, I heard two people walk in 
+while being loud and rowdy, and my hand stopped.
 
 ***BGM_マーブルコーヒー
 
 
 スタッフＡ
-『*Sigh*“I've never seen the manager turn pale and 
-run before. The other leaders also followed 
-suit...』
+『Haah, I think that was the first time I've ever 
+seen the boss run out like that. The other 
+managers were right behind too...』
 
-So it's the staff making all the fuss, huh? 
-...This is an awkward time to go out. What's more 
-is that they're only having pointless chatter.
+So it's the staff, huh? I guess that's why they're 
+so loud. ...Man, it's hard to get out now. Not to 
+mention, they'd probably just hold me up too.
 
 スタッフＢ
-『It's Neko, right?』
+『It was Neko, wasn't it?』
 
-...Huh? Neko-chan?
+...Eh? ...Neko-chan?
 
 スタッフＡ
-『Yeah, that Neko. Of all people, why did they 
-choose her to take on the best VIP? She doesn't 
-handle customers well or even "service" properly!』
+『Yep, that girl. Just why the hell did they assign 
+someone like her, who doesn't even know the 's' of 
+'service', to the biggest VIP we have?』
 
 スタッフＢ
-『No clue, but I heard that a customer here 
-suddenly asked for Neko.』
+『God knows. From what I heard, they asked for her 
+by name, apparently.』
 
-I listened carefully. Now I knew why my 
-reservation was cancelled and the cause of the 
-reception staff's attitude.
+My ears perked up. ....That explains why my 
+reservation was cancelled, and the staff's 
+attitude at the reception.
 
-Someone who has a strong hold over the club came 
-and called for Neko-chan.
+It was because someone very important for the club 
+came and asked for Neko-chan.
 
 スタッフＡ
-『Oh, Neko...it's over for her. She’s going to get 
-fired. Or maybe just a scolding?』
+『Ah, she's done for. She's gonna be fired for 
+sure. Either that or she's probably being chewed 
+out right now.』
 
-I don't know the details, but Neko-chan made a 
-huge mistake to this big shot customer.
+They didn't mention the details, but what I did 
+understand now was that she made a ridiculously 
+big mistake.
 
 スタッフＢ
-『Customers are leaving because of her attitude, 
-and the only one left for her is this new 
-person...』
+『After all, with all her clients drying up one 
+after another thanks to her attitude, she's only 
+got one left, and he's a new one too...』
 
-That's probably me. Is this what Tomoe-san was 
-thanking me for?
+That's probably me. I guess that's why Tomoe-san 
+was being so lavish with her thanks.
 
 スタッフＡ
-『“If she doesn't get fired, she'll probably be put 
-through training to provide thorough 
-entertainment, including the 'service'".』
+『Even if her head doesn't land on the chopping 
+block, she's probably gonna be disciplined hard, and 
+made to 'service' her clients thoroughly going forward.』
 
-That service is probably the best selling lead-in 
-behind the scenes, where you can do all sorts of 
-things.
+...They're probably referring to the more depraved 
+behind-the-scenes stuff, that brings in the 
+customers here.
 
-You can tell from looking at the rooms. So the 
-rumors on the net were true.
+I guessed as much from the room but, the rumours 
+really were true, huh?
 
 スタッフＢ
-『I wonder if the kid can do it, considering she 
-doesn't even know the selling point of this 
-club...』
+『The question is, will she be able to do it? 
+Considering how naive she is about this place....』
 
 スタッフＡ
-『She has to, otherwise we can't make up for this 
-mistake. If the VIP leaves, this will be the least 
-of our problems.』
+『She has to, else we can't fix this. If the VIP 
+distances himself from us, we might end up in a 
+bigger shitstorm.』
 
 スタッフＢ
-『*Sigh* "If that happens, our salaries may be in 
-danger...』
+『Haa... God knows if we'll get our paycheques if 
+that happens...』
 
-The two left the toilet with a masochistic 
-laughter.
+Laughing bitterly, they both left the restroom.
 
 ***BGM_FadeOut
 
@@ -784,70 +804,72 @@ laughter.
 ***BGround_BG00_00
 
 
-I quietly left the club so I wasn't seen by the 
-staff.
+From the restroom to the exit, I made my way out 
+stealthily so that I wasn't noticed by the staff.
 
-Recalling the conversation I just heard and the 
-story from Tomoe-san, I began to feel gloomy...
+That story from earlier, and what Tomoe-san said 
+to me... remembering them suddenly made me feel 
+gloomy.
 
-Even if customers overlook her, it won't be long 
-before people start to notice.
+Even if the other customers don't notice her now, 
+it might not last...
 
-At this rate, Neko-chan may get broken in by 
-another man. I want to avoid that.
+At this rate, someone else might 'take' her first. 
+I'd rather avoid that, if possible.
 
-That's it...
+...Right, there's one option.
 
-Everything should be okay if I keep choosing 
-Neko-chan for her entire shift, from opening to 
-closing.
+If I book her everyday, from opening to closing 
+time, it might just work out.
 
-Then rumors about Neko-chan offering service will 
-be kept secret.
+If I do that, the rumours about her and her 
+particular 'services' probably won't get out.
 
-Fortunately, I have a decent amount of savings, 
-since I have a nice job, with no hobbies or 
-relationships.
+Thankfully, I've got a decent job, and 0 hobbies 
+and friends too, so my savings are pretty deep.
 
-She won't get fired if she can make money.
+If she starts making money, they probably won't 
+fire her either.
 
-Because of the current situation, Neko-chan will 
-be much more likely to offer better customer 
-service.
+With the situation being like this, she'll 
+probably be a whole lot more proactive about 
+serving me too.
 
-She might even come onto me...What would I do 
-then? My expectations and delusions begin to grow.
+She might even come onto me... I wonder what I'd 
+do in that situation? ...My expectations and 
+fantasies run wild.
 
-No, no, what am I thinking? I should be worried 
-about Neko-chan, who is in a tough spot.
+No no no, the hell am I thinking? I should be more 
+concerned about Neko-chan right now...
 
-I rushed home, conflicted between selfish, 
-perverted delusions and the desire to be a 
-gentleman.
+I rushed down the road home, conflicted between my 
+desire to be a gentleman and my other, more 
+selfish and perverted desires.
 
 //背景：黒画面
 
 ***BGround_BG99_01
 ***BGM_異次元のセピア
 
-The next day, when I called the Demi Cafe to make 
-a reservation, they apologized again because 
-Neko-chan was not available.
+The next day, when I called into the Demi Stage Cafe 
+to confirm my reservation, I received yet another 
+apology, and was told that I couldn't book Neko-chan.
 
-When I asked if it was her day off, they said yes, 
-and recommended another cast member. I can't tell 
-them that I know what happened yesterday.
+When I asked if she was on holiday, they immediately 
+said yes, and recommended other cast members. I can't 
+exactly tell them that I know what happened yesterday.
 
-I'm worried after what happened. I hope that her 
-day off is just an excuse and they don't do 
-anything crazy to her...
+I'm getting worried now. I hope they're not 
+forcing anything ridiculous upon her while using 
+the holiday as an excuse...
 
-The next day, and the day after that, it was the 
-same response, which made my worries and anxiety 
-grow more and more.
+I got the same response the next day, and the day 
+after that too. The anxiety born out of my worries 
+and my desires just kept growing.
 
-And on the next day, I was finally able to make a 
-reservation. I can see Neko-chan.
+Finally, on the day after that, I was able to get 
+a booking in. ...I can see her, I can see 
+Neko-chan.
 
 
 
@@ -857,12 +879,12 @@ reservation. I can see Neko-chan.
 ***BGround_BG01_01
 ***BGM_Mad_Trick
 
-I rush through reception and hurry towards 
-Neko-chan's room with excitement.
+I deal with the reception while calming down my 
+throbbing emotions, and hurry to Neko-chan's room.
 
-I've had nothing but delusions, expectations, and 
-worries these past few days, and now I just want 
-to look at her face to feel at ease.
+These past few days, I've been expecting and 
+fantasizing and worrying a whole lot but for now, 
+I just want to see her face and relax.
 
 ***BGM_END
 
@@ -873,176 +895,181 @@ to look at her face to feel at ease.
 //背景：音瑚の部屋
 ***BGround3D_BG00_01
 
-As soon as I opened the door, she ran up to me.
+The moment I opened the door, she ran up to me 
+with tiny steps.
 
 //音瑚立ち絵イン
 
 ***ST01_00_00_01_01_00
 
 音瑚(CH01_0025)
-『Wel-welcome. Thank you for coming to play again 
-today.』
+『W--, Welcome. Thank you for coming to see me 
+again today.』
 
 ***ST01_00_00_01_01_00
 
 音瑚(CH01_0026)
-『C-Come. Have a seat...please?』
+『C-C'mon. Sit down... okay?』
 
-She offers me a seat before looking at me.
+Before I can even get a good look at her and see 
+how she's doing, she offers me a seat.
 
 ***ST01_00_00_01_01_05
 
 
 主人公
-『Thank you.』
+『Thanks.』
 
 ***ST01_50_00_01_01_50
 
 音瑚(CH01_0027)
-『Hmm. That...umm, please enjoy. I-I'll do my 
-best...』
+『Nn--! Uhm--... no, I mean, erhm, enjoy yourself. 
+I-I'll try my best... too, so.』
 
-She sounds awkward, but this is probably Neko-chan 
-trying her best at customer service.
+It does come off a bit awkward but, she's probably 
+doing her best in her own way here.
 
-I'm relieved that she didn't look overtly beaten 
-up.
+From what I could see anyway, she didn't look hurt 
+or injured at all, which was a big relief to me.
 
 ***ST01_50_00_06_00_50
 
 音瑚(CH01_0028)
-『Why are you suddenly staring at me?』
+『What's got you staring at me?』
 
-She's cheerful and supportive. Let's not show her 
-that I know about what happened the other day.
+She's finally being cheery for once. Alright, 
+let's not show her even a single hint that I know 
+about the matter from the other day.
 
-No sighs and glares yet. This change...there's no 
-mistaking it - she got a big scolding.
+Forget sighing, she's not even scowling at me. 
+That's a big change, I bet she was chewed out a 
+lot.
 
-Let’s try not to betray Neko-chan yet. I want to 
-be a gentleman to her for the time being.
+Alright, time to bury my desires deep inside, I 
+can't betray her. For now, I want to keep being a 
+gentleman to her.
 
 主人公
-『Ah, I was just thinking how energetic and happy 
-you are. I'm glad to see you.』
+『Nothing, I'm just happy to see you so lively, 
+that's all. I'm really happy to see you today.』
 
 ***ST01_50_00_00_01_50
 
 
 音瑚(CH01_0029)
-『M-Me too, I guess...』
+『M-Me too... I guess.』
 
-In the moment I quietly mumbled, Neko-chan came a 
-little bit closer. A wonderful scent tickles my 
-nose.
+The moment she mumbled that, she scooched over a 
+bit towards me, vigorously. Her soft scent tickled 
+my nose.
 
-Her surprising reply and nice fragrance didn't 
-just fluster me, it made me aroused. I can't take 
-this.
+The surprise attack and the sweet fragrance went 
+beyond making my heart skip and ended up arousing 
+me too. ...I can't do this.
 
 主人公
-『Oh right, I didn't order anything yet because I 
-was in such a rush. I'll order now. Are you okay 
-with drinks?』
+『Right, I came here in a rush so I didn't order 
+anything. I'll place an order now. Want something 
+to drink?』
 
 ***ST01_50_00_00_05_50
 
 
 音瑚(CH01_0030)
-『Ah, I don't really like alcoh...err...um...The 
-alcohol in this cafe is pretty pricey, so you 
-don't have to order it...』
+『Ah--, I can't do alco...--!... Erhm... uhm.... 
+the alcohol here is... v-very pricey so, you don't 
+need to, go out of your way to...』
 
-Looks like she's still wary. But I want to buy 
-into Neko-chan's efforts.
+Seems like she's still wary of me. But I want to 
+support her too, for all her efforts.
 
 主人公
-『I'm glad to see you again after such a long time, so 
-I just wanted to treat you. I know you're not a 
-drinker, but could you let me order even if you won't drink?』
+『It's been a while since we've seen each other, so I 
+just want to splurge on you. I know you don't like it 
+so you don't have to drink it, just let me order it?』
 
 ***ST01_50_00_20_05_50
 
 
 音瑚(CH01_0031)
-『Ah, thank you...』
+『--!... T-Thanks...』
 
-When I ordered and returned to my seat, Neko-chan 
-looked troubled. No reluctance when I try to sit next 
-to her. Looks as if she were staring out into the clouds.
+When I came back to the couch after placing the other, she 
+seemed somehow embarrassed. She wasn't telling me off for 
+trying to sit down next to her either. She looked somehow absentminded.
 
 ***ST01_50_00_00_05_50
 
 音瑚(CH01_0032)
-『Really...you don't have to overdo it. Oh, the 
-drinks are here. I'll get them!』
+『...Really... you don't have to do this for me, 
+you know... Ah, the drinks are here. I'll go get 
+them!』
 
 ***ST01_50_00_00_05_60
 
-I felt like I saw a little bit of her true self 
-and resisted the urge to smile. She might say 
-something again.
+Feeling like I saw her a bit of her real self just 
+there, I firmly suppressed the urge to smile, else 
+she might just scold me again.
 
 ***SE_FOOTSTEPS_Trainers_Asphalt_Run_x8_loop_mono
 
-It seems like she got the drinks.
+They handed the tray to her, looks like.
 
 ***ST01_50_00_00_05_50
 
-She comes back to her seat.
+She came back, and sat down.
 
 ***ST01_50_00_06_00_50
 
 
 音瑚(CH01_0033)
-『*Sniff* "Huh...what's this? It doesn't smell like 
-alcohol.』
+『...*sniff sniff*... Nn... huh? What is this...? 
+It doesn't smell very alcohol-y.』
 
-I ordered a cliche drink, Kahlua Milk. Neko-chan 
-is looking at the two glasses on the table with 
-great interest.
+What I ordered were one of the more cliche drinks, 
+Kahlua & Milk.  She put the tray down on the table 
+and looked at the glasses with curiosity.
 
 ***ST01_50_00_00_05_50
 
 
 音瑚(CH01_0034)
-『...Oh, right! Since you ordered it for me, I'll 
-cast a spell on it in return for not being able to 
-drink!』
+『...Right! Since you went out of your way to order 
+them, I... I can't drink it so, I'll cast a spell 
+on it instead!』
 
 主人公
-『Eh? You're gonna do that thing?』
+『Eh?... You'll do that for me?』
 
-Today might be the most surprising day. 'That 
-thing' is a performance where a girl presents a 
-drink with a cute gesture.
+That might be the most surprising thing for me 
+today. That 'spell' is a cute performance where 
+the girls presents you the drink with a cute gesture.
 
-This club is full of basic services like this, but 
-I was flat out refused when I pestered them about 
-it on my first visit.
+It's one of the basic services that this club is 
+full of but, when I pestered her for it the first 
+time I came over, she flatly refused.
 
 ***ST01_50_00_04_05_50
 
 音瑚(CH01_0035)
-『Yup! I'm not sure I can do it properly, but I am 
-a cast member here after all.』
+『Yeah! I-I dunno whether I can do it properly but, 
+I'm one of the cast here too, so--!』
 
 主人公
-『Are you sure? You don't have to force 
-yourself...』
+『You sure? You don't need to force yourself...』
 
 ***ST01_50_00_24_05_50
 
 
 音瑚(CH01_0036)
-『I'm not!』
+『I'm not forcing myself!』
 
-She changed so suddenly. I tried to help her out, 
-but it had the opposite effect. If she says she'll 
-do it, then okay.
+I tried to throw her a lifeline, but it had the 
+opposite effect. She's changed so much. But of 
+course, if she'll do it, I'm not gonna say no.
 
 音瑚(CH01_0037)
-『*Breathe* "Okay, here I go...』
+『Fuuh... then, here I go....』
 
 ***BGround_BG04_00
 ***Cinema_0100
@@ -1050,11 +1077,11 @@ do it, then okay.
 
 
 音瑚(CH01_0038)
-『Me...Meow Meow Meow! The Cat Magic sends you 
-energy and love!! Make it a very delicious 
-drink!!』
+『N... Nyan nyan nyan--! With my magical cat 
+powers, I'll fill it up with love and energy!! One 
+super tasty treat, coming right up~!!』
 
-I was a little captivated by it.
+I seriously got a bit captivated.
 
 ***Cinema_END
 ***ST01_50_00_20_06_50
@@ -1062,88 +1089,91 @@ I was a little captivated by it.
 
 
 主人公
-『Whoa...cute, as expected. Neko-chan, thank you 
-very much.』
+『Ooh... adorable. Thank you, Neko-chan, truly.』
 
 
 
 音瑚(CH01_0039)
-『...』
+『!!....』
 
 ***ST01_50_00_25_00_50
 
 
 音瑚(CH01_0040)
-『I-Itadakimasu!!!』
+『O-Okay, I'm not holding back--!!!』
 
 主人公
-『Huh?』
+『Eh?』
 
 ***SE_drinking1
-Without hesitation, the flush-faced Neko-chan 
-grabbed the glass and drank all at once.
+Before I could stop her, she picked up the glass 
+and gulped it down in one go with her face flushed 
+to her ears.
 
 ***ST01_50_00_26_00_50
 
 音瑚(CH01_0041)
-『Huh, this is...good...? It doesn't taste like 
-alcohol.』
+『H-Huh... it's tasty...? It doesn't taste 
+alcohol-y at all.』
 
 ***ST01_50_00_20_01_50
 
 
 主人公
-『But drinking it so suddenly...You're not good 
-with alcohol, right?』
+『But you gulped it down all at once... you can't 
+handle alcohol, no?』
 
 音瑚(CH01_0042)
-『But I feel perfectly fine. Unlike the clear 
-liquor, this has almost no taste of alcohol. Kinda 
-like coffee and milk...』
+『I feel fine though. Unlike the clear stuff, this 
+doesn't taste like alcohol at all. It's like milk 
+coffee...』
 
-Her face is still bright red, and I can't tell if 
-it's because she drank quickly."
+Her face was still so red, even I couldn't tell 
+whether that was the alcohol or what.
 
 音瑚(CH01_0043)
-『Look, try it. I'm not lying.』
+『C'mon, you try it too. It seriously doesn't taste 
+alcohol-y.』
 
 主人公
-『I know you're not lying.』
+『I know, don't worry.』
 
 ***ST01_50_00_21_02_50
 
 
 音瑚(CH01_0044)
-『It's good...right? Let's drink.』
+『I'm telling you, it's really tasty~... C'mon, 
+let's drink it together?』
 
 主人公
-『...I'd love to, but you're almost empty... I'm 
-glad you like it. Shall I ask for more?』
+『....I'd love to, but your glass is empty... but 
+I'm happy to see you like it so much. Want me to 
+order more?』
 
 ***ST01_50_00_22_02_50
 
 
 音瑚(CH01_0045)
-『Yeah! I'll drink.』
+『Sure--!! I'll drink more--』
 
 //黒画面
 ***BGround_BG99_01
 ***ST01_00_00_00_00_05
 
 
-----...
+---------........
 
-After that, I ordered two or three more drinks, 
-and she gulped them down while frolicking like a 
-kid.
+After that, I ordered two, three more glasses, and 
+she drank the alcohol she feared so much like a 
+little kid drinking juice.
 
-She even drank what was left in my glass and then 
-fell asleep, giving me no time to take pleasure in 
-that indirect kiss.
+She even gulped down the leftover bit in my own 
+glass, and before I could cheer at that indirect 
+kiss.... she fell asleep.
 
 ***SE_MOVEMENT_Snow_RR1_mono
 
-In any case, let's take her to the bed.
+For the time being, let's carry her to the bed.
 
 //ここからシネマ
 
@@ -1152,19 +1182,22 @@ In any case, let's take her to the bed.
 ***Cinema_0000
 
 音瑚(CH01_0046)
-『Zzz...zzz...zzz...』
+『Zzz....--!.... Zzz.... Zzz....』
 
 
 ***LoopCV_0000
 
 
-She seems to be sleeping peacefully. She doesn't 
-handle alcohol well, right...?
+She atleast looks like she's blissfully asleep. 
+She said she couldn't handle alcohol, didn't 
+she...?
 
-It would be bad if something happens, so I'll 
-stick around. She's just...sleeping, right?
+God knows what'd happen if I just left her be, so 
+I might as well stick around. She's... just 
+sleeping, right?
 
-I was a little worried, so I poked her cheek.
+Guess I'll try poking her cheek and see if she 
+reacts.
 
 
 ***Cinema_0001
@@ -1172,120 +1205,122 @@ I was a little worried, so I poked her cheek.
 
 
 音瑚(CH01_0047)
-『...M...meow...ah, fuu...』
+『....Nnn... Nnyah.... ah, fuuh....』
 
-Thank god. She doesn't seem to be in a coma from 
-all the drinking. Even so, her skin is so soft.
+Great. Atleast it's not alcohol poisoning or 
+anything. Still though, she's got such soft skin.
 
-It's a little moist, warm to the touch, and looks 
-like it would stick to my fingertips.
+It's so moist and hot, I can almost feel it 
+clinging to my fingers.
 
-Right as I thought about it, the lower half of my 
-body reacted.
+Now my crotch's acting up too.
 
-Now you can touch her. It's okay, just a touch.
+I could probably get away with touching her right 
+now. It'll be fine, it's just some light 
+touching...
 
 ***Cinema_0002
 
 
-Ooh...it feels so smooth and slippery, it's hard 
-to comprehend.
+Ooooooh.... it's so moist yet so smooth and slick, 
+I can't even describe it properly.
 
-How about her chest...
+Let's see, her chest....
 
 ***Cinema_0003
 
-Whoaaaa...a superb feeling, as I expected. No, 
-better than expected! I honestly want to lick 
-them. I want to keep playing with them.
+Uwooooooh... as superb a feel as I expected. No, 
+it's better. I wanna lick them. I want to play 
+with them all day.
 
 音瑚(CH01_0048)
-『Zzzz...zzz...n...』
+『Zzz.... Zzz... Nnn....』
 
 ***Cinema_0004
 
 
-Oh, shit. Did I wake her? What should...
+Woah, that was close. Is she up again? I can't 
+tell...
 
 音瑚(CH01_0049)
-『Meo...zzz...oo...zzz...nn...zzz...』
+『Nyuh~... zzz..... !... zzz.... Nnn... zzzz....』
 
-Safe...I'll wake her up after one more touch. Just 
-one last touch...
+Phew... J-Just one more time, let's wake her up 
+after that, yeah. Just once...
 
 ***Cinema_0005
 
 
 音瑚(CH01_0050)
-『Ah, ngh...ahh...』
+『Fuh, ah--... ah... nn....』
 
-I was completely erect from her voice...I was 
-looking and touching up close and getting ready 
-for action, but caught fire.
+Those moans just made my man stand up straight... 
+I mean, it was already getting ready for a war, 
+given all this but, I'm actually feeling the heat now.
 
-It's curling up in my pants and it hurts. It 
-doesn't look like she'll get up yet. I wanna pull 
-it out while touching her thighs...
+It's so erect, it actually kinda hurts. It doesn't 
+seem like she's gonna wake up just yet either, I 
+wanna take it out while touching her thighs...
 
 
 ***Cinema_0006
 
 
 音瑚(CH01_0051)
-『...Zzz...Zzz...』
+『....Zzz.... zzz....』
 
-Soft, plump, and sexy. But she doesn't respond as 
-much as her chest. So Neko-chan's most erogenous 
-zone is her chest...
+Soft, squishy, and sexy. But she isn't reacting as 
+much. I guess her chest's her most sensitive part, 
+huh...
 
-No good. I can't stand it anymore...Hard...She'll 
-definitely notice if I put it in. But it's a waste 
-for me to keep stroking like this. It's pitiful.
+Not good, I can't take it anymore--... it's too much--.... 
+She's not gonna keep sleeping if I put it in either. But 
+just stroking it like this feels wasteful too. It feels pathetic.
 
 ***Cinema_0007
 
 
 主人公
-『I can't put it in...』
+『I-I can't put it in, so...』
 
 ***Cinema_0008
 
 
-While paying close attention to her reaction, I 
-take out my overwhelmingly hard cock. When I rub it 
-against her plump thighs, the precum acts as a lotion.
+While watching her every reaction very carefully, I 
+took out my thing. Rubbing it against her thighs is 
+making so much pre-cum gush out. I can use it as lotion.
 
 主人公
-『Mmmm...』
+『!... Hah....』
 
-The head is getting sucked in between the legs 
-more easily than I expected, and it feels tight 
-around my dick, with her soft skin so warm.
+Her soft, warm skin is wrapping around my rod, 
+with the head of it effortlessly burying itself 
+inside.
 
-It feels good...so slippery...
+It feels so good... So smooth and slippery....
 
 ***Cinema_0009
 
 
 音瑚(CH01_0052)
-『Hmm...zzz...,...zzz...』
+『Nnn... Zzz... zzzz...』
 
 I want to thrust hard. As hard as I can. But I 
-want to keep savoring this indescribable feeling.
+want to keep savouring this sensual pleasure too.
 
-I'm dry humping Neko-chan. With a cute sleeping 
-face, I've probably touched skin and thighs that 
-no one has before... Good...very good.
+I'm dryhumping her. Grinding against her soft 
+thighs, while she lays there with a cute face. 
+Feeling the skin probably nobody else has, ever...
 
 
-I want to cum on her face...But if I move too 
-much, she'll get up. And yet I can't stop. I'm 
-cumming...
+I want to cum on her face... but if I move that 
+much, she'll wake up. But I can't stop. I'm 
+gonna, cum--...
 
 ***Cinema_0010
 
 主人公
-『Ah...』
+『Uu--...』
 
 //射精、ぶっかけ
 
@@ -1293,131 +1328,136 @@ cumming...
 ***Cinema_0011
 
 音瑚(CH01_0053)
-『Hmm...uhh...huh...?』
+『Nnn--.... Haah... huh...?』
 
 ***BGround_BG99_00
 ***Cinema_END
 
-...She woke up. And I'm stuck in this sort of 
-position, my cock still pulsing and shooting out 
-cum.
+...She's up. And I almost got done cumming too. My 
+dick's still erect, still pushing out the last 
+little bit of sperm.
 
 音瑚(CH01_0054)
-『Hmm...what...water? Was I sleeping...?』
+『Nn~... what... water? ...Did I... fall 
+asleep....?』
 
 
 
 音瑚(CH01_0055)
-『Eh...what is this...it smells...eh?!! No 
-way...What is this?!!』
+『Eh... what is this... ew--... eeeeeh?! ...--No 
+way.... what is this--??!』
 
-What great timing...What should I do...
+Why now, why right now... What do I do...
 
 音瑚(CH01_0056)
-『Eh...you, what are you...eh, eh...no no no...what 
-are you doing?!』
+『Huh... what, were you... eh--, eh--... no, what 
+are... what are you doing--!!』
 
 主人公
-『No, uh, this is...』
+『No, well, this is...』
 
 ***BGround3D_BG00_01
 ***ST01_00_00_03_03_00
 
 
 音瑚(CH01_0057)
-『You must be joking!! What filthy thing did you do 
-to me? It's slimy... hey! What is the meaning of 
-this?!』
+『You can't be serious!! Don't show me that awful 
+thing, what did you even put on me? It feels 
+slimey... hey! What is this!!』
 
 主人公
-『Well, that's because Neko-chan...tempted me...』
+『Uhm, it's because you... tempted me so 
+aggressively... Neko-chan....』
 
 ***ST01_40_00_03_03_00
 
 
 音瑚(CH01_0058)
-『Huh?! Like hell I would!! I-I was just responding 
-nicely, and there's nothing lewd about it. I'm not 
-tempting you at all! How dirty!』
+『Haah--?! ~~Why the hell would I ever--!! I-I was just, 
+trying to serve you more assertively for once, I 
+didn't... I didn't mean anything dirty by it--!! You're filthy!』
 
 主人公
-『Generally one would be on guard when falling 
-asleep in this type of situation...』
+『I mean, you were the one who fell asleep without 
+any sort of vigilance, so...』
 
 音瑚(CH01_0059)
-『I just fell asleep because of the alcohol! Don't 
-get me wrong!』
+『It was the alcohol, not me, I'm not used to it! 
+Don't twist things to make them more convenient 
+for you!』
 
 音瑚(CH01_0060)
-『Just hurry up and stop with the indecency 
-already! I'm calling the staff!』
+『Just put that filthy thing back inside already!! 
+I'll go call the staff!』
 
-Shit. Calling for the staff here would be 
-catastrophic, let alone no one would save 
-Neko-chan...
+Damn. If she calls the staff in, forget saving 
+her, she's gonna be directly ruined....
 
-I don't know what to do. I'm in a panic and can't 
-think straight. Before I knew it, I was yelling 
-out loud.
+Not knowing what to do, my head started spinning. 
+Before I realized it, I was shouting at her.
 
 主人公
-『This is that kind of place! And you messed up big 
-time the other day, right? Now you have to do it 
-with customers, right?!』
+『That's the sort of place this is!! Not to mention, 
+you messed up big time the other day, didn't you? 
+You were ordered to do it with customers or else, no?!』
 
 ***Face01_04_04
 
 音瑚(CH01_0061)
-『Why do you know that...』
+『--! How do you know tha....』
 
 主人公
-『I didn't mean to force myself on you, but if 
-you're taken by another guy...』
+『I was never planning on forcing myself on you, 
+Neko-chan. B-But if you're just gonna be taken by 
+someone else then...!』
 
-When Neko-chan spread her thighs, I could see my 
-stringy cum stretch.
+When she spread her legs, I saw my sperm stringing 
+out between her thighs.
 
-Her flushed face, and wonderful fragrance...they 
-overwhelm the senses. My dick surprisingly stood 
-up again.
+Her flushed face, and her scent that I sniffed 
+just a few minutes ago... it's all rushing to my 
+head. My dick's back to full power again, somehow.
 
 音瑚(CH01_0062)
-『You're right that I n-need to be chosen...but I-I 
-don't need THAT! I'm not going to resort to it! 
-Get out!』
+『I-I do... n-need customers to choose me, but--... 
+I-I don't need it to be you and your thing--! I'm 
+not gonna beg either--! Get out.』
 
-If I leave now, I won't be able to see her face 
-anymore. In fact, she'll surely be taken by 
-another man.
+If I leave right now, I'll probably never see her 
+face again. If anything, she'll just be taken by 
+someone else instead.
 
 
 ***Face01_03_03
 
 
 音瑚(CH01_0063)
-『“I said get out!! What are you looking at! Get 
-out!』
+『I'm telling you to get out!! The hell are you 
+looking at me for! Get out--!』
 
-Neko-chan, who doesn't understand the situation, 
-completely refused and blood rose to her head.
+Seeing her resist me so intensely without 
+understanding a single thing made blood rush to my 
+head.
 
 主人公
-『...! Neko-chan has no choice but to do it!!』
+『...--! The only choice you have is to do it with 
+me, Neko-chan!!』
 
 ***ST01_05_00_00_00_05
 ***BGround_BG99_01
 
 
-It's the same for me. If she's still going to 
-resist, I have no choice but to force it. No 
-choice but to make her understand...!
+It's the same for me. If she's going to resist this 
+much then I have no choice but to force it on her. No 
+choice, but to assault her and make her understand...!
 
 音瑚(CH01_0064)
-『No, what, what are you doing?! Don't come any 
-closer!!!』
+『No--, what--, what are you--?! Don't come 
+closer--!!!』
 
-Was it a protective instinct, greed, or just lust? 
-Without thinking, I pushed Neko-chan down.
+I didn't know whether it was out of a desire to 
+protect her, a desire to possess her, or just pure 
+lust. But in the end, I pushed her down.
 
 //レイプへ
 

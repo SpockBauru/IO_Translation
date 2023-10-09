@@ -76,8 +76,8 @@ FOV(視野角)=FOV (Field of view angle)
 男性器の表示=Male Genitals
 男性器の表示を変更します=Change the display of male genitalia
 
-主人公の服装=Hero Clothes
-主人公の服装を変更します=Change the Hero Clothes
+主人公の服装=Hero's Clothes
+主人公の服装を変更します=Change the Hero's Clothes
 着衣=Clothed
 裸=Naked
 
@@ -93,11 +93,11 @@ FOV(視野角)=FOV (Field of view angle)
 断面ウィンドウの表示を変更します=Change the display of the X-Ray Window
 
 擬音テキストの表示=Display Onomatopoeic Text
-擬音テキストの表示を変更します=Change the display of onomatopoeic text
+擬音テキストの表示を変更します=Show onomatopoeic text effects for noises (like in manga) in H scenes. Japanese language only.
 
 //=============== Graphic Settings 2 ================
 カスタム状態の反映=Apply customizations
-カスタム状態をADVで反映します=Apply customizations to story scenes.
+カスタム状態をADVで反映します=Apply character customizations to story scenes (default characters are always used if off).
 
 絶頂時の"尿"演出=Squirt at orgasm
 絶頂時に”おしっこ”を漏らす演出の有無を変更します=Toggle presence of squirting when a girl orgasms.
