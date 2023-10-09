@@ -4,7 +4,7 @@ English fan translation project for Insult Order. The translations are applied w
 
 ## Prerequisites
 
-- [BepInEx 5.4](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.8)
+- [BepInEx 5.4.22](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.22)
 - [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)
 - [Configuration Manager](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [IO_ResizeText](https://github.com/SpockBauru/SpockPlugins_Miconisomi/releases/tag/r5)
